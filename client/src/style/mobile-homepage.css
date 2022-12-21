@@ -1,0 +1,17 @@
+.mobile-homepage {
+    color: blue;
+    font-size: 20px;
+}
+
+.fade-in {
+    animation: fadeIn 1s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
