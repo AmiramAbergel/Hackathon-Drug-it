@@ -36,6 +36,7 @@ async function run() {
     return anchorsArray.map((anchor) => ({
       hebName: anchor.children[0].innerText,
       engName: anchor.children[1].innerText,
+      link: anchor.href,
     }));
   });
   console.log("getMedicines: ", getMedicines);
