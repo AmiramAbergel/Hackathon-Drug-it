@@ -2,7 +2,7 @@ import express, { json } from 'express';
 import { connectToDB } from './db/server.js';
 import indexRoute from './routes/index.routes.js';
 
-const app = express(); // Create our Express Application Object
+export const app = express(); // Create our Express Application Object
 
 const PORT = process.env.PORT || 3000;
 const BASE_URL = '/api/v1';
