@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Drug 1",
+        "activeIngredient": "Ingredient 1",
+        "indication": "Indication 1",
+        "dosage": "Dosage 1",
+        "pregnancyCategory": "Category A",
+        "manufacturer": "Manufacturer 1",
+        "approvedBy": "FDA"
+    },
+    {
+        "name": "Drug 2",
+        "activeIngredient": "Ingredient 2",
+        "indication": "Indication 2",
+        "dosage": "Dosage 2",
+        "pregnancyCategory": "Category B",
+        "manufacturer": "Manufacturer 2",
+        "approvedBy": "FDA"
+    }
+]
