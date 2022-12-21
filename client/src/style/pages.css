@@ -1,0 +1,115 @@
+.AboutPage {
+  background-color: #e8ebf7;
+  max-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.about-section {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-section h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.card {
+    background-color: rgb(194, 193, 201);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin: 20px;
+    width: 90vw;
+    min-height: 95vh;
+  }
+
+.ContactPage {
+  background-color: #e8ebf7;
+  max-width: 100vw;
+  height: 100vh;
+  color: #666;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(189, 185, 197);
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style the form elements */
+label,
+input[type="submit"] {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+  resize: vertical;
+  background-color: rgb(245, 243, 252);
+}
+
+/* Style the submit button */
+input[type="submit"] {
+  background-color: #544173;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 150px;
+}
+
+input[type="submit"]:hover {
+  background-color: #795387;
+}
+
+/* Add some responsive styles for smaller screens */
+@media (max-width: 500px) {
+  form {
+    margin: 0;
+    width: 90%;
+  }
+}
+
+@media (min-width: 501px) {
+.card{
+    
+    min-height: 70vh;
+}
+}
+@media (min-width: 1200px) {
+    .card{
+        
+        min-height: 50vh;
+    }
+}

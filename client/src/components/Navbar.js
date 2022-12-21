@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <nav className="navigation">
       <a href="/" className="brand-name">
-        Drug
+        Drug It
       </a>
       <button
         className="hamburger"
