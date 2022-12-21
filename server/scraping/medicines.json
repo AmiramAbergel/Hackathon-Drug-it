@@ -1,0 +1,4262 @@
+[
+  {
+    "hebName": "אדלימומאב (יומירה)",
+    "engName": "Adalimumab",
+    "link": "https://www.infomed.co.il/drugs/adalimumab/"
+  },
+  {
+    "hebName": "אלירוקומב (פראלואנט)",
+    "engName": "(Alirocumab (Praluent",
+    "link": "https://www.infomed.co.il/drugs/alirocumab-praluent/"
+  },
+  {
+    "hebName": "אמיסיזומאב",
+    "engName": "Emicizumab",
+    "link": "https://www.infomed.co.il/drugs/emicizumab/"
+  },
+  {
+    "hebName": "זרבקסה (ספטולוזאן/טזובקטם)",
+    "engName": "ZERBAXA HCL ceftolozane/tazobactam",
+    "link": "https://www.infomed.co.il/drugs/zerbaxa-hcl-ceftolozane-tazobactam/"
+  },
+  {
+    "hebName": "נוילפטיל (פריציאזין)",
+    "engName": "(NEULEPTIL (Periciazine",
+    "link": "https://www.infomed.co.il/drugs/neuleptil-periciazine/"
+  },
+  {
+    "hebName": "פרוקרבזין",
+    "engName": "Procarbazine",
+    "link": "https://www.infomed.co.il/drugs/procarbazine/"
+  },
+  {
+    "hebName": "אבולוקומב (רפאטה)",
+    "engName": "(Evolocumab (Repatha",
+    "link": "https://www.infomed.co.il/drugs/evolocumab-repatha/"
+  },
+  {
+    "hebName": "אבטספט",
+    "engName": "Abatacept",
+    "link": "https://www.infomed.co.il/drugs/abatacept/"
+  },
+  {
+    "hebName": "אבירטרון",
+    "engName": "Abiraterone",
+    "link": "https://www.infomed.co.il/drugs/abiraterone/"
+  },
+  {
+    "hebName": "אבקויר",
+    "engName": "Abacavir",
+    "link": "https://www.infomed.co.il/drugs/abacavir/"
+  },
+  {
+    "hebName": "אברולימוס",
+    "engName": "Everolimus",
+    "link": "https://www.infomed.co.il/drugs/everolimus/"
+  },
+  {
+    "hebName": "אדנוזין",
+    "engName": "Adenosine",
+    "link": "https://www.infomed.co.il/drugs/adenosine/"
+  },
+  {
+    "hebName": "אדפוביר",
+    "engName": "Adefovir",
+    "link": "https://www.infomed.co.il/drugs/adefovir/"
+  },
+  {
+    "hebName": "אדפלן",
+    "engName": "Adapalene",
+    "link": "https://www.infomed.co.il/drugs/adapalene/"
+  },
+  {
+    "hebName": "אדפלן + בנזואיל פראוקסיד (אפידו)",
+    "engName": "Adapalene + Benzoyl peroxide ( Epiduo)",
+    "link": "https://www.infomed.co.il/drugs/adapalene-benzoyl-peroxide-epiduo/"
+  },
+  {
+    "hebName": "אדרנלין (אפינפרין)",
+    "engName": "Adrenaline (Epinephrine",
+    "link": "https://www.infomed.co.il/drugs/adrenaline-epinephrine/"
+  },
+  {
+    "hebName": "אוזנימוד (זפוסיה)",
+    "engName": "OZANIMOD (ZEPOSIA)",
+    "link": "https://www.infomed.co.il/drugs/ozanimod-zeposia/"
+  },
+  {
+    "hebName": "אולופטדין",
+    "engName": "Olopatadine",
+    "link": "https://www.infomed.co.il/drugs/olopatadine/"
+  },
+  {
+    "hebName": "אולמסארטאן",
+    "engName": "Olmesartan",
+    "link": "https://www.infomed.co.il/drugs/olmesartan/"
+  },
+  {
+    "hebName": "אולנזפין (זיפרקסה, זאפה)",
+    "engName": "Olanzapine, Zyprexa, Zappa",
+    "link": "https://www.infomed.co.il/drugs/olanzapine-zyprexa-zappa/"
+  },
+  {
+    "hebName": "אולפריב",
+    "engName": "Olaparib",
+    "link": "https://www.infomed.co.il/drugs/olaparib/"
+  },
+  {
+    "hebName": "אומאליזומאב",
+    "engName": "Omalizumab",
+    "link": "https://www.infomed.co.il/drugs/omalizumab/"
+  },
+  {
+    "hebName": "אומגה 3 אתיל אסטר",
+    "engName": "Omega-3-acid ethyl esters",
+    "link": "https://www.infomed.co.il/drugs/omega-3-acid-ethyl-esters/"
+  },
+  {
+    "hebName": "אומפראזול (אומפרדקס, לוסק)",
+    "engName": "Omeprazole, Omepradex, Losec",
+    "link": "https://www.infomed.co.il/drugs/omeprazole-omepradex-losec/"
+  },
+  {
+    "hebName": "אונדאנסטרון (זופרן)",
+    "engName": "Ondansetron (Zofran)",
+    "link": "https://www.infomed.co.il/drugs/ondansetron-zofran/"
+  },
+  {
+    "hebName": "אוסלטאמיביר (טמיפלו)",
+    "engName": "Oseltamivir (Tamiflu)",
+    "link": "https://www.infomed.co.il/drugs/oseltamivir-tamiflu/"
+  },
+  {
+    "hebName": "אופטומומאב (קיסימפטה)",
+    "engName": "ofatumumab (Kesimpta)",
+    "link": "https://www.infomed.co.il/drugs/ofatumumab-kesimpta/"
+  },
+  {
+    "hebName": "אופלוקסאצין (אופלוקס, אופלודקס)",
+    "engName": "Ofloxacin",
+    "link": "https://www.infomed.co.il/drugs/ofloxacin/"
+  },
+  {
+    "hebName": "אוקטראוטיד",
+    "engName": "Octreotide",
+    "link": "https://www.infomed.co.il/drugs/octreotide/"
+  },
+  {
+    "hebName": "אוקסאזפאם (ואבן)",
+    "engName": "Oxazepam, Vaben",
+    "link": "https://www.infomed.co.il/drugs/oxazepam-vaben/"
+  },
+  {
+    "hebName": "אוקסולאמין",
+    "engName": "Oxolamine",
+    "link": "https://www.infomed.co.il/drugs/oxolamine/"
+  },
+  {
+    "hebName": "אוקסוממאזין",
+    "engName": "Oxomemazine",
+    "link": "https://www.infomed.co.il/drugs/oxomemazine/"
+  },
+  {
+    "hebName": "אוקסיבוטינין",
+    "engName": "Oxybutynin",
+    "link": "https://www.infomed.co.il/drugs/oxybutynin/"
+  },
+  {
+    "hebName": "אוקסיטטרציקלין",
+    "engName": "Oxytetracycline",
+    "link": "https://www.infomed.co.il/drugs/oxytetracycline/"
+  },
+  {
+    "hebName": "אוקסימטזולין",
+    "engName": "Oxymetazoline",
+    "link": "https://www.infomed.co.il/drugs/oxymetazoline/"
+  },
+  {
+    "hebName": "אוקסיקודון",
+    "engName": "Oxycodone",
+    "link": "https://www.infomed.co.il/drugs/oxycodone/"
+  },
+  {
+    "hebName": "אוקסיקודון + נלוקסון (טרגין)",
+    "engName": "NALOXONE + OXYCODONE (TARGIN)",
+    "link": "https://www.infomed.co.il/drugs/naloxone-oxycodone-targin/"
+  },
+  {
+    "hebName": "אוקסיקודון + פארצטמול (פרקוסט)",
+    "engName": "(PERCOCET) oxycodone + paracetamol",
+    "link": "https://www.infomed.co.il/drugs/percocet-oxycodone-paracetamol/"
+  },
+  {
+    "hebName": "אוקסליפלאטין",
+    "engName": "Oxaliplatin",
+    "link": "https://www.infomed.co.il/drugs/oxaliplatin/"
+  },
+  {
+    "hebName": "אוקסקארבאזפין",
+    "engName": "Oxcarbazepine",
+    "link": "https://www.infomed.co.il/drugs/oxcarbazepine/"
+  },
+  {
+    "hebName": "אוקרליזומאב (אוקרוואס)",
+    "engName": "OCREVUS) OCRELIZUMAB)",
+    "link": "https://www.infomed.co.il/drugs/ocrevus-ocrelizumab/"
+  },
+  {
+    "hebName": "אוראונופין",
+    "engName": "Auranofin",
+    "link": "https://www.infomed.co.il/drugs/auranofin/"
+  },
+  {
+    "hebName": "אורליסטאט (קסניקל)",
+    "engName": "Orlistat, Xenical",
+    "link": "https://www.infomed.co.il/drugs/orlistat-xenical/"
+  },
+  {
+    "hebName": "אזאציטידין",
+    "engName": "Azacitidine",
+    "link": "https://www.infomed.co.il/drugs/azacitidine/"
+  },
+  {
+    "hebName": "אזאתיופרין",
+    "engName": "Azathioprine",
+    "link": "https://www.infomed.co.il/drugs/azathioprine/"
+  },
+  {
+    "hebName": "אזומפראזול (נקסיום, Nexium)",
+    "engName": "Esomeprazole",
+    "link": "https://www.infomed.co.il/drugs/esomeprazole/"
+  },
+  {
+    "hebName": "אזטימיב",
+    "engName": "Ezetimibe",
+    "link": "https://www.infomed.co.il/drugs/ezetimibe/"
+  },
+  {
+    "hebName": "אזיתרומיצין (אזניל)",
+    "engName": "Azithromycin",
+    "link": "https://www.infomed.co.il/drugs/azithromycin/"
+  },
+  {
+    "hebName": "אזלאסטין",
+    "engName": "Azelastine",
+    "link": "https://www.infomed.co.il/drugs/azelastine/"
+  },
+  {
+    "hebName": "אטאזאנאביר",
+    "engName": "Atazanavir",
+    "link": "https://www.infomed.co.il/drugs/atazanavir/"
+  },
+  {
+    "hebName": "אטובקוון פרוגואניל",
+    "engName": "Atovaquone Proguanil",
+    "link": "https://www.infomed.co.il/drugs/atovaquone-proguanil/"
+  },
+  {
+    "hebName": "אטומוקסטין (סטרטרה)",
+    "engName": "Atomoxetine (Strattera)",
+    "link": "https://www.infomed.co.il/drugs/atomoxetine-strattera/"
+  },
+  {
+    "hebName": "אטופוסיד",
+    "engName": "Etoposide",
+    "link": "https://www.infomed.co.il/drugs/etoposide/"
+  },
+  {
+    "hebName": "אטופן (אטודולק)",
+    "engName": "Etodolac (Etopan)",
+    "link": "https://www.infomed.co.il/drugs/etodolac-etopan/"
+  },
+  {
+    "hebName": "אטורבסטאטין (ליפיטור, ליטורבה)",
+    "engName": "Atorvastatin (Lipitor)",
+    "link": "https://www.infomed.co.il/drugs/atorvastatin-lipitor/"
+  },
+  {
+    "hebName": "אטנולול (נורמיטן, נורמלול)",
+    "engName": "Normiten, Normalol) Atenolol)",
+    "link": "https://www.infomed.co.il/drugs/normiten-normalol-atenolol/"
+  },
+  {
+    "hebName": "אטראבירין",
+    "engName": "Etravirin",
+    "link": "https://www.infomed.co.il/drugs/etravirin/"
+  },
+  {
+    "hebName": "אטרופין",
+    "engName": "Atropine",
+    "link": "https://www.infomed.co.il/drugs/atropine/"
+  },
+  {
+    "hebName": "אטרטינאט",
+    "engName": "Etretinate",
+    "link": "https://www.infomed.co.il/drugs/etretinate/"
+  },
+  {
+    "hebName": "איבופרופן (נורופן, איבופן, אדקס)",
+    "engName": "Ibuprofen",
+    "link": "https://www.infomed.co.il/drugs/ibuprofen/"
+  },
+  {
+    "hebName": "איזוטיפנדיל",
+    "engName": "Isothipendyl",
+    "link": "https://www.infomed.co.il/drugs/isothipendyl/"
+  },
+  {
+    "hebName": "איזוטרטינואין (רואקוטן, קיורטן)",
+    "engName": "Isotretinoin (Roaccutane, Curatane)",
+    "link": "https://www.infomed.co.il/drugs/isotretinoin-roaccutane-curatane/"
+  },
+  {
+    "hebName": "איזוניאזיד",
+    "engName": "Isoniazid",
+    "link": "https://www.infomed.co.il/drugs/isoniazid/"
+  },
+  {
+    "hebName": "איזוסורביד דיניטראט",
+    "engName": "Isosorbide Dinitrate",
+    "link": "https://www.infomed.co.il/drugs/isosorbide-dinitrate/"
+  },
+  {
+    "hebName": "איזוסורביד-5-מונוניטראט",
+    "engName": "Isosorbide-5-Mononitrate",
+    "link": "https://www.infomed.co.il/drugs/isosorbide-5-mononitrate/"
+  },
+  {
+    "hebName": "איזוקונאזול",
+    "engName": "Isoconazole",
+    "link": "https://www.infomed.co.il/drugs/isoconazole/"
+  },
+  {
+    "hebName": "איטראקונאזול",
+    "engName": "Itraconazole",
+    "link": "https://www.infomed.co.il/drugs/itraconazole/"
+  },
+  {
+    "hebName": "איכטיול",
+    "engName": "Ichthyol",
+    "link": "https://www.infomed.co.il/drugs/ichthyol/"
+  },
+  {
+    "hebName": "אילופרוסט",
+    "engName": "Iloprost",
+    "link": "https://www.infomed.co.il/drugs/iloprost/"
+  },
+  {
+    "hebName": "אימונוגלובולין",
+    "engName": "IVIG",
+    "link": "https://www.infomed.co.il/drugs/ivig/"
+  },
+  {
+    "hebName": "אימטיניב",
+    "engName": "Imatinib",
+    "link": "https://www.infomed.co.il/drugs/imatinib/"
+  },
+  {
+    "hebName": "אימיגלוסרז",
+    "engName": "Imiglucerase",
+    "link": "https://www.infomed.co.il/drugs/imiglucerase/"
+  },
+  {
+    "hebName": "אימיפראמין",
+    "engName": "Imipramine",
+    "link": "https://www.infomed.co.il/drugs/imipramine/"
+  },
+  {
+    "hebName": "אימיקוימוד",
+    "engName": "Imiquimod",
+    "link": "https://www.infomed.co.il/drugs/imiquimod/"
+  },
+  {
+    "hebName": "אינדאפאמיד",
+    "engName": "Indapamide",
+    "link": "https://www.infomed.co.il/drugs/indapamide/"
+  },
+  {
+    "hebName": "אינדומתאצין",
+    "engName": "Indomethacin",
+    "link": "https://www.infomed.co.il/drugs/indomethacin/"
+  },
+  {
+    "hebName": "אינדינאביר",
+    "engName": "Indinavir",
+    "link": "https://www.infomed.co.il/drugs/indinavir/"
+  },
+  {
+    "hebName": "אינטרפרון",
+    "engName": "Interferon",
+    "link": "https://www.infomed.co.il/drugs/interferon/"
+  },
+  {
+    "hebName": "אינסולין",
+    "engName": "Insulin",
+    "link": "https://www.infomed.co.il/drugs/insulin/"
+  },
+  {
+    "hebName": "אינסולין גלרג'ין (לנטוס, טוג'או)",
+    "engName": "INSULIN GLARGINE (LANTUS, TOUJEO)",
+    "link": "https://www.infomed.co.il/drugs/insulin-glargine-lantus-toujeo/"
+  },
+  {
+    "hebName": "אינסולין דגלודק (טרגלודק)",
+    "engName": "INSULIN DEGLUDEC (TREGLUDEC)",
+    "link": "https://www.infomed.co.il/drugs/insulin-degludec-tregludec/"
+  },
+  {
+    "hebName": "אינסולין דגלודק + לירגלוטייד (זולטופיי)",
+    "engName": "insulin degludec + liraglutide (XULTOPHY)",
+    "link": "https://www.infomed.co.il/drugs/insulin-degludec-liraglutide-xultophy/"
+  },
+  {
+    "hebName": "אינפליקסימב",
+    "engName": "Infliximab",
+    "link": "https://www.infomed.co.il/drugs/infliximab/"
+  },
+  {
+    "hebName": "איפראטרופיום ברומיד",
+    "engName": "Ipratropium Bromide",
+    "link": "https://www.infomed.co.il/drugs/ipratropium-bromide/"
+  },
+  {
+    "hebName": "איקסזומיב (נינלארו)",
+    "engName": "ixazomib (NINLARO)",
+    "link": "https://www.infomed.co.il/drugs/ixazomib-ninlaro/"
+  },
+  {
+    "hebName": "איקסקיזומאב (טאלץ)",
+    "engName": "IXEKIZUMAB (TALTZ)",
+    "link": "https://www.infomed.co.il/drugs/ixekizumab-taltz/"
+  },
+  {
+    "hebName": "אירבסארטאן",
+    "engName": "Irbesartan",
+    "link": "https://www.infomed.co.il/drugs/irbesartan/"
+  },
+  {
+    "hebName": "אירינוטקאן",
+    "engName": "Irinotecan",
+    "link": "https://www.infomed.co.il/drugs/irinotecan/"
+  },
+  {
+    "hebName": "אלבנדאזול",
+    "engName": "Albendazole",
+    "link": "https://www.infomed.co.il/drugs/albendazole/"
+  },
+  {
+    "hebName": "אלבסביר + גרזופרביר",
+    "engName": "Elbasvir + Grazoprevir",
+    "link": "https://www.infomed.co.il/drugs/elbasvir-grazoprevir/"
+  },
+  {
+    "hebName": "אלגלוכוזידאז אלפא",
+    "engName": "Alglucosidase alpha",
+    "link": "https://www.infomed.co.il/drugs/alglucosidase-alpha/"
+  },
+  {
+    "hebName": "אלדסלאוקין",
+    "engName": "Aldesleukin",
+    "link": "https://www.infomed.co.il/drugs/aldesleukin/"
+  },
+  {
+    "hebName": "אלומיניום הידרוקסיד + מגנזיום הידרוקסיד",
+    "engName": "Magnesium Hydroxide + Aluminium Hydroxide",
+    "link": "https://www.infomed.co.il/drugs/magnesium-hydroxide-aluminium-hydroxide/"
+  },
+  {
+    "hebName": "אלופורינול (אלוריל)",
+    "engName": "Allopurinol",
+    "link": "https://www.infomed.co.il/drugs/allopurinol/"
+  },
+  {
+    "hebName": "אלטריפטאן",
+    "engName": "Eletriptan",
+    "link": "https://www.infomed.co.il/drugs/eletriptan/"
+  },
+  {
+    "hebName": "אליטרטינואין (טוקטינו)",
+    "engName": "Alitretinoin",
+    "link": "https://www.infomed.co.il/drugs/alitretinoin/"
+  },
+  {
+    "hebName": "אליסקירן",
+    "engName": "Aliskiren",
+    "link": "https://www.infomed.co.il/drugs/aliskiren/"
+  },
+  {
+    "hebName": "אלמטוזומאב (למטרדה)",
+    "engName": "Alemtuzumab (Lemtrada)",
+    "link": "https://www.infomed.co.il/drugs/alemtuzumab-lemtrada/"
+  },
+  {
+    "hebName": "אלנדרונאט",
+    "engName": "Alendronate",
+    "link": "https://www.infomed.co.il/drugs/alendronate/"
+  },
+  {
+    "hebName": "אלפאספט",
+    "engName": "Alefacept",
+    "link": "https://www.infomed.co.il/drugs/alefacept/"
+  },
+  {
+    "hebName": "אלפאקאלצידול",
+    "engName": "Alfacalcidol",
+    "link": "https://www.infomed.co.il/drugs/alfacalcidol/"
+  },
+  {
+    "hebName": "אלפוזוסין (קסטרל)",
+    "engName": "Alfuzosin, Xatral",
+    "link": "https://www.infomed.co.il/drugs/alfuzosin-xatral/"
+  },
+  {
+    "hebName": "אלפראזולאם",
+    "engName": "Alprazolam",
+    "link": "https://www.infomed.co.il/drugs/alprazolam/"
+  },
+  {
+    "hebName": "אלפרוסטדיל",
+    "engName": "Alprostadil",
+    "link": "https://www.infomed.co.il/drugs/alprostadil/"
+  },
+  {
+    "hebName": "אמאנטאדין",
+    "engName": "Amantadine",
+    "link": "https://www.infomed.co.il/drugs/amantadine/"
+  },
+  {
+    "hebName": "אמבריסנטן",
+    "engName": "Ambrisentan",
+    "link": "https://www.infomed.co.il/drugs/ambrisentan/"
+  },
+  {
+    "hebName": "אמוקסיצילין (מוקסיפן, מוקסיויט)",
+    "engName": "Amoxycillin (Moxypen, Moxyvit)",
+    "link": "https://www.infomed.co.il/drugs/amoxycillin-moxypen-moxyvit/"
+  },
+  {
+    "hebName": "אמוקסיצילין + חומצה קלאוולאנית (אוגמנטין)",
+    "engName": "Amoxicillin + Clavulanic Acid",
+    "link": "https://www.infomed.co.il/drugs/amoxicillin-clavulanic-acid/"
+  },
+  {
+    "hebName": "אמורולפין",
+    "engName": "Amorolfine",
+    "link": "https://www.infomed.co.il/drugs/amorolfine/"
+  },
+  {
+    "hebName": "אמטריציטאבין",
+    "engName": "Emtricitabine",
+    "link": "https://www.infomed.co.il/drugs/emtricitabine/"
+  },
+  {
+    "hebName": "אמיודארון (פרוקור)",
+    "engName": "Amiodarone (Procor)",
+    "link": "https://www.infomed.co.il/drugs/amiodarone-procor/"
+  },
+  {
+    "hebName": "אמיטריפטילין (אלטרול, אלטרולט)",
+    "engName": "Amitriptyline, Elatrol, Elatrolet",
+    "link": "https://www.infomed.co.il/drugs/amitriptyline-elatrol-elatrolet/"
+  },
+  {
+    "hebName": "אמילוריד",
+    "engName": "Amiloride",
+    "link": "https://www.infomed.co.il/drugs/amiloride/"
+  },
+  {
+    "hebName": "אמילמתקרסול + דיכלורובנזיל אלכוהול (סטרפסילס)",
+    "engName": "DICHLOROBENZYL ALCOHOL+AMYLMETACRESOL (STREPSILS)",
+    "link": "https://www.infomed.co.il/drugs/dichlorobenzyl-alcohol-amylmetacresol-strepsils/"
+  },
+  {
+    "hebName": "אמינופילין",
+    "engName": "Aminophylline",
+    "link": "https://www.infomed.co.il/drugs/aminophylline/"
+  },
+  {
+    "hebName": "אמיסולפריד",
+    "engName": "Amisulpride",
+    "link": "https://www.infomed.co.il/drugs/amisulpride/"
+  },
+  {
+    "hebName": "אמיקצין",
+    "engName": "Amikacin",
+    "link": "https://www.infomed.co.il/drugs/amikacin/"
+  },
+  {
+    "hebName": "אמלודיפין (נורווסק, אמלו)",
+    "engName": "Amlodipine, Norvask, Amlow",
+    "link": "https://www.infomed.co.il/drugs/amlodipine-norvask-amlow/"
+  },
+  {
+    "hebName": "אמפגליפלוזין (ג'ארדיאנס)",
+    "engName": "EMPAGLIFLOZIN JARDIANCE))",
+    "link": "https://www.infomed.co.il/drugs/empagliflozin-jardiance/"
+  },
+  {
+    "hebName": "אמפגליפלוזין + מטפורמין (ג'ארדיאנס דואו)",
+    "engName": "JARDIANCE DUO) EMPAGLIFLOZIN + METFORMIN )",
+    "link": "https://www.infomed.co.il/drugs/jardiance-duo-empagliflozin-metformin/"
+  },
+  {
+    "hebName": "אמפותריצין B",
+    "engName": "Amphotericin B",
+    "link": "https://www.infomed.co.il/drugs/amphotericin-b/"
+  },
+  {
+    "hebName": "אמפיצילין",
+    "engName": "Ampicillin",
+    "link": "https://www.infomed.co.il/drugs/ampicillin/"
+  },
+  {
+    "hebName": "אנאגרליד",
+    "engName": "Anagrelide",
+    "link": "https://www.infomed.co.il/drugs/anagrelide/"
+  },
+  {
+    "hebName": "אנאסטרוזול",
+    "engName": "Anastrozole",
+    "link": "https://www.infomed.co.il/drugs/anastrozole/"
+  },
+  {
+    "hebName": "אנוקספרין (קלקסן)",
+    "engName": "Enoxaparin, Clexane",
+    "link": "https://www.infomed.co.il/drugs/enoxaparin-clexane/"
+  },
+  {
+    "hebName": "אנטאקאפון",
+    "engName": "Entacapone",
+    "link": "https://www.infomed.co.il/drugs/entacapone/"
+  },
+  {
+    "hebName": "אנטיביוטיקה לבעלי חיים",
+    "engName": "Antibiotics for animals",
+    "link": "https://www.infomed.co.il/drugs/antibiotics-for-animals/"
+  },
+  {
+    "hebName": "אנטקאביר",
+    "engName": "Entecavir",
+    "link": "https://www.infomed.co.il/drugs/entecavir/"
+  },
+  {
+    "hebName": "אנלפריל (אנלדקס)",
+    "engName": "Enaladex) Enalapril)",
+    "link": "https://www.infomed.co.il/drugs/enaladex-enalapril/"
+  },
+  {
+    "hebName": "אנפובירטייד",
+    "engName": "Enfuvirtide",
+    "link": "https://www.infomed.co.il/drugs/enfuvirtide/"
+  },
+  {
+    "hebName": "אסבוטולול",
+    "engName": "Acebutolol",
+    "link": "https://www.infomed.co.il/drugs/acebutolol/"
+  },
+  {
+    "hebName": "אסטמיזול",
+    "engName": "Astemizole",
+    "link": "https://www.infomed.co.il/drugs/astemizole/"
+  },
+  {
+    "hebName": "אסטרדיול",
+    "engName": "Estradiol",
+    "link": "https://www.infomed.co.il/drugs/estradiol/"
+  },
+  {
+    "hebName": "אסטרוגנים מצומדים",
+    "engName": "Conjugated Oestrogens",
+    "link": "https://www.infomed.co.il/drugs/conjugated-oestrogens/"
+  },
+  {
+    "hebName": "אסטריול",
+    "engName": "Oestriol",
+    "link": "https://www.infomed.co.il/drugs/oestriol/"
+  },
+  {
+    "hebName": "אסטרמוסטין",
+    "engName": "Estramustine",
+    "link": "https://www.infomed.co.il/drugs/estramustine/"
+  },
+  {
+    "hebName": "אסמולול",
+    "engName": "Esmolol",
+    "link": "https://www.infomed.co.il/drugs/esmolol/"
+  },
+  {
+    "hebName": "אסנאפין",
+    "engName": "Asenapine",
+    "link": "https://www.infomed.co.il/drugs/asenapine/"
+  },
+  {
+    "hebName": "אספירין (מיקרופירין)",
+    "engName": "Aspirin",
+    "link": "https://www.infomed.co.il/drugs/aspirin/"
+  },
+  {
+    "hebName": "אסציטאלופראם (אסטו)",
+    "engName": "Escitalopram, Esto",
+    "link": "https://www.infomed.co.il/drugs/escitalopram-esto/"
+  },
+  {
+    "hebName": "אפאבירנז",
+    "engName": "Efavirenz",
+    "link": "https://www.infomed.co.il/drugs/efavirenz/"
+  },
+  {
+    "hebName": "אפאליזומאב",
+    "engName": "Efalizumab",
+    "link": "https://www.infomed.co.il/drugs/efalizumab/"
+  },
+  {
+    "hebName": "אפדרין",
+    "engName": "Ephedrine",
+    "link": "https://www.infomed.co.il/drugs/ephedrine/"
+  },
+  {
+    "hebName": "אפואתין אלפא",
+    "engName": "Epoetin alfa",
+    "link": "https://www.infomed.co.il/drugs/epoetin-alfa/"
+  },
+  {
+    "hebName": "אפואתין בטא",
+    "engName": "Epoetin beta",
+    "link": "https://www.infomed.co.il/drugs/epoetin-beta/"
+  },
+  {
+    "hebName": "אפומורפין",
+    "engName": "Apomorphine",
+    "link": "https://www.infomed.co.il/drugs/apomorphine/"
+  },
+  {
+    "hebName": "אפינסטין",
+    "engName": "Epinastine",
+    "link": "https://www.infomed.co.il/drugs/epinastine/"
+  },
+  {
+    "hebName": "אפיקסבן (אליקוויס)",
+    "engName": "(Apixaban (Eliquis",
+    "link": "https://www.infomed.co.il/drugs/apixaban-eliquis/"
+  },
+  {
+    "hebName": "אפלורניתין",
+    "engName": "Eflornithine",
+    "link": "https://www.infomed.co.il/drugs/eflornithine/"
+  },
+  {
+    "hebName": "אפלרנון",
+    "engName": "Eplerenone",
+    "link": "https://www.infomed.co.il/drugs/eplerenone/"
+  },
+  {
+    "hebName": "אפרפיטנט",
+    "engName": "Aprepitant",
+    "link": "https://www.infomed.co.il/drugs/aprepitant/"
+  },
+  {
+    "hebName": "אצטאזולאמיד",
+    "engName": "Acetazolamide",
+    "link": "https://www.infomed.co.il/drugs/acetazolamide/"
+  },
+  {
+    "hebName": "אצטיל ציסטאין (ראולין)",
+    "engName": "Acetylcysteine",
+    "link": "https://www.infomed.co.il/drugs/acetylcysteine/"
+  },
+  {
+    "hebName": "אציטרטין",
+    "engName": "Acitretin",
+    "link": "https://www.infomed.co.il/drugs/acitretin/"
+  },
+  {
+    "hebName": "אציקלוביר (זובירקס)",
+    "engName": "Acyclovir",
+    "link": "https://www.infomed.co.il/drugs/acyclovir/"
+  },
+  {
+    "hebName": "אקארבוס",
+    "engName": "Acarbose",
+    "link": "https://www.infomed.co.il/drugs/acarbose/"
+  },
+  {
+    "hebName": "אקונאזול",
+    "engName": "Econazole",
+    "link": "https://www.infomed.co.il/drugs/econazole/"
+  },
+  {
+    "hebName": "אקמול פוקוס",
+    "engName": "Acamol Focus",
+    "link": "https://www.infomed.co.il/drugs/acamol-focus/"
+  },
+  {
+    "hebName": "אקמול צינון ושפעת יום",
+    "engName": "ACAMOL TSINUN & SHAPA'AT DAY",
+    "link": "https://www.infomed.co.il/drugs/acamol-tsinun-shapa-at-day/"
+  },
+  {
+    "hebName": "אקמול צינון ושפעת לילה",
+    "engName": "ACAMOL TSINUN & SHAPA'AT NIGHT",
+    "link": "https://www.infomed.co.il/drugs/acamol-tsinun-shapa-at-night/"
+  },
+  {
+    "hebName": "אקמול צינון יום",
+    "engName": "ACAMOL TSINUN DAY",
+    "link": "https://www.infomed.co.il/drugs/acamol-tsinun-day/"
+  },
+  {
+    "hebName": "אקמול צינון לילה",
+    "engName": "ACAMOL TSINUN NIGHT",
+    "link": "https://www.infomed.co.il/drugs/acamol-tsinun-night/"
+  },
+  {
+    "hebName": "אקסמסטן",
+    "engName": "Exemestane",
+    "link": "https://www.infomed.co.il/drugs/exemestane/"
+  },
+  {
+    "hebName": "אקסנטיד",
+    "engName": "Exenatide",
+    "link": "https://www.infomed.co.il/drugs/exenatide/"
+  },
+  {
+    "hebName": "ארגוטאמין",
+    "engName": "Ergotamine",
+    "link": "https://www.infomed.co.il/drugs/ergotamine/"
+  },
+  {
+    "hebName": "אריפיפרזול",
+    "engName": "aripiprazole",
+    "link": "https://www.infomed.co.il/drugs/aripiprazole/"
+  },
+  {
+    "hebName": "אריתרומיצין",
+    "engName": "Erythromycin",
+    "link": "https://www.infomed.co.il/drugs/erythromycin/"
+  },
+  {
+    "hebName": "ארלוטיניב",
+    "engName": "Erlotinib",
+    "link": "https://www.infomed.co.il/drugs/erlotinib/"
+  },
+  {
+    "hebName": "ארסן טריאוקסיד",
+    "engName": "Arsenic trioxide",
+    "link": "https://www.infomed.co.il/drugs/arsenic-trioxide/"
+  },
+  {
+    "hebName": "ארקוקסיה - אטוריקוקסיב",
+    "engName": "Etoricoxib, Arcoxia",
+    "link": "https://www.infomed.co.il/drugs/etoricoxib-arcoxia/"
+  },
+  {
+    "hebName": "אתאנרספט",
+    "engName": "Etanercept",
+    "link": "https://www.infomed.co.il/drugs/etanercept/"
+  },
+  {
+    "hebName": "אתוסוקסימיד",
+    "engName": "Ethosuximide",
+    "link": "https://www.infomed.co.il/drugs/ethosuximide/"
+  },
+  {
+    "hebName": "אתינילאסטראדיול",
+    "engName": "Ethinyloestradiol",
+    "link": "https://www.infomed.co.il/drugs/ethinyloestradiol/"
+  },
+  {
+    "hebName": "אתינילאסטרדיול +דזוגסטרל (פמינט)",
+    "engName": "Desogestrel+ Ethinylestradiol (FEMINET)",
+    "link": "https://www.infomed.co.il/drugs/desogestrel-ethinylestradiol-feminet/"
+  },
+  {
+    "hebName": "באציטראצין",
+    "engName": "Bacitracin",
+    "link": "https://www.infomed.co.il/drugs/bacitracin/"
+  },
+  {
+    "hebName": "באקלופן",
+    "engName": "Baclofen",
+    "link": "https://www.infomed.co.il/drugs/baclofen/"
+  },
+  {
+    "hebName": "בודסוניד (בודיקורט, סימביקורט)",
+    "engName": "Budesonide",
+    "link": "https://www.infomed.co.il/drugs/budesonide/"
+  },
+  {
+    "hebName": "בוואציזומאב",
+    "engName": "Bevacizumab",
+    "link": "https://www.infomed.co.il/drugs/bevacizumab/"
+  },
+  {
+    "hebName": "בוטוליניום טוקסין (בוטוקס)",
+    "engName": "(Botulinum Toxin A (Botox",
+    "link": "https://www.infomed.co.il/drugs/botulinum-toxin-a-botox/"
+  },
+  {
+    "hebName": "בוטנאפין",
+    "engName": "Butenafine",
+    "link": "https://www.infomed.co.il/drugs/butenafine/"
+  },
+  {
+    "hebName": "בוסנטן",
+    "engName": "Bosentan",
+    "link": "https://www.infomed.co.il/drugs/bosentan/"
+  },
+  {
+    "hebName": "בוספירון",
+    "engName": "Buspirone",
+    "link": "https://www.infomed.co.il/drugs/buspirone/"
+  },
+  {
+    "hebName": "בוסרלין",
+    "engName": "Buserelin",
+    "link": "https://www.infomed.co.il/drugs/buserelin/"
+  },
+  {
+    "hebName": "בופרופיון (וולבוטרין)",
+    "engName": "Bupropion",
+    "link": "https://www.infomed.co.il/drugs/bupropion/"
+  },
+  {
+    "hebName": "בופרנורפין",
+    "engName": "Buprenorphine",
+    "link": "https://www.infomed.co.il/drugs/buprenorphine/"
+  },
+  {
+    "hebName": "בורטזומיב",
+    "engName": "Bortezomib",
+    "link": "https://www.infomed.co.il/drugs/bortezomib/"
+  },
+  {
+    "hebName": "בזאפיבראט (נורליפ)",
+    "engName": "Bezafibrate, Norlip",
+    "link": "https://www.infomed.co.il/drugs/bezafibrate-norlip/"
+  },
+  {
+    "hebName": "בטאהיסטין",
+    "engName": "Betahistine",
+    "link": "https://www.infomed.co.il/drugs/betahistine/"
+  },
+  {
+    "hebName": "בטאמתאזון (בטנזול, בטאקורטן)",
+    "engName": "Betamethasone",
+    "link": "https://www.infomed.co.il/drugs/betamethasone/"
+  },
+  {
+    "hebName": "בטאקסולול",
+    "engName": "Betaxolol",
+    "link": "https://www.infomed.co.il/drugs/betaxolol/"
+  },
+  {
+    "hebName": "בייביזים",
+    "engName": "Babyzim",
+    "link": "https://www.infomed.co.il/drugs/babyzim/"
+  },
+  {
+    "hebName": "בילסטין (בילקסטן)",
+    "engName": "bilastine (Bilaxten)",
+    "link": "https://www.infomed.co.il/drugs/bilastine-bilaxten/"
+  },
+  {
+    "hebName": "בימטופרוסט",
+    "engName": "Bimatoprost",
+    "link": "https://www.infomed.co.il/drugs/bimatoprost/"
+  },
+  {
+    "hebName": "ביסאקודיל (לקסעדין)",
+    "engName": "Bisacodyl",
+    "link": "https://www.infomed.co.il/drugs/bisacodyl/"
+  },
+  {
+    "hebName": "ביסופרולול (קרדילוק, קונקור)",
+    "engName": "Bisoprolol, Cardiloc, Concor)",
+    "link": "https://www.infomed.co.il/drugs/bisoprolol-cardiloc-concor/"
+  },
+  {
+    "hebName": "ביסמות סובסאליצילאט (קלבטן)",
+    "engName": "Bismuth Subsalicylate",
+    "link": "https://www.infomed.co.il/drugs/bismuth-subsalicylate/"
+  },
+  {
+    "hebName": "ביפונאזול",
+    "engName": "Bifonazole",
+    "link": "https://www.infomed.co.il/drugs/bifonazole/"
+  },
+  {
+    "hebName": "ביפרידן",
+    "engName": "Biperiden",
+    "link": "https://www.infomed.co.il/drugs/biperiden/"
+  },
+  {
+    "hebName": "ביקאלוטאמיד",
+    "engName": "Bicalutamide",
+    "link": "https://www.infomed.co.il/drugs/bicalutamide/"
+  },
+  {
+    "hebName": "בלאומיצין PFI",
+    "engName": "Bleomycin",
+    "link": "https://www.infomed.co.il/drugs/bleomycin/"
+  },
+  {
+    "hebName": "בלוויק - לורקסרין",
+    "engName": "BELVIQ) LORCASERIN)",
+    "link": "https://www.infomed.co.il/drugs/belviq-lorcaserin/"
+  },
+  {
+    "hebName": "בלוקסאוויר (קסופלוזה)",
+    "engName": ": Baloxavir (XOFLUZA)",
+    "link": "https://www.infomed.co.il/drugs/baloxavir-xofluza/"
+  },
+  {
+    "hebName": "בלינטומומאב",
+    "engName": "Blinatumomab",
+    "link": "https://www.infomed.co.il/drugs/blinatumomab/"
+  },
+  {
+    "hebName": "בנאזפריל",
+    "engName": "Benazepril",
+    "link": "https://www.infomed.co.il/drugs/benazepril/"
+  },
+  {
+    "hebName": "בנזאלקוניום כלוריד",
+    "engName": "Benzalkonium Chloride",
+    "link": "https://www.infomed.co.il/drugs/benzalkonium-chloride/"
+  },
+  {
+    "hebName": "בנזהקסול",
+    "engName": "Benzhexol (Trihexyphenidyl)",
+    "link": "https://www.infomed.co.il/drugs/benzhexol-trihexyphenidyl/"
+  },
+  {
+    "hebName": "בנזואיל פראוקסיד",
+    "engName": "Benzoyl peroxide",
+    "link": "https://www.infomed.co.il/drugs/benzoyl-peroxide/"
+  },
+  {
+    "hebName": "בנזוקסוניום + כלורהקסידין (מרפן ספריי)",
+    "engName": "(MERFEN SPRAY)",
+    "link": "https://www.infomed.co.il/drugs/merfen-spray/"
+  },
+  {
+    "hebName": "בנזיל בנזואט",
+    "engName": "Benzyl Benzoate",
+    "link": "https://www.infomed.co.il/drugs/benzyl-benzoate/"
+  },
+  {
+    "hebName": "בסגלר",
+    "engName": "BASAGLAR",
+    "link": "https://www.infomed.co.il/drugs/basaglar/"
+  },
+  {
+    "hebName": "בקאפלרמין",
+    "engName": "Becaplermin",
+    "link": "https://www.infomed.co.il/drugs/becaplermin/"
+  },
+  {
+    "hebName": "בקלומתאזון",
+    "engName": "Beclomethasone",
+    "link": "https://www.infomed.co.il/drugs/beclomethasone/"
+  },
+  {
+    "hebName": "בקלומתזון + פורמוטרול (פוסטר)",
+    "engName": "Beclometasone + Formoterol (FOSTER)",
+    "link": "https://www.infomed.co.il/drugs/beclometasone-formoterol-foster/"
+  },
+  {
+    "hebName": "ברוטיזולאם (בונדורמין)",
+    "engName": "Brotizolam (Bondormin)",
+    "link": "https://www.infomed.co.il/drugs/brotizolam-bondormin/"
+  },
+  {
+    "hebName": "ברומאזפאם",
+    "engName": "Bromazepam",
+    "link": "https://www.infomed.co.il/drugs/bromazepam/"
+  },
+  {
+    "hebName": "ברומהקסין",
+    "engName": "Bromhexine",
+    "link": "https://www.infomed.co.il/drugs/bromhexine/"
+  },
+  {
+    "hebName": "ברומוקריפטין",
+    "engName": "Bromocriptine",
+    "link": "https://www.infomed.co.il/drugs/bromocriptine/"
+  },
+  {
+    "hebName": "בריגטיניב (אלונבריג)",
+    "engName": "BRIGATINIB (ALUNBRIG)",
+    "link": "https://www.infomed.co.il/drugs/brigatinib-alunbrig/"
+  },
+  {
+    "hebName": "ברימונידין",
+    "engName": "Brimonidine",
+    "link": "https://www.infomed.co.il/drugs/brimonidine/"
+  },
+  {
+    "hebName": "ברינזולאמיד",
+    "engName": "Brinzolamide",
+    "link": "https://www.infomed.co.il/drugs/brinzolamide/"
+  },
+  {
+    "hebName": "גאבאפנטין",
+    "engName": "Gabapentin",
+    "link": "https://www.infomed.co.il/drugs/gabapentin/"
+  },
+  {
+    "hebName": "גאלבוס (וילדגליפטין)",
+    "engName": "Vildagliptin",
+    "link": "https://www.infomed.co.il/drugs/vildagliptin/"
+  },
+  {
+    "hebName": "גאנירליקס",
+    "engName": "Ganirelix",
+    "link": "https://www.infomed.co.il/drugs/ganirelix/"
+  },
+  {
+    "hebName": "גביסקון",
+    "engName": "Gaviscon",
+    "link": "https://www.infomed.co.il/drugs/gaviscon/"
+  },
+  {
+    "hebName": "גואיפנזין",
+    "engName": "Guaiphenesin",
+    "link": "https://www.infomed.co.il/drugs/guaiphenesin/"
+  },
+  {
+    "hebName": "גולימומב",
+    "engName": "Golimumab",
+    "link": "https://www.infomed.co.il/drugs/golimumab/"
+  },
+  {
+    "hebName": "גוסרלין",
+    "engName": "Goserelin",
+    "link": "https://www.infomed.co.il/drugs/goserelin/"
+  },
+  {
+    "hebName": "גטיפלוקסאצין",
+    "engName": "Gatifloxacin",
+    "link": "https://www.infomed.co.il/drugs/gatifloxacin/"
+  },
+  {
+    "hebName": "גלוקגון",
+    "engName": "Glucagon",
+    "link": "https://www.infomed.co.il/drugs/glucagon/"
+  },
+  {
+    "hebName": "גלוקוז (דקסטרוז)",
+    "engName": "GLUCOSE (Dextrose)",
+    "link": "https://www.infomed.co.il/drugs/glucose-dextrose/"
+  },
+  {
+    "hebName": "גלוקוזמין סולפאט",
+    "engName": "Glucosamine sulfate",
+    "link": "https://www.infomed.co.il/drugs/glucosamine-sulfate/"
+  },
+  {
+    "hebName": "גלטירמר (קופקסון)",
+    "engName": "Glatiramer, Copaxone",
+    "link": "https://www.infomed.co.il/drugs/glatiramer-copaxone/"
+  },
+  {
+    "hebName": "גליבנקלאמיד (גליבוריד)",
+    "engName": "Glibenclamide (Glyburide)",
+    "link": "https://www.infomed.co.il/drugs/glibenclamide-glyburide/"
+  },
+  {
+    "hebName": "גלימפיריד (אמריל)",
+    "engName": "Glimepiride, Amaryl",
+    "link": "https://www.infomed.co.il/drugs/glimepiride-amaryl/"
+  },
+  {
+    "hebName": "גליפיזיד",
+    "engName": "Glipizide",
+    "link": "https://www.infomed.co.il/drugs/glipizide/"
+  },
+  {
+    "hebName": "גליצרין (גליצרול)",
+    "engName": "GLYCERIN (GLYCEROL)",
+    "link": "https://www.infomed.co.il/drugs/glycerin-glycerol/"
+  },
+  {
+    "hebName": "גלנטמין",
+    "engName": "Galantamine",
+    "link": "https://www.infomed.co.il/drugs/galantamine/"
+  },
+  {
+    "hebName": "גלקפרביר + פיברנטסביר (מבירט)",
+    "engName": "glecaprevir + pibrentasvir (MAVIRET)",
+    "link": "https://www.infomed.co.il/drugs/glecaprevir-pibrentasvir-maviret/"
+  },
+  {
+    "hebName": "גמטוזומאב אוזוגמיצין",
+    "engName": "Gemtuzumab Ozogamicin",
+    "link": "https://www.infomed.co.il/drugs/gemtuzumab-ozogamicin/"
+  },
+  {
+    "hebName": "גמפיברוזיל",
+    "engName": "Gemfibrozil",
+    "link": "https://www.infomed.co.il/drugs/gemfibrozil/"
+  },
+  {
+    "hebName": "גמציטאבין",
+    "engName": "Gemcitabine",
+    "link": "https://www.infomed.co.il/drugs/gemcitabine/"
+  },
+  {
+    "hebName": "ג'נוביה (סיטגליפטין)",
+    "engName": "Januvia",
+    "link": "https://www.infomed.co.il/drugs/januvia/"
+  },
+  {
+    "hebName": "גנטמיצין (גנטתרים)",
+    "engName": "Gentamicin",
+    "link": "https://www.infomed.co.il/drugs/gentamicin/"
+  },
+  {
+    "hebName": "גנציקלוביר",
+    "engName": "Ganciclovir",
+    "link": "https://www.infomed.co.il/drugs/ganciclovir/"
+  },
+  {
+    "hebName": "ג'סטודן+אתינילאסטרדיול (אמילי,מינס,פליים,מליאן)",
+    "engName": "Gestodene + Ethinylestradiol",
+    "link": "https://www.infomed.co.il/drugs/gestodene-ethinylestradiol/"
+  },
+  {
+    "hebName": "גריזופולבין",
+    "engName": "Griseofulvin",
+    "link": "https://www.infomed.co.il/drugs/griseofulvin/"
+  },
+  {
+    "hebName": "גרניסטרון",
+    "engName": "Granisetron",
+    "link": "https://www.infomed.co.il/drugs/granisetron/"
+  },
+  {
+    "hebName": "דאנאזול",
+    "engName": "Danazol",
+    "link": "https://www.infomed.co.il/drugs/danazol/"
+  },
+  {
+    "hebName": "דאקארבאזין",
+    "engName": "Dacarbazine",
+    "link": "https://www.infomed.co.il/drugs/dacarbazine/"
+  },
+  {
+    "hebName": "דביגטרן (פרדקסה)",
+    "engName": "Dabigatran (Pradaxa )",
+    "link": "https://www.infomed.co.il/drugs/dabigatran-pradaxa/"
+  },
+  {
+    "hebName": "דובוטאמין",
+    "engName": "Dobutamine",
+    "link": "https://www.infomed.co.il/drugs/dobutamine/"
+  },
+  {
+    "hebName": "דוטאסטריד",
+    "engName": "Dutasteride",
+    "link": "https://www.infomed.co.il/drugs/dutasteride/"
+  },
+  {
+    "hebName": "דולגלוטייד",
+    "engName": "Dulaglutide",
+    "link": "https://www.infomed.co.il/drugs/dulaglutide/"
+  },
+  {
+    "hebName": "דולוקסטין (סימבלטה, ינטריב)",
+    "engName": "Duloxetine, Yentreve, Cymbalta",
+    "link": "https://www.infomed.co.il/drugs/duloxetine-yentreve-cymbalta/"
+  },
+  {
+    "hebName": "דומפרידון",
+    "engName": "Domperidone",
+    "link": "https://www.infomed.co.il/drugs/domperidone/"
+  },
+  {
+    "hebName": "דונפזיל",
+    "engName": "Donepezil",
+    "link": "https://www.infomed.co.il/drugs/donepezil/"
+  },
+  {
+    "hebName": "דוסטאקסל",
+    "engName": "Docetaxel",
+    "link": "https://www.infomed.co.il/drugs/docetaxel/"
+  },
+  {
+    "hebName": "דופאמין",
+    "engName": "Dopamine",
+    "link": "https://www.infomed.co.il/drugs/dopamine/"
+  },
+  {
+    "hebName": "דוקסאזוסין (קדקס)",
+    "engName": "(Doxazosin (Cadex",
+    "link": "https://www.infomed.co.il/drugs/doxazosin-cadex/"
+  },
+  {
+    "hebName": "דוקסורוביצין",
+    "engName": "Doxorubicin",
+    "link": "https://www.infomed.co.il/drugs/doxorubicin/"
+  },
+  {
+    "hebName": "דוקסילאמין (טונייט, סליפ אייד)",
+    "engName": "Doxylamine (Tonight, Sleep Aid)",
+    "link": "https://www.infomed.co.il/drugs/doxylamine-tonight-sleep-aid/"
+  },
+  {
+    "hebName": "דוקסיציקלין (דוקסילין)",
+    "engName": "Doxycycline, Doxylin",
+    "link": "https://www.infomed.co.il/drugs/doxycycline-doxylin/"
+  },
+  {
+    "hebName": "דוקספין",
+    "engName": "Doxepin",
+    "link": "https://www.infomed.co.il/drugs/doxepin/"
+  },
+  {
+    "hebName": "דורזולאמיד",
+    "engName": "Dorzolamide",
+    "link": "https://www.infomed.co.il/drugs/dorzolamide/"
+  },
+  {
+    "hebName": "דזוגסטרל",
+    "engName": "Desogestrel",
+    "link": "https://www.infomed.co.il/drugs/desogestrel/"
+  },
+  {
+    "hebName": "דזוניד",
+    "engName": "Desonide",
+    "link": "https://www.infomed.co.il/drugs/desonide/"
+  },
+  {
+    "hebName": "דיאזפאם (אסיוול, דיאז)",
+    "engName": "Diazepam, Assival",
+    "link": "https://www.infomed.co.il/drugs/diazepam-assival/"
+  },
+  {
+    "hebName": "דיאצרין",
+    "engName": "Diacerein",
+    "link": "https://www.infomed.co.il/drugs/diacerein/"
+  },
+  {
+    "hebName": "דיאתילסטילבסטרול",
+    "engName": "Diethylstilbestrol",
+    "link": "https://www.infomed.co.il/drugs/diethylstilbestrol/"
+  },
+  {
+    "hebName": "דיגוקסין",
+    "engName": "Digoxin",
+    "link": "https://www.infomed.co.il/drugs/digoxin/"
+  },
+  {
+    "hebName": "דידאנוזין",
+    "engName": "Didanosine",
+    "link": "https://www.infomed.co.il/drugs/didanosine/"
+  },
+  {
+    "hebName": "דידרוגסטרון",
+    "engName": "Dydrogesterone",
+    "link": "https://www.infomed.co.il/drugs/dydrogesterone/"
+  },
+  {
+    "hebName": "דיזופיראמיד",
+    "engName": "Disopyramide",
+    "link": "https://www.infomed.co.il/drugs/disopyramide/"
+  },
+  {
+    "hebName": "דילטיאזם",
+    "engName": "Diltiazem",
+    "link": "https://www.infomed.co.il/drugs/diltiazem/"
+  },
+  {
+    "hebName": "דימטינדן",
+    "engName": "Dimethindene",
+    "link": "https://www.infomed.co.il/drugs/dimethindene/"
+  },
+  {
+    "hebName": "דימנהידרינאט",
+    "engName": "Dimenhydrinate",
+    "link": "https://www.infomed.co.il/drugs/dimenhydrinate/"
+  },
+  {
+    "hebName": "דימתיל פומרט (טקפידרה)",
+    "engName": "DIMETHYL FUMARATE (TECFIDERA)",
+    "link": "https://www.infomed.co.il/drugs/dimethyl-fumarate-tecfidera/"
+  },
+  {
+    "hebName": "דימתיקון",
+    "engName": "Dimethicone",
+    "link": "https://www.infomed.co.il/drugs/dimethicone/"
+  },
+  {
+    "hebName": "דיפירון (אופטלגין, וי-דלגין)",
+    "engName": "Dipyrone (Optalgin, V-Dalgin)",
+    "link": "https://www.infomed.co.il/drugs/dipyrone-optalgin-v-dalgin/"
+  },
+  {
+    "hebName": "דיפירידאמול",
+    "engName": "Dipyridamole",
+    "link": "https://www.infomed.co.il/drugs/dipyridamole/"
+  },
+  {
+    "hebName": "דיפלוקורטולון",
+    "engName": "Diflucortolone",
+    "link": "https://www.infomed.co.il/drugs/diflucortolone/"
+  },
+  {
+    "hebName": "דיפנהידראמין",
+    "engName": "Diphenhydramine",
+    "link": "https://www.infomed.co.il/drugs/diphenhydramine/"
+  },
+  {
+    "hebName": "דיפנוקסילט",
+    "engName": "Diphenoxylate",
+    "link": "https://www.infomed.co.il/drugs/diphenoxylate/"
+  },
+  {
+    "hebName": "דיציקלומין",
+    "engName": "Dicyclomine",
+    "link": "https://www.infomed.co.il/drugs/dicyclomine/"
+  },
+  {
+    "hebName": "דיקלופנאק (וולטרן)",
+    "engName": "Diclofenac",
+    "link": "https://www.infomed.co.il/drugs/diclofenac/"
+  },
+  {
+    "hebName": "דיקלקטין",
+    "engName": "Diclectin",
+    "link": "https://www.infomed.co.il/drugs/diclectin/"
+  },
+  {
+    "hebName": "דיתראנול",
+    "engName": "Dithranol",
+    "link": "https://www.infomed.co.il/drugs/dithranol/"
+  },
+  {
+    "hebName": "דנוסומאב (פרוליה)",
+    "engName": "DENOSUMAB (PROLIA)",
+    "link": "https://www.infomed.co.il/drugs/denosumab-prolia/"
+  },
+  {
+    "hebName": "דסטיניב",
+    "engName": "Dasatinib",
+    "link": "https://www.infomed.co.il/drugs/dasatinib/"
+  },
+  {
+    "hebName": "דסיפראמין",
+    "engName": "Desipramine",
+    "link": "https://www.infomed.co.il/drugs/desipramine/"
+  },
+  {
+    "hebName": "דסלורטדין (אריוס)",
+    "engName": "Desloratadine, Aerius",
+    "link": "https://www.infomed.co.il/drugs/desloratadine-aerius/"
+  },
+  {
+    "hebName": "דסמופרסין",
+    "engName": "Desmopressin",
+    "link": "https://www.infomed.co.il/drugs/desmopressin/"
+  },
+  {
+    "hebName": "דפהגליפלוזין (פורסיגה)",
+    "engName": "Dapagliflozin (FORXIGA)",
+    "link": "https://www.infomed.co.il/drugs/dapagliflozin-forxiga/"
+  },
+  {
+    "hebName": "דפסון",
+    "engName": "Dapsone",
+    "link": "https://www.infomed.co.il/drugs/dapsone/"
+  },
+  {
+    "hebName": "דפראסירוקס",
+    "engName": "Deferasirox",
+    "link": "https://www.infomed.co.il/drugs/deferasirox/"
+  },
+  {
+    "hebName": "דפריפרון",
+    "engName": "Deferiprone",
+    "link": "https://www.infomed.co.il/drugs/deferiprone/"
+  },
+  {
+    "hebName": "דקסטרואמפטמין + אמפטמין (אטנט)",
+    "engName": "Dextroamphetamine + Amphetamine (ATTENT)",
+    "link": "https://www.infomed.co.il/drugs/dextroamphetamine-amphetamine-attent/"
+  },
+  {
+    "hebName": "דקסטרומתורפאן",
+    "engName": "Dextromethorphan",
+    "link": "https://www.infomed.co.il/drugs/dextromethorphan/"
+  },
+  {
+    "hebName": "דקסכלורפניראמין",
+    "engName": "Dexchlorpheniramine",
+    "link": "https://www.infomed.co.il/drugs/dexchlorpheniramine/"
+  },
+  {
+    "hebName": "דקסכלורפניראמין + פסאודואפדרין (נוסידקס)",
+    "engName": "(Nussidex)",
+    "link": "https://www.infomed.co.il/drugs/nussidex/"
+  },
+  {
+    "hebName": "דקסמתזון",
+    "engName": "Dexamethasone",
+    "link": "https://www.infomed.co.il/drugs/dexamethasone/"
+  },
+  {
+    "hebName": "דקסמתזון+נאומיצין+פולימיקסין בי",
+    "engName": "Dexamethason Sod. Sulfate+Neomycin sulfate+Pol",
+    "link": "https://www.infomed.co.il/drugs/dexamethason-sod.-sulfate-neomycin-sulfate-pol/"
+  },
+  {
+    "hebName": "דקספנטנול",
+    "engName": "Dexpanthenol",
+    "link": "https://www.infomed.co.il/drugs/dexpanthenol/"
+  },
+  {
+    "hebName": "דקספנטנול + כלורהקסידין (בפנטן פלוס)",
+    "engName": "Dexpanthenol + Chlorhexidine (Bepanthen Plus)",
+    "link": "https://www.infomed.co.il/drugs/dexpanthenol-chlorhexidine-bepanthen-plus/"
+  },
+  {
+    "hebName": "דקסרזוקסאן",
+    "engName": "Dexrazoxane",
+    "link": "https://www.infomed.co.il/drugs/dexrazoxane/"
+  },
+  {
+    "hebName": "דרבפואתין אלפא",
+    "engName": "Darbepoetin alfa",
+    "link": "https://www.infomed.co.il/drugs/darbepoetin-alfa/"
+  },
+  {
+    "hebName": "דרונאביר",
+    "engName": "Darunavir",
+    "link": "https://www.infomed.co.il/drugs/darunavir/"
+  },
+  {
+    "hebName": "דרונאביר + קוביסיסטט (רזולסטה)",
+    "engName": "Darunavir + Cobicistat (REZOLSTA)",
+    "link": "https://www.infomed.co.il/drugs/darunavir-cobicistat-rezolsta/"
+  },
+  {
+    "hebName": "דרונדרון",
+    "engName": "Dronedarone",
+    "link": "https://www.infomed.co.il/drugs/dronedarone/"
+  },
+  {
+    "hebName": "דרוספירנון",
+    "engName": "Drospirenone",
+    "link": "https://www.infomed.co.il/drugs/drospirenone/"
+  },
+  {
+    "hebName": "דרוספירנון + אתינילאסטרדיול (יסמין)",
+    "engName": "Drospirenone + Ethinylestradiol (YASMIN)",
+    "link": "https://www.infomed.co.il/drugs/drospirenone-ethinylestradiol-yasmin/"
+  },
+  {
+    "hebName": "דרמקומבין",
+    "engName": "Dermacombin",
+    "link": "https://www.infomed.co.il/drugs/dermacombin/"
+  },
+  {
+    "hebName": "האלופרידול",
+    "engName": "Haloperidol",
+    "link": "https://www.infomed.co.il/drugs/haloperidol/"
+  },
+  {
+    "hebName": "הורמון HCG",
+    "engName": "HCG",
+    "link": "https://www.infomed.co.il/drugs/hcg/"
+  },
+  {
+    "hebName": "הורמון HMG",
+    "engName": "Human Menopausal Gonadotrophin (HMG)",
+    "link": "https://www.infomed.co.il/drugs/human-menopausal-gonadotrophin-hmg/"
+  },
+  {
+    "hebName": "הורמון גדילה (סומאטרופין)",
+    "engName": "Growth Hormone (Somatropin)",
+    "link": "https://www.infomed.co.il/drugs/growth-hormone-somatropin/"
+  },
+  {
+    "hebName": "הידראלאזין",
+    "engName": "Hydralazine",
+    "link": "https://www.infomed.co.il/drugs/hydralazine/"
+  },
+  {
+    "hebName": "הידרוכלורותיאזיד",
+    "engName": "Hydrochlorothiazide",
+    "link": "https://www.infomed.co.il/drugs/hydrochlorothiazide/"
+  },
+  {
+    "hebName": "הידרוקווינון",
+    "engName": "Hydroquinone",
+    "link": "https://www.infomed.co.il/drugs/hydroquinone/"
+  },
+  {
+    "hebName": "הידרוקורטיזון",
+    "engName": "Hydrocortisone",
+    "link": "https://www.infomed.co.il/drugs/hydrocortisone/"
+  },
+  {
+    "hebName": "הידרוקסיאוריאה (הידרוקסיקרבאמיד)",
+    "engName": "HYDROXYUREA (HYDROXYCARBAMIDE)",
+    "link": "https://www.infomed.co.il/drugs/hydroxyurea-hydroxycarbamide/"
+  },
+  {
+    "hebName": "הידרוקסיזין",
+    "engName": "Hydroxyzine",
+    "link": "https://www.infomed.co.il/drugs/hydroxyzine/"
+  },
+  {
+    "hebName": "הידרוקסיכלורוקווין",
+    "engName": "Hydroxychloroquine",
+    "link": "https://www.infomed.co.il/drugs/hydroxychloroquine/"
+  },
+  {
+    "hebName": "היפרומלוז",
+    "engName": "Hypromellose",
+    "link": "https://www.infomed.co.il/drugs/hypromellose/"
+  },
+  {
+    "hebName": "היפריקום (רמוטיב)",
+    "engName": "Hypericum , Remotiv",
+    "link": "https://www.infomed.co.il/drugs/hypericum-remotiv/"
+  },
+  {
+    "hebName": "הפארין",
+    "engName": "Heparin",
+    "link": "https://www.infomed.co.il/drugs/heparin/"
+  },
+  {
+    "hebName": "ואלאציקלוביר (ולטרקס, ולוויר)",
+    "engName": "Valacyclovir, Valtrex, Valovir",
+    "link": "https://www.infomed.co.il/drugs/valacyclovir-valtrex-valovir/"
+  },
+  {
+    "hebName": "ואלגנציקלוביר",
+    "engName": "Valganciclovir",
+    "link": "https://www.infomed.co.il/drugs/valganciclovir/"
+  },
+  {
+    "hebName": "ואלסארטן (וקטור)",
+    "engName": "Valsartan",
+    "link": "https://www.infomed.co.il/drugs/valsartan/"
+  },
+  {
+    "hebName": "וארדנאפיל (לויטרה)",
+    "engName": "Vardenafil, Levitra",
+    "link": "https://www.infomed.co.il/drugs/vardenafil-levitra/"
+  },
+  {
+    "hebName": "וארפרין (קומדין)",
+    "engName": "Warfarin, Coumadin",
+    "link": "https://www.infomed.co.il/drugs/warfarin-coumadin/"
+  },
+  {
+    "hebName": "ודוליזומאב",
+    "engName": "VEDOLIZUMAB",
+    "link": "https://www.infomed.co.il/drugs/vedolizumab/"
+  },
+  {
+    "hebName": "וורטיאוקסטין (ברינטליקס)",
+    "engName": "(BRINTELLIX) VORTIOXETINE",
+    "link": "https://www.infomed.co.il/drugs/brintellix-vortioxetine/"
+  },
+  {
+    "hebName": "ווריקונאזול",
+    "engName": "Voriconazole",
+    "link": "https://www.infomed.co.il/drugs/voriconazole/"
+  },
+  {
+    "hebName": "וורניקלין (צ'מפיקס)",
+    "engName": "Varenicline, Champix",
+    "link": "https://www.infomed.co.il/drugs/varenicline-champix/"
+  },
+  {
+    "hebName": "ויאגרה - סילדנאפיל (תרים,רווטיו)",
+    "engName": "Sildenafil",
+    "link": "https://www.infomed.co.il/drugs/sildenafil/"
+  },
+  {
+    "hebName": "ויגבטרין",
+    "engName": "Vigabatrin",
+    "link": "https://www.infomed.co.il/drugs/vigabatrin/"
+  },
+  {
+    "hebName": "ויואנס",
+    "engName": "Vyvanse",
+    "link": "https://www.infomed.co.il/drugs/vyvanse/"
+  },
+  {
+    "hebName": "ויטמין D",
+    "engName": "VIitamin D",
+    "link": "https://www.infomed.co.il/drugs/viitamin-d/"
+  },
+  {
+    "hebName": "ויטמין E טוקופרול (אביטול)",
+    "engName": "Tocopherol Vitamin E (EVITOL)",
+    "link": "https://www.infomed.co.il/drugs/tocopherol-vitamin-e-evitol/"
+  },
+  {
+    "hebName": "וינורלבין",
+    "engName": "Vinorelbine",
+    "link": "https://www.infomed.co.il/drugs/vinorelbine/"
+  },
+  {
+    "hebName": "וינקריסטין",
+    "engName": "Vincristine",
+    "link": "https://www.infomed.co.il/drugs/vincristine/"
+  },
+  {
+    "hebName": "ולסרטן + הידרוכלורותיאזיד",
+    "engName": "HYDROCHLOROTHIAZIDE + VALSARTAN",
+    "link": "https://www.infomed.co.il/drugs/hydrochlorothiazide-valsartan/"
+  },
+  {
+    "hebName": "ונטוקלקס (ונקלקסטה)",
+    "engName": "venetoclax (VENCLEXTA)",
+    "link": "https://www.infomed.co.il/drugs/venetoclax-venclexta/"
+  },
+  {
+    "hebName": "ונלפאקסין (אפקסור, ויאפקס)",
+    "engName": "Venlafaxine",
+    "link": "https://www.infomed.co.il/drugs/venlafaxine/"
+  },
+  {
+    "hebName": "ונקומיצין",
+    "engName": "Vancomycin",
+    "link": "https://www.infomed.co.il/drugs/vancomycin/"
+  },
+  {
+    "hebName": "וראפאמיל (SR)",
+    "engName": "Verapamil",
+    "link": "https://www.infomed.co.il/drugs/verapamil/"
+  },
+  {
+    "hebName": "זאנאמיביר",
+    "engName": "Zanamivir",
+    "link": "https://www.infomed.co.il/drugs/zanamivir/"
+  },
+  {
+    "hebName": "זולמיטריפטאן",
+    "engName": "Zolmitriptan",
+    "link": "https://www.infomed.co.il/drugs/zolmitriptan/"
+  },
+  {
+    "hebName": "זולפידם",
+    "engName": "Zolpidem",
+    "link": "https://www.infomed.co.il/drugs/zolpidem/"
+  },
+  {
+    "hebName": "זוניסאמיד (זונגרן)",
+    "engName": "(Zonisamide (Zonergan",
+    "link": "https://www.infomed.co.il/drugs/zonisamide-zonergan/"
+  },
+  {
+    "hebName": "זופיקלון (נוקטורנו)",
+    "engName": "Zopiclone",
+    "link": "https://www.infomed.co.il/drugs/zopiclone/"
+  },
+  {
+    "hebName": "זוקלופנתיקסול",
+    "engName": "Zuclopenthixol",
+    "link": "https://www.infomed.co.il/drugs/zuclopenthixol/"
+  },
+  {
+    "hebName": "זידובודין",
+    "engName": "(Zidovudine (AZT",
+    "link": "https://www.infomed.co.il/drugs/zidovudine-azt/"
+  },
+  {
+    "hebName": "זינט (צפורוקסים)",
+    "engName": "Cefuroxime, Zinnat",
+    "link": "https://www.infomed.co.il/drugs/cefuroxime-zinnat/"
+  },
+  {
+    "hebName": "זיפראסידון",
+    "engName": "Ziprasidone",
+    "link": "https://www.infomed.co.il/drugs/ziprasidone/"
+  },
+  {
+    "hebName": "זפירלוקאסט",
+    "engName": "Zafirlukast",
+    "link": "https://www.infomed.co.il/drugs/zafirlukast/"
+  },
+  {
+    "hebName": "חומצה אורסודאוקסיכולית",
+    "engName": "Ursodeoxycholic Acid",
+    "link": "https://www.infomed.co.il/drugs/ursodeoxycholic-acid/"
+  },
+  {
+    "hebName": "חומצה איבנדרונית",
+    "engName": "Ibandronic acid",
+    "link": "https://www.infomed.co.il/drugs/ibandronic-acid/"
+  },
+  {
+    "hebName": "חומצה היאלורונית",
+    "engName": "Hyaluronic acid",
+    "link": "https://www.infomed.co.il/drugs/hyaluronic-acid/"
+  },
+  {
+    "hebName": "חומצה זולדרונית",
+    "engName": "Zoledronic acid",
+    "link": "https://www.infomed.co.il/drugs/zoledronic-acid/"
+  },
+  {
+    "hebName": "חומצה טראנקסאמית",
+    "engName": "Tranexamic Acid",
+    "link": "https://www.infomed.co.il/drugs/tranexamic-acid/"
+  },
+  {
+    "hebName": "חומצה כנודאוקסיכולית",
+    "engName": "CHENODEOXYCHOLIC ACID",
+    "link": "https://www.infomed.co.il/drugs/chenodeoxycholic-acid/"
+  },
+  {
+    "hebName": "חומצה נאלידיקסית",
+    "engName": "Nalidixic Acid",
+    "link": "https://www.infomed.co.il/drugs/nalidixic-acid/"
+  },
+  {
+    "hebName": "חומצה ניקוטינית",
+    "engName": "Nicotinic acid",
+    "link": "https://www.infomed.co.il/drugs/nicotinic-acid/"
+  },
+  {
+    "hebName": "חומצה סליצילית",
+    "engName": "Salicylic acid",
+    "link": "https://www.infomed.co.il/drugs/salicylic-acid/"
+  },
+  {
+    "hebName": "חומצה פולית",
+    "engName": "Folic acid",
+    "link": "https://www.infomed.co.il/drugs/folic-acid/"
+  },
+  {
+    "hebName": "חומצה פוסידית",
+    "engName": "Fusidic Acid",
+    "link": "https://www.infomed.co.il/drugs/fusidic-acid/"
+  },
+  {
+    "hebName": "חיסון דלקת כבד נגיפית A",
+    "engName": "Hepatitis A Vaccine",
+    "link": "https://www.infomed.co.il/drugs/hepatitis-a-vaccine/"
+  },
+  {
+    "hebName": "חיסון דלקת כבד נגיפית B",
+    "engName": "Hepatitis B Vaccine",
+    "link": "https://www.infomed.co.il/drugs/hepatitis-b-vaccine/"
+  },
+  {
+    "hebName": "חיסון משולש לחתולים",
+    "engName": "Hexagonal vaccine for cats",
+    "link": "https://www.infomed.co.il/drugs/hexagonal-vaccine-for-cats/"
+  },
+  {
+    "hebName": "חיסון משושה לכלבים",
+    "engName": "Hexagonal vaccine for dogs",
+    "link": "https://www.infomed.co.il/drugs/hexagonal-vaccine-for-dogs/"
+  },
+  {
+    "hebName": "חיסון נגד וירוס אבעבועות רוח",
+    "engName": "varicella virus vaccine",
+    "link": "https://www.infomed.co.il/drugs/varicella-virus-vaccine/"
+  },
+  {
+    "hebName": "חיסון נגד וירוס הפפילומה",
+    "engName": "HPV vaccine",
+    "link": "https://www.infomed.co.il/drugs/hpv-vaccine/"
+  },
+  {
+    "hebName": "חיסון נגד רוטה-וירוס",
+    "engName": "rotavirus vaccine",
+    "link": "https://www.infomed.co.il/drugs/rotavirus-vaccine/"
+  },
+  {
+    "hebName": "חיסון סביל נגד דלקת כבד נגיפית מסוג B",
+    "engName": "HEPATITIS B IMMUNE GLOBULIN",
+    "link": "https://www.infomed.co.il/drugs/hepatitis-b-immune-globulin/"
+  },
+  {
+    "hebName": "חיסון פוליו",
+    "engName": "INACTIVATED POLIO VACCINE IPV",
+    "link": "https://www.infomed.co.il/drugs/inactivated-polio-vaccine-ipv/"
+  },
+  {
+    "hebName": "חיסון פוליו חי מוחלש",
+    "engName": "ORAL POLIO VACCINE OPV",
+    "link": "https://www.infomed.co.il/drugs/oral-polio-vaccine-opv/"
+  },
+  {
+    "hebName": "טאדאלאפיל (סיאליס)",
+    "engName": "Tadalafil, Cialis",
+    "link": "https://www.infomed.co.il/drugs/tadalafil-cialis/"
+  },
+  {
+    "hebName": "טאזארוטן",
+    "engName": "Tazarotene",
+    "link": "https://www.infomed.co.il/drugs/tazarotene/"
+  },
+  {
+    "hebName": "טאקרולימוס",
+    "engName": "Tacrolimus",
+    "link": "https://www.infomed.co.il/drugs/tacrolimus/"
+  },
+  {
+    "hebName": "טאקרין",
+    "engName": "Tacrine",
+    "link": "https://www.infomed.co.il/drugs/tacrine/"
+  },
+  {
+    "hebName": "טגאסרוד",
+    "engName": "Tegaserod",
+    "link": "https://www.infomed.co.il/drugs/tegaserod/"
+  },
+  {
+    "hebName": "טוברמיצין (טובי)",
+    "engName": "Tobramycin (Tobi)",
+    "link": "https://www.infomed.co.il/drugs/tobramycin-tobi/"
+  },
+  {
+    "hebName": "טולבוטאמיד",
+    "engName": "Tolbutamide",
+    "link": "https://www.infomed.co.il/drugs/tolbutamide/"
+  },
+  {
+    "hebName": "טולטרודין",
+    "engName": "Tolterodine",
+    "link": "https://www.infomed.co.il/drugs/tolterodine/"
+  },
+  {
+    "hebName": "טולנאפטאט",
+    "engName": "Tolnaftate",
+    "link": "https://www.infomed.co.il/drugs/tolnaftate/"
+  },
+  {
+    "hebName": "טופוטקאן",
+    "engName": "Topotecan",
+    "link": "https://www.infomed.co.il/drugs/topotecan/"
+  },
+  {
+    "hebName": "טופיראמאט",
+    "engName": "Topiramate",
+    "link": "https://www.infomed.co.il/drugs/topiramate/"
+  },
+  {
+    "hebName": "טופסיטיניב (קסלג'אנז)",
+    "engName": "Tofacitinib",
+    "link": "https://www.infomed.co.il/drugs/tofacitinib/"
+  },
+  {
+    "hebName": "טוקיליזומאב",
+    "engName": "Tocilizumab",
+    "link": "https://www.infomed.co.il/drugs/tocilizumab/"
+  },
+  {
+    "hebName": "טטראבנאזין",
+    "engName": "Tetrabenazine",
+    "link": "https://www.infomed.co.il/drugs/tetrabenazine/"
+  },
+  {
+    "hebName": "טטראהידרוזולין",
+    "engName": "Tetrahydrozoline",
+    "link": "https://www.infomed.co.il/drugs/tetrahydrozoline/"
+  },
+  {
+    "hebName": "טטראציקלין",
+    "engName": "Tetracycline",
+    "link": "https://www.infomed.co.il/drugs/tetracycline/"
+  },
+  {
+    "hebName": "טטראקוסאקטיד",
+    "engName": "Tetracosactide",
+    "link": "https://www.infomed.co.il/drugs/tetracosactide/"
+  },
+  {
+    "hebName": "טטרהקאין + אנטיפירין (אוטידין)",
+    "engName": "TETRACAINE + Antipyrine (OTIDIN)",
+    "link": "https://www.infomed.co.il/drugs/tetracaine-antipyrine-otidin/"
+  },
+  {
+    "hebName": "טי. פי. איי.",
+    "engName": "TPA, Tissue Plasminogen Activator",
+    "link": "https://www.infomed.co.il/drugs/tpa-tissue-plasminogen-activator/"
+  },
+  {
+    "hebName": "טיבולון",
+    "engName": "Tibolone",
+    "link": "https://www.infomed.co.il/drugs/tibolone/"
+  },
+  {
+    "hebName": "טיוטרופיום ברומיד",
+    "engName": "Tiotropium Bromide",
+    "link": "https://www.infomed.co.il/drugs/tiotropium-bromide/"
+  },
+  {
+    "hebName": "טימולול",
+    "engName": "Timolol",
+    "link": "https://www.infomed.co.il/drugs/timolol/"
+  },
+  {
+    "hebName": "טינידאזול",
+    "engName": "Tinidazole",
+    "link": "https://www.infomed.co.il/drugs/tinidazole/"
+  },
+  {
+    "hebName": "טיקגרלור (ברילינטה)",
+    "engName": "(Ticagrelor (BRILINTA",
+    "link": "https://www.infomed.co.il/drugs/ticagrelor-brilinta/"
+  },
+  {
+    "hebName": "טירוטריצין + בנזוקאין",
+    "engName": "Tyrothricin + Benzocaine",
+    "link": "https://www.infomed.co.il/drugs/tyrothricin-benzocaine/"
+  },
+  {
+    "hebName": "טלביוודין",
+    "engName": "Telbivudine",
+    "link": "https://www.infomed.co.il/drugs/telbivudine/"
+  },
+  {
+    "hebName": "טלפרביר",
+    "engName": "TELAPREVIR",
+    "link": "https://www.infomed.co.il/drugs/telaprevir/"
+  },
+  {
+    "hebName": "טמוזולומיד",
+    "engName": "Temozolomide",
+    "link": "https://www.infomed.co.il/drugs/temozolomide/"
+  },
+  {
+    "hebName": "טמוקסיפן",
+    "engName": "Tamoxifen",
+    "link": "https://www.infomed.co.il/drugs/tamoxifen/"
+  },
+  {
+    "hebName": "טמסולוסין",
+    "engName": "Tamsulosin",
+    "link": "https://www.infomed.co.il/drugs/tamsulosin/"
+  },
+  {
+    "hebName": "טנופוביר",
+    "engName": "Tenofovir",
+    "link": "https://www.infomed.co.il/drugs/tenofovir/"
+  },
+  {
+    "hebName": "טסטוסטרון",
+    "engName": "Testosterone",
+    "link": "https://www.infomed.co.il/drugs/testosterone/"
+  },
+  {
+    "hebName": "טראזודון",
+    "engName": "Trazodone",
+    "link": "https://www.infomed.co.il/drugs/trazodone/"
+  },
+  {
+    "hebName": "טראזוסין",
+    "engName": "Terazosin",
+    "link": "https://www.infomed.co.il/drugs/terazosin/"
+  },
+  {
+    "hebName": "טראסטוזומאב",
+    "engName": "Trastuzumab",
+    "link": "https://www.infomed.co.il/drugs/trastuzumab/"
+  },
+  {
+    "hebName": "טרבוטאלין",
+    "engName": "Terbutaline",
+    "link": "https://www.infomed.co.il/drugs/terbutaline/"
+  },
+  {
+    "hebName": "טרבופרוסט",
+    "engName": "Travoprost",
+    "link": "https://www.infomed.co.il/drugs/travoprost/"
+  },
+  {
+    "hebName": "טרבינאפין (למיסיל)",
+    "engName": "Terbinafine",
+    "link": "https://www.infomed.co.il/drugs/terbinafine/"
+  },
+  {
+    "hebName": "טרוויקטה- פאליפרידון",
+    "engName": "Paliperidone (TREVICTA)",
+    "link": "https://www.infomed.co.il/drugs/paliperidone-trevicta/"
+  },
+  {
+    "hebName": "טרולאמין, טריאתנולאמין (ביאפין)",
+    "engName": "Trolamine, Triethanolamine",
+    "link": "https://www.infomed.co.il/drugs/trolamine-triethanolamine/"
+  },
+  {
+    "hebName": "טרופיקאמיד",
+    "engName": "Tropicamide",
+    "link": "https://www.infomed.co.il/drugs/tropicamide/"
+  },
+  {
+    "hebName": "טרטינואין",
+    "engName": "Tretinoin",
+    "link": "https://www.infomed.co.il/drugs/tretinoin/"
+  },
+  {
+    "hebName": "טריאמצינולון",
+    "engName": "Triamcinolone",
+    "link": "https://www.infomed.co.il/drugs/triamcinolone/"
+  },
+  {
+    "hebName": "טריבנוזיד + לידוקאין (פרוקטו גליבנול)",
+    "engName": "Tribenoside + Lidocaine (Procto-Glyvenol)",
+    "link": "https://www.infomed.co.il/drugs/tribenoside-lidocaine-procto-glyvenol/"
+  },
+  {
+    "hebName": "טרימתופרים",
+    "engName": "Trimethoprim",
+    "link": "https://www.infomed.co.il/drugs/trimethoprim/"
+  },
+  {
+    "hebName": "טריפאראטיד",
+    "engName": "Teriparatide",
+    "link": "https://www.infomed.co.il/drugs/teriparatide/"
+  },
+  {
+    "hebName": "טריפטורלין (דקפפטיל)",
+    "engName": "Triptorelin (Decapeptyl)",
+    "link": "https://www.infomed.co.il/drugs/triptorelin-decapeptyl/"
+  },
+  {
+    "hebName": "טריפלונומיד (אובג'יו)",
+    "engName": "TERIFLUNOMIDE (AUBAGIO)",
+    "link": "https://www.infomed.co.il/drugs/teriflunomide-aubagio/"
+  },
+  {
+    "hebName": "טריפרולידין",
+    "engName": "Triprolidine",
+    "link": "https://www.infomed.co.il/drugs/triprolidine/"
+  },
+  {
+    "hebName": "טריקלוזן",
+    "engName": "Triclosan",
+    "link": "https://www.infomed.co.il/drugs/triclosan/"
+  },
+  {
+    "hebName": "טרמדול (טרמדקס)",
+    "engName": "Tramadol",
+    "link": "https://www.infomed.co.il/drugs/tramadol/"
+  },
+  {
+    "hebName": "טרפנאדין",
+    "engName": "Terfenadine",
+    "link": "https://www.infomed.co.il/drugs/terfenadine/"
+  },
+  {
+    "hebName": "טרפרוסטיניל",
+    "engName": "Treprostinil",
+    "link": "https://www.infomed.co.il/drugs/treprostinil/"
+  },
+  {
+    "hebName": "יוסטקינומאב",
+    "engName": "Ustekinumab",
+    "link": "https://www.infomed.co.il/drugs/ustekinumab/"
+  },
+  {
+    "hebName": "כולסטיראמין",
+    "engName": "Cholestyramine",
+    "link": "https://www.infomed.co.il/drugs/cholestyramine/"
+  },
+  {
+    "hebName": "כוריוגונדוטרופין אלפא (אוביטרל)",
+    "engName": "CHORIOGONADOTROPIN ALFA (Ovitrelle)",
+    "link": "https://www.infomed.co.il/drugs/choriogonadotropin-alfa-ovitrelle/"
+  },
+  {
+    "hebName": "כינידין",
+    "engName": "Quinidine",
+    "link": "https://www.infomed.co.il/drugs/quinidine/"
+  },
+  {
+    "hebName": "כינין",
+    "engName": "Quinine",
+    "link": "https://www.infomed.co.il/drugs/quinine/"
+  },
+  {
+    "hebName": "כלוראל הידראט",
+    "engName": "Chloral Hydrate",
+    "link": "https://www.infomed.co.il/drugs/chloral-hydrate/"
+  },
+  {
+    "hebName": "כלורדיאזפוקסיד כלידיניום ברומיד",
+    "engName": "Clidinium bromide Chlordiazepoxide",
+    "link": "https://www.infomed.co.il/drugs/clidinium-bromide-chlordiazepoxide/"
+  },
+  {
+    "hebName": "כלורהקסידין",
+    "engName": "Chlorhexidine",
+    "link": "https://www.infomed.co.il/drugs/chlorhexidine/"
+  },
+  {
+    "hebName": "כלורוקווין",
+    "engName": "Chloroquine",
+    "link": "https://www.infomed.co.il/drugs/chloroquine/"
+  },
+  {
+    "hebName": "כלורותיאזיד",
+    "engName": "Chlorothiazide",
+    "link": "https://www.infomed.co.il/drugs/chlorothiazide/"
+  },
+  {
+    "hebName": "כלורמפניקול (סינטומיצין)",
+    "engName": "Chloramphenicol",
+    "link": "https://www.infomed.co.il/drugs/chloramphenicol/"
+  },
+  {
+    "hebName": "כלורפניראמין",
+    "engName": "Chlorpheniramine",
+    "link": "https://www.infomed.co.il/drugs/chlorpheniramine/"
+  },
+  {
+    "hebName": "כלורפרומאזין",
+    "engName": "Chlorpromazine",
+    "link": "https://www.infomed.co.il/drugs/chlorpromazine/"
+  },
+  {
+    "hebName": "כלורפרופאמיד",
+    "engName": "Chlorpropamide",
+    "link": "https://www.infomed.co.il/drugs/chlorpropamide/"
+  },
+  {
+    "hebName": "כלורתאלידון",
+    "engName": "Chlorthalidone",
+    "link": "https://www.infomed.co.il/drugs/chlorthalidone/"
+  },
+  {
+    "hebName": "לאופרוליד",
+    "engName": "Leuprolide",
+    "link": "https://www.infomed.co.il/drugs/leuprolide/"
+  },
+  {
+    "hebName": "לאמוטריג'ין (למיקטל)",
+    "engName": "(Lamotrigine (Lamictal",
+    "link": "https://www.infomed.co.il/drugs/lamotrigine-lamictal/"
+  },
+  {
+    "hebName": "לאמיבודין",
+    "engName": "Lamivudine (3TC)",
+    "link": "https://www.infomed.co.il/drugs/lamivudine-3tc/"
+  },
+  {
+    "hebName": "לאקטולוז",
+    "engName": "Lactulose",
+    "link": "https://www.infomed.co.il/drugs/lactulose/"
+  },
+  {
+    "hebName": "לבודופה",
+    "engName": "Levodopa",
+    "link": "https://www.infomed.co.il/drugs/levodopa/"
+  },
+  {
+    "hebName": "לבומפרומאזין",
+    "engName": "Levomepromazine",
+    "link": "https://www.infomed.co.il/drugs/levomepromazine/"
+  },
+  {
+    "hebName": "לבונורגסטרל",
+    "engName": "Levonorgestrel",
+    "link": "https://www.infomed.co.il/drugs/levonorgestrel/"
+  },
+  {
+    "hebName": "לבופלוקסצין (טאבניק, לבו)",
+    "engName": "Levofloxacin",
+    "link": "https://www.infomed.co.il/drugs/levofloxacin/"
+  },
+  {
+    "hebName": "לבוקבסטין",
+    "engName": "Levocabastine",
+    "link": "https://www.infomed.co.il/drugs/levocabastine/"
+  },
+  {
+    "hebName": "לבותירוקסין (אלטרוקסין, יוטירוקס, סינטרואיד)",
+    "engName": "Levothyroxine, Eltroxin, Euthyrox, Synthroid",
+    "link": "https://www.infomed.co.il/drugs/levothyroxine-eltroxin-euthyrox-synthroid/"
+  },
+  {
+    "hebName": "לבטירצטם",
+    "engName": "Levetiracetam",
+    "link": "https://www.infomed.co.il/drugs/levetiracetam/"
+  },
+  {
+    "hebName": "לבטלול",
+    "engName": "Labetalol",
+    "link": "https://www.infomed.co.il/drugs/labetalol/"
+  },
+  {
+    "hebName": "לגבריו (מולנופיראוויר)",
+    "engName": "Lagevrio (Molnupiravir)",
+    "link": "https://www.infomed.co.il/drugs/lagevrio-molnupiravir/"
+  },
+  {
+    "hebName": "לובאסטאטין",
+    "engName": "Lovastatin",
+    "link": "https://www.infomed.co.il/drugs/lovastatin/"
+  },
+  {
+    "hebName": "לודוקסמיד",
+    "engName": "Lodoxamide",
+    "link": "https://www.infomed.co.il/drugs/lodoxamide/"
+  },
+  {
+    "hebName": "לומפלוקסאסין",
+    "engName": "Lomefloxacin",
+    "link": "https://www.infomed.co.il/drugs/lomefloxacin/"
+  },
+  {
+    "hebName": "לוסטרל - סרטרלין (סרנדה)",
+    "engName": "(Sertraline (Lustral, Serenada)",
+    "link": "https://www.infomed.co.il/drugs/sertraline-lustral-serenada/"
+  },
+  {
+    "hebName": "לוסרטן (אוקסר, לוסרדקס, לוטן)",
+    "engName": "Losartan, Ocsaar, Losardex",
+    "link": "https://www.infomed.co.il/drugs/losartan-ocsaar-losardex/"
+  },
+  {
+    "hebName": "לופראמיד",
+    "engName": "Loperamide",
+    "link": "https://www.infomed.co.il/drugs/loperamide/"
+  },
+  {
+    "hebName": "לוראזפאם (לוריוון, לוריבן)",
+    "engName": "Lorazepam, Lorivan",
+    "link": "https://www.infomed.co.il/drugs/lorazepam-lorivan/"
+  },
+  {
+    "hebName": "לורטדין (לורסטין, אלרג'יקס)",
+    "engName": "Loratadine",
+    "link": "https://www.infomed.co.il/drugs/loratadine/"
+  },
+  {
+    "hebName": "לורנוקסיקאם",
+    "engName": "Lornoxicam",
+    "link": "https://www.infomed.co.il/drugs/lornoxicam/"
+  },
+  {
+    "hebName": "לטנופרוסט (גלאוטן, קסאלטן)",
+    "engName": "Latanoprost",
+    "link": "https://www.infomed.co.il/drugs/latanoprost/"
+  },
+  {
+    "hebName": "לטרוזול",
+    "engName": "Letrozole",
+    "link": "https://www.infomed.co.il/drugs/letrozole/"
+  },
+  {
+    "hebName": "לידוקאין",
+    "engName": "Lidocaine",
+    "link": "https://www.infomed.co.il/drugs/lidocaine/"
+  },
+  {
+    "hebName": "לידוקאין + פרילוקאין (אמלה)",
+    "engName": "Prilocaine + Lidocaine (Emla)",
+    "link": "https://www.infomed.co.il/drugs/prilocaine-lidocaine-emla/"
+  },
+  {
+    "hebName": "ליזינופריל",
+    "engName": "Lisinopril",
+    "link": "https://www.infomed.co.il/drugs/lisinopril/"
+  },
+  {
+    "hebName": "לינגליפטין (טרג'נטה)",
+    "engName": "Linagliptin (Trajenta)",
+    "link": "https://www.infomed.co.il/drugs/linagliptin-trajenta/"
+  },
+  {
+    "hebName": "לינדיין",
+    "engName": "Lindane",
+    "link": "https://www.infomed.co.il/drugs/lindane/"
+  },
+  {
+    "hebName": "לינזוליד",
+    "engName": "Linezolid",
+    "link": "https://www.infomed.co.il/drugs/linezolid/"
+  },
+  {
+    "hebName": "ליסוריד",
+    "engName": "Lisuride",
+    "link": "https://www.infomed.co.il/drugs/lisuride/"
+  },
+  {
+    "hebName": "לירגלוטייד (ויקטוזה)",
+    "engName": "LIRAGLUTIDE (VICTOZA)",
+    "link": "https://www.infomed.co.il/drugs/liraglutide-victoza/"
+  },
+  {
+    "hebName": "ליתיום",
+    "engName": "Lithium",
+    "link": "https://www.infomed.co.il/drugs/lithium/"
+  },
+  {
+    "hebName": "לנוגראסטים",
+    "engName": "Lenograstim",
+    "link": "https://www.infomed.co.il/drugs/lenograstim/"
+  },
+  {
+    "hebName": "לנלידומיד",
+    "engName": "Lenalidomide",
+    "link": "https://www.infomed.co.il/drugs/lenalidomide/"
+  },
+  {
+    "hebName": "לנסופרזול (לנטון)",
+    "engName": "Lansoprazole, Lanton",
+    "link": "https://www.infomed.co.il/drugs/lansoprazole-lanton/"
+  },
+  {
+    "hebName": "לנתנום",
+    "engName": "Lanthanum",
+    "link": "https://www.infomed.co.il/drugs/lanthanum/"
+  },
+  {
+    "hebName": "לפטיניב",
+    "engName": "Lapatinib",
+    "link": "https://www.infomed.co.il/drugs/lapatinib/"
+  },
+  {
+    "hebName": "לפלונומיד (ערבה)",
+    "engName": "Leflunomide",
+    "link": "https://www.infomed.co.il/drugs/leflunomide/"
+  },
+  {
+    "hebName": "לקטיטול",
+    "engName": "Lactitol",
+    "link": "https://www.infomed.co.il/drugs/lactitol/"
+  },
+  {
+    "hebName": "לרקאנידיפין (וזודיפ, לרקפרס)",
+    "engName": "(Lercanidipine (Vasodip, Lercapress",
+    "link": "https://www.infomed.co.il/drugs/lercanidipine-vasodip-lercapress/"
+  },
+  {
+    "hebName": "מאלאתיון",
+    "engName": "Malathion",
+    "link": "https://www.infomed.co.il/drugs/malathion/"
+  },
+  {
+    "hebName": "מאפרוטילין",
+    "engName": "Maprotiline",
+    "link": "https://www.infomed.co.il/drugs/maprotiline/"
+  },
+  {
+    "hebName": "מאראבירוק",
+    "engName": "Maraviroc",
+    "link": "https://www.infomed.co.il/drugs/maraviroc/"
+  },
+  {
+    "hebName": "מבברין",
+    "engName": "Mebeverine",
+    "link": "https://www.infomed.co.il/drugs/mebeverine/"
+  },
+  {
+    "hebName": "מבהידרולין",
+    "engName": "Mebhydroline",
+    "link": "https://www.infomed.co.il/drugs/mebhydroline/"
+  },
+  {
+    "hebName": "מבנדאזול (ורמוקס)",
+    "engName": "Mebendazole, Vermox",
+    "link": "https://www.infomed.co.il/drugs/mebendazole-vermox/"
+  },
+  {
+    "hebName": "מגסטרול",
+    "engName": "Megestrol",
+    "link": "https://www.infomed.co.il/drugs/megestrol/"
+  },
+  {
+    "hebName": "מדרוקסיפרוגסטרון",
+    "engName": "Medroxyprogesterone",
+    "link": "https://www.infomed.co.il/drugs/medroxyprogesterone/"
+  },
+  {
+    "hebName": "מודפיניל",
+    "engName": "Modafinil",
+    "link": "https://www.infomed.co.il/drugs/modafinil/"
+  },
+  {
+    "hebName": "מומטאזון",
+    "engName": "Mometasone",
+    "link": "https://www.infomed.co.il/drugs/mometasone/"
+  },
+  {
+    "hebName": "מונוקסרוטין",
+    "engName": "Monoxerutin",
+    "link": "https://www.infomed.co.il/drugs/monoxerutin/"
+  },
+  {
+    "hebName": "מונטלוקאסט (סינגולייר)",
+    "engName": "Montelukast sodium",
+    "link": "https://www.infomed.co.il/drugs/montelukast-sodium/"
+  },
+  {
+    "hebName": "מופירוצין (בקטרובן)",
+    "engName": "Mupirocin",
+    "link": "https://www.infomed.co.il/drugs/mupirocin/"
+  },
+  {
+    "hebName": "מוקסיפלוקסאצין",
+    "engName": "Moxifloxacin",
+    "link": "https://www.infomed.co.il/drugs/moxifloxacin/"
+  },
+  {
+    "hebName": "מורפולין סליצילאט",
+    "engName": "Morpholine Salicylate",
+    "link": "https://www.infomed.co.il/drugs/morpholine-salicylate/"
+  },
+  {
+    "hebName": "מורפיום (מורפין) לבעלי חיים",
+    "engName": "Morphine for animals",
+    "link": "https://www.infomed.co.il/drugs/morphine-for-animals/"
+  },
+  {
+    "hebName": "מורפין (MCR, MIR)",
+    "engName": "Morphine (MCR, MIR)",
+    "link": "https://www.infomed.co.il/drugs/morphine-mcr-mir/"
+  },
+  {
+    "hebName": "מטולאזון",
+    "engName": "Metolazone",
+    "link": "https://www.infomed.co.il/drugs/metolazone/"
+  },
+  {
+    "hebName": "מטופירון",
+    "engName": "METOPIRINE",
+    "link": "https://www.infomed.co.il/drugs/metopirine/"
+  },
+  {
+    "hebName": "מטופרולול",
+    "engName": "Metoprolol",
+    "link": "https://www.infomed.co.il/drugs/metoprolol/"
+  },
+  {
+    "hebName": "מטוקלופראמיד (פרמין)",
+    "engName": "Metoclopramide, Pramin",
+    "link": "https://www.infomed.co.il/drugs/metoclopramide-pramin/"
+  },
+  {
+    "hebName": "מטנאמין היפוראט",
+    "engName": "Methenamine hippurate",
+    "link": "https://www.infomed.co.il/drugs/methenamine-hippurate/"
+  },
+  {
+    "hebName": "מטפורמין (גלוקומין)",
+    "engName": "Metformin (Glucomin, Glucophage)",
+    "link": "https://www.infomed.co.il/drugs/metformin-glucomin-glucophage/"
+  },
+  {
+    "hebName": "מטרונידאזול",
+    "engName": "Metronidazole",
+    "link": "https://www.infomed.co.il/drugs/metronidazole/"
+  },
+  {
+    "hebName": "מיאנסרין",
+    "engName": "Mianserin",
+    "link": "https://www.infomed.co.il/drugs/mianserin/"
+  },
+  {
+    "hebName": "מידודרין",
+    "engName": "Midodrine",
+    "link": "https://www.infomed.co.il/drugs/midodrine/"
+  },
+  {
+    "hebName": "מיזולאסטין",
+    "engName": "Mizolastine",
+    "link": "https://www.infomed.co.il/drugs/mizolastine/"
+  },
+  {
+    "hebName": "מיטומיצין C",
+    "engName": "Mitomycin C",
+    "link": "https://www.infomed.co.il/drugs/mitomycin-c/"
+  },
+  {
+    "hebName": "מיטוקסנטרון (נובנטרון)",
+    "engName": "MITOXANTRONE (NOVANTRONE)",
+    "link": "https://www.infomed.co.il/drugs/mitoxantrone-novantrone/"
+  },
+  {
+    "hebName": "מילנציפרן",
+    "engName": "Milnacipran",
+    "link": "https://www.infomed.co.il/drugs/milnacipran/"
+  },
+  {
+    "hebName": "מינוציקלין",
+    "engName": "Minocycline",
+    "link": "https://www.infomed.co.il/drugs/minocycline/"
+  },
+  {
+    "hebName": "מינוקסידיל (מינוקסי)",
+    "engName": "Minoxidil",
+    "link": "https://www.infomed.co.il/drugs/minoxidil/"
+  },
+  {
+    "hebName": "מיסופרוסטול (ציטוטק)",
+    "engName": "Misoprostol, Cytotec",
+    "link": "https://www.infomed.co.il/drugs/misoprostol-cytotec/"
+  },
+  {
+    "hebName": "מיפפריסטון",
+    "engName": "Mifepristone",
+    "link": "https://www.infomed.co.il/drugs/mifepristone/"
+  },
+  {
+    "hebName": "מיקונאזול",
+    "engName": "Miconazole",
+    "link": "https://www.infomed.co.il/drugs/miconazole/"
+  },
+  {
+    "hebName": "מיקופנולאט",
+    "engName": "Mycophenolate",
+    "link": "https://www.infomed.co.il/drugs/mycophenolate/"
+  },
+  {
+    "hebName": "מירטאזאפין (מירו, רמרון)",
+    "engName": "Mirtazapine, Miro, Remeron",
+    "link": "https://www.infomed.co.il/drugs/mirtazapine-miro-remeron/"
+  },
+  {
+    "hebName": "מלטונין (סירקדין)",
+    "engName": "Melatonin, Circadin",
+    "link": "https://www.infomed.co.il/drugs/melatonin-circadin/"
+  },
+  {
+    "hebName": "ממאנטין",
+    "engName": "Memantine",
+    "link": "https://www.infomed.co.il/drugs/memantine/"
+  },
+  {
+    "hebName": "מסאלאמין",
+    "engName": "Mesalamine (5-aminosalicylic acid)",
+    "link": "https://www.infomed.co.il/drugs/mesalamine-5-aminosalicylic-acid/"
+  },
+  {
+    "hebName": "מסטרולון",
+    "engName": "Mesterolone",
+    "link": "https://www.infomed.co.il/drugs/mesterolone/"
+  },
+  {
+    "hebName": "מפלוקווין",
+    "engName": "Mefloquine",
+    "link": "https://www.infomed.co.il/drugs/mefloquine/"
+  },
+  {
+    "hebName": "מקסילטין הידרוכלוריד",
+    "engName": "Mexiletine Hydrochloride",
+    "link": "https://www.infomed.co.il/drugs/mexiletine-hydrochloride/"
+  },
+  {
+    "hebName": "מרקאפטופורין",
+    "engName": "Mercaptopurine",
+    "link": "https://www.infomed.co.il/drugs/mercaptopurine/"
+  },
+  {
+    "hebName": "משככי כאבים לבעלי חיים",
+    "engName": "Analgesics for animals",
+    "link": "https://www.infomed.co.il/drugs/analgesics-for-animals/"
+  },
+  {
+    "hebName": "מתאזולאמיד",
+    "engName": "Methazolamide",
+    "link": "https://www.infomed.co.il/drugs/methazolamide/"
+  },
+  {
+    "hebName": "מתדון",
+    "engName": "Methadone",
+    "link": "https://www.infomed.co.il/drugs/methadone/"
+  },
+  {
+    "hebName": "מתוטרקסאט (מטוטרקסט)",
+    "engName": "Methotrexate",
+    "link": "https://www.infomed.co.il/drugs/methotrexate/"
+  },
+  {
+    "hebName": "מתילארגומטרין",
+    "engName": "Methylergometrine",
+    "link": "https://www.infomed.co.il/drugs/methylergometrine/"
+  },
+  {
+    "hebName": "מתילדופה",
+    "engName": "Methyldopa",
+    "link": "https://www.infomed.co.il/drugs/methyldopa/"
+  },
+  {
+    "hebName": "מתילפנידאט (ריטלין, קונצרטה)",
+    "engName": "Methylphenidate (Ritalin, Concerta)",
+    "link": "https://www.infomed.co.il/drugs/methylphenidate-ritalin-concerta/"
+  },
+  {
+    "hebName": "מתילפרדניזולון",
+    "engName": "Methylprednisolone",
+    "link": "https://www.infomed.co.il/drugs/methylprednisolone/"
+  },
+  {
+    "hebName": "מתימאזול",
+    "engName": "Methimazole",
+    "link": "https://www.infomed.co.il/drugs/methimazole/"
+  },
+  {
+    "hebName": "נאבומטון",
+    "engName": "Nabumetone",
+    "link": "https://www.infomed.co.il/drugs/nabumetone/"
+  },
+  {
+    "hebName": "נאומיצין",
+    "engName": "Neomycin",
+    "link": "https://www.infomed.co.il/drugs/neomycin/"
+  },
+  {
+    "hebName": "נאפאזולין",
+    "engName": "Naphazoline",
+    "link": "https://www.infomed.co.il/drugs/naphazoline/"
+  },
+  {
+    "hebName": "נאפרוקסן (נרוסין, נקסין, פוינט)",
+    "engName": "Naproxen (NAROCIN, NAXYN, POINT)",
+    "link": "https://www.infomed.co.il/drugs/naproxen-narocin-naxyn-point/"
+  },
+  {
+    "hebName": "נאראטריפטאן",
+    "engName": "Naratriptan",
+    "link": "https://www.infomed.co.il/drugs/naratriptan/"
+  },
+  {
+    "hebName": "נביראפין",
+    "engName": "Nevirapine",
+    "link": "https://www.infomed.co.il/drugs/nevirapine/"
+  },
+  {
+    "hebName": "נדוכרומיל סודיום",
+    "engName": "Nedocromil Sodium",
+    "link": "https://www.infomed.co.il/drugs/nedocromil-sodium/"
+  },
+  {
+    "hebName": "נונוקסינול 9 + חומצה רצינולית",
+    "engName": "Nonoxinol 9 + Ricinoleic acid",
+    "link": "https://www.infomed.co.il/drugs/nonoxinol-9-ricinoleic-acid/"
+  },
+  {
+    "hebName": "נוסידקס",
+    "engName": "Nussidex",
+    "link": "https://www.infomed.co.il/drugs/nussidex/"
+  },
+  {
+    "hebName": "נורטריפטילין",
+    "engName": "Nortriptyline",
+    "link": "https://www.infomed.co.il/drugs/nortriptyline/"
+  },
+  {
+    "hebName": "נורפלוקסאצין",
+    "engName": "Norfloxacin",
+    "link": "https://www.infomed.co.il/drugs/norfloxacin/"
+  },
+  {
+    "hebName": "נטופיטנט + פלונוסטרון (אקינזאו)",
+    "engName": "Netupitant + Palonosetron (Akynzeo)",
+    "link": "https://www.infomed.co.il/drugs/netupitant-palonosetron-akynzeo/"
+  },
+  {
+    "hebName": "נטליזומאב (טיסברי)",
+    "engName": "Natalizumab (Tysabri)",
+    "link": "https://www.infomed.co.il/drugs/natalizumab-tysabri/"
+  },
+  {
+    "hebName": "ניטראזפאם",
+    "engName": "Nitrazepam",
+    "link": "https://www.infomed.co.il/drugs/nitrazepam/"
+  },
+  {
+    "hebName": "ניטרוגליצרין (גליצריל טריניטראט)",
+    "engName": "Nitroglycerin",
+    "link": "https://www.infomed.co.il/drugs/nitroglycerin/"
+  },
+  {
+    "hebName": "ניטרופוראנטואין",
+    "engName": "Nitrofurantoin",
+    "link": "https://www.infomed.co.il/drugs/nitrofurantoin/"
+  },
+  {
+    "hebName": "נילוטיניב",
+    "engName": "Nilotinib",
+    "link": "https://www.infomed.co.il/drugs/nilotinib/"
+  },
+  {
+    "hebName": "נימודיפין",
+    "engName": "Nimodipine",
+    "link": "https://www.infomed.co.il/drugs/nimodipine/"
+  },
+  {
+    "hebName": "נימסוליד",
+    "engName": "Nimesulide",
+    "link": "https://www.infomed.co.il/drugs/nimesulide/"
+  },
+  {
+    "hebName": "נינטדניב (אופב)",
+    "engName": "Nintedanib (OFEV)",
+    "link": "https://www.infomed.co.il/drugs/nintedanib-ofev/"
+  },
+  {
+    "hebName": "ניסטטין",
+    "engName": "Nystatin",
+    "link": "https://www.infomed.co.il/drugs/nystatin/"
+  },
+  {
+    "hebName": "ניפדיפין",
+    "engName": "Nifedipine",
+    "link": "https://www.infomed.co.il/drugs/nifedipine/"
+  },
+  {
+    "hebName": "ניקוטין",
+    "engName": "Nicotine",
+    "link": "https://www.infomed.co.il/drugs/nicotine/"
+  },
+  {
+    "hebName": "ניקלוזאמיד",
+    "engName": "Niclosamide",
+    "link": "https://www.infomed.co.il/drugs/niclosamide/"
+  },
+  {
+    "hebName": "נלוקסון",
+    "engName": "Naloxone",
+    "link": "https://www.infomed.co.il/drugs/naloxone/"
+  },
+  {
+    "hebName": "נלטרקסון",
+    "engName": "Naltrexone",
+    "link": "https://www.infomed.co.il/drugs/naltrexone/"
+  },
+  {
+    "hebName": "נלראבין",
+    "engName": "Nelarabine",
+    "link": "https://www.infomed.co.il/drugs/nelarabine/"
+  },
+  {
+    "hebName": "נפאזודון",
+    "engName": "Nefazodone",
+    "link": "https://www.infomed.co.il/drugs/nefazodone/"
+  },
+  {
+    "hebName": "נפארלין",
+    "engName": "Nafarelin",
+    "link": "https://www.infomed.co.il/drugs/nafarelin/"
+  },
+  {
+    "hebName": "נתרן כלוריד (סודיום כלוריד)",
+    "engName": "SODIUM CHLORIDE",
+    "link": "https://www.infomed.co.il/drugs/sodium-chloride/"
+  },
+  {
+    "hebName": "סאלבוטאמול (ונטולין, סלבותרים)",
+    "engName": "Salbutamol, Ventolin, Salbutrim",
+    "link": "https://www.infomed.co.il/drugs/salbutamol-ventolin-salbutrim/"
+  },
+  {
+    "hebName": "סאלמטרול",
+    "engName": "Salmeterol",
+    "link": "https://www.infomed.co.il/drugs/salmeterol/"
+  },
+  {
+    "hebName": "סאקווינאביר",
+    "engName": "Saquinavir",
+    "link": "https://www.infomed.co.il/drugs/saquinavir/"
+  },
+  {
+    "hebName": "סבלמר",
+    "engName": "Sevelamer",
+    "link": "https://www.infomed.co.il/drugs/sevelamer/"
+  },
+  {
+    "hebName": "סודיום ואלפרואט",
+    "engName": "Sodium Valproate",
+    "link": "https://www.infomed.co.il/drugs/sodium-valproate/"
+  },
+  {
+    "hebName": "סודיום כרומוגליקאט",
+    "engName": "Sodium Cromoglycate",
+    "link": "https://www.infomed.co.il/drugs/sodium-cromoglycate/"
+  },
+  {
+    "hebName": "סודיום פוסידאט",
+    "engName": "Fusidate Sodium",
+    "link": "https://www.infomed.co.il/drugs/fusidate-sodium/"
+  },
+  {
+    "hebName": "סודיום פוספאט",
+    "engName": "Sodium phosphate",
+    "link": "https://www.infomed.co.il/drugs/sodium-phosphate/"
+  },
+  {
+    "hebName": "סודיום ציטרט + גליצרול + סודיום לאוריל סולפואצטט",
+    "engName": "Glycerol+Sodium citrate+Sodium lauryl sulphoacetat",
+    "link": "https://www.infomed.co.il/drugs/glycerol-sodium-citrate-sodium-lauryl-sulphoacetat/"
+  },
+  {
+    "hebName": "סוטלול",
+    "engName": "Sotalol",
+    "link": "https://www.infomed.co.il/drugs/sotalol/"
+  },
+  {
+    "hebName": "סוכראלפאט",
+    "engName": "Sucralfate",
+    "link": "https://www.infomed.co.il/drugs/sucralfate/"
+  },
+  {
+    "hebName": "סולטיאם",
+    "engName": "Sulthiame",
+    "link": "https://www.infomed.co.il/drugs/sulthiame/"
+  },
+  {
+    "hebName": "סוליפנאסין",
+    "engName": "Solifenacin",
+    "link": "https://www.infomed.co.il/drugs/solifenacin/"
+  },
+  {
+    "hebName": "סולפאדיאזין מלחת הכסף (סילברול)",
+    "engName": "Silver sulphadiazine (Silverol)",
+    "link": "https://www.infomed.co.il/drugs/silver-sulphadiazine-silverol/"
+  },
+  {
+    "hebName": "סולפאסאלאזין",
+    "engName": "Sulfasalazine",
+    "link": "https://www.infomed.co.il/drugs/sulfasalazine/"
+  },
+  {
+    "hebName": "סולפיריד (מודל)",
+    "engName": "Modal, Sulpiride",
+    "link": "https://www.infomed.co.il/drugs/modal-sulpiride/"
+  },
+  {
+    "hebName": "סולפצטאמיד",
+    "engName": "Sulfacetamide",
+    "link": "https://www.infomed.co.il/drugs/sulfacetamide/"
+  },
+  {
+    "hebName": "סומאטריפטאן",
+    "engName": "Sumatriptan",
+    "link": "https://www.infomed.co.il/drugs/sumatriptan/"
+  },
+  {
+    "hebName": "סונידגיב 200 מ\"ג",
+    "engName": "sonidegib 200mg",
+    "link": "https://www.infomed.co.il/drugs/sonidegib-200mg/"
+  },
+  {
+    "hebName": "סוניטיניב",
+    "engName": "Sunitinib",
+    "link": "https://www.infomed.co.il/drugs/sunitinib/"
+  },
+  {
+    "hebName": "סוראפניב",
+    "engName": "Sorafenib",
+    "link": "https://www.infomed.co.il/drugs/sorafenib/"
+  },
+  {
+    "hebName": "סטרואידים",
+    "engName": "Steroids",
+    "link": "https://www.infomed.co.il/drugs/steroids/"
+  },
+  {
+    "hebName": "סטריכנין - יוהימבין",
+    "engName": "Strychnine + Yohimbine",
+    "link": "https://www.infomed.co.il/drugs/strychnine-yohimbine/"
+  },
+  {
+    "hebName": "סטרפטוקינאז",
+    "engName": "Streptokinase",
+    "link": "https://www.infomed.co.il/drugs/streptokinase/"
+  },
+  {
+    "hebName": "סיבוטראמין",
+    "engName": "Sibutramine",
+    "link": "https://www.infomed.co.il/drugs/sibutramine/"
+  },
+  {
+    "hebName": "סיטגליפטין + מטפורמין (ג'נואט)",
+    "engName": "Sitagliptin + Metformin (JANUET)",
+    "link": "https://www.infomed.co.il/drugs/sitagliptin-metformin-januet/"
+  },
+  {
+    "hebName": "סילאזאפריל",
+    "engName": "Cilazapril",
+    "link": "https://www.infomed.co.il/drugs/cilazapril/"
+  },
+  {
+    "hebName": "סימבסטטין (סימוביל, סימבקור)",
+    "engName": "Simvastatin",
+    "link": "https://www.infomed.co.il/drugs/simvastatin/"
+  },
+  {
+    "hebName": "סימדקו",
+    "engName": "Symdeko",
+    "link": "https://www.infomed.co.il/drugs/symdeko/"
+  },
+  {
+    "hebName": "סימטידין (טגמט)",
+    "engName": "Cimetidine (Tagamet)",
+    "link": "https://www.infomed.co.il/drugs/cimetidine-tagamet/"
+  },
+  {
+    "hebName": "סימתיקון (סימיקול, גזיםX)",
+    "engName": "Simethicone, Simicol, GazimX",
+    "link": "https://www.infomed.co.il/drugs/simethicone-simicol-gazimx/"
+  },
+  {
+    "hebName": "סינאקלסט",
+    "engName": "Cinacalcet",
+    "link": "https://www.infomed.co.il/drugs/cinacalcet/"
+  },
+  {
+    "hebName": "סינאריזין (סטונרון)",
+    "engName": "Cinnarizine (Stunarone)",
+    "link": "https://www.infomed.co.il/drugs/cinnarizine-stunarone/"
+  },
+  {
+    "hebName": "סירולימוס",
+    "engName": "Sirolimus",
+    "link": "https://www.infomed.co.il/drugs/sirolimus/"
+  },
+  {
+    "hebName": "סלג'ילין",
+    "engName": "Selegiline",
+    "link": "https://www.infomed.co.il/drugs/selegiline/"
+  },
+  {
+    "hebName": "סלניום סולפיד",
+    "engName": "Selenium sulphide",
+    "link": "https://www.infomed.co.il/drugs/selenium-sulphide/"
+  },
+  {
+    "hebName": "סלקוקסיב",
+    "engName": "celecoxib",
+    "link": "https://www.infomed.co.il/drugs/celecoxib/"
+  },
+  {
+    "hebName": "סמגלוטייד",
+    "engName": "semaglutide",
+    "link": "https://www.infomed.co.il/drugs/semaglutide/"
+  },
+  {
+    "hebName": "סנה",
+    "engName": "Senna",
+    "link": "https://www.infomed.co.il/drugs/senna/"
+  },
+  {
+    "hebName": "ספירונולאקטון",
+    "engName": "Spironolactone",
+    "link": "https://www.infomed.co.il/drugs/spironolactone/"
+  },
+  {
+    "hebName": "סקופולאמין",
+    "engName": "Scopolamine",
+    "link": "https://www.infomed.co.il/drugs/scopolamine/"
+  },
+  {
+    "hebName": "סקוקינומאב",
+    "engName": "Secukinumab",
+    "link": "https://www.infomed.co.il/drugs/secukinumab/"
+  },
+  {
+    "hebName": "סרוקוול - קוואטיאפין",
+    "engName": "Quetiapine, Seroquel",
+    "link": "https://www.infomed.co.il/drugs/quetiapine-seroquel/"
+  },
+  {
+    "hebName": "סרטינדול",
+    "engName": "Sertindole",
+    "link": "https://www.infomed.co.il/drugs/sertindole/"
+  },
+  {
+    "hebName": "פאביפיראביר (פאווילאוויר)",
+    "engName": "Favipiravir (Favilavir)",
+    "link": "https://www.infomed.co.il/drugs/favipiravir-favilavir/"
+  },
+  {
+    "hebName": "פאליפרידון",
+    "engName": "Paliperidone",
+    "link": "https://www.infomed.co.il/drugs/paliperidone/"
+  },
+  {
+    "hebName": "פאמידרונאט",
+    "engName": "Pamidronate",
+    "link": "https://www.infomed.co.il/drugs/pamidronate/"
+  },
+  {
+    "hebName": "פאמציקלוביר",
+    "engName": "Famciclovir",
+    "link": "https://www.infomed.co.il/drugs/famciclovir/"
+  },
+  {
+    "hebName": "פאנטופראזול",
+    "engName": "Pantoprazole",
+    "link": "https://www.infomed.co.il/drugs/pantoprazole/"
+  },
+  {
+    "hebName": "פאנקרליפאז",
+    "engName": "Pancrelipase",
+    "link": "https://www.infomed.co.il/drugs/pancrelipase/"
+  },
+  {
+    "hebName": "פאקליטאקסל",
+    "engName": "Paclitaxel",
+    "link": "https://www.infomed.co.il/drugs/paclitaxel/"
+  },
+  {
+    "hebName": "פארומומיצין + מתיל-בנזתוניום",
+    "engName": "Paromomycin Methylbenzethonium Chloride",
+    "link": "https://www.infomed.co.il/drugs/paromomycin-methylbenzethonium-chloride/"
+  },
+  {
+    "hebName": "פארוקסטין (סרוקסט)",
+    "engName": "Paroxetine",
+    "link": "https://www.infomed.co.il/drugs/paroxetine/"
+  },
+  {
+    "hebName": "פאריקלציטול",
+    "engName": "Paricalcitol",
+    "link": "https://www.infomed.co.il/drugs/paricalcitol/"
+  },
+  {
+    "hebName": "פארצטמול + אורפנדרין (מוסקול)",
+    "engName": "Paracetamol + Orphenadrine (Muscol)",
+    "link": "https://www.infomed.co.il/drugs/paracetamol-orphenadrine-muscol/"
+  },
+  {
+    "hebName": "פגביסומנט",
+    "engName": "Pegvisomant",
+    "link": "https://www.infomed.co.il/drugs/pegvisomant/"
+  },
+  {
+    "hebName": "פגפילגראסטים",
+    "engName": "Pegfilgrastim",
+    "link": "https://www.infomed.co.il/drugs/pegfilgrastim/"
+  },
+  {
+    "hebName": "פובידון יודין (פולידין)",
+    "engName": "Povidone iodine",
+    "link": "https://www.infomed.co.il/drugs/povidone-iodine/"
+  },
+  {
+    "hebName": "פודופילוטוקסין",
+    "engName": "Podophyllotoxin",
+    "link": "https://www.infomed.co.il/drugs/podophyllotoxin/"
+  },
+  {
+    "hebName": "פולווסטראנט",
+    "engName": "Fulvestrant",
+    "link": "https://www.infomed.co.il/drugs/fulvestrant/"
+  },
+  {
+    "hebName": "פוליאתילן גליקול 3350",
+    "engName": "POLYETHYLENE GLYCOL 3350",
+    "link": "https://www.infomed.co.il/drugs/polyethylene-glycol-3350/"
+  },
+  {
+    "hebName": "פולידוקנול",
+    "engName": "Polidocanol",
+    "link": "https://www.infomed.co.il/drugs/polidocanol/"
+  },
+  {
+    "hebName": "פוליטרופין",
+    "engName": "Follitropin",
+    "link": "https://www.infomed.co.il/drugs/follitropin/"
+  },
+  {
+    "hebName": "פולימיקסין B סולפאט",
+    "engName": "Polymyxin B sulphate",
+    "link": "https://www.infomed.co.il/drugs/polymyxin-b-sulphate/"
+  },
+  {
+    "hebName": "פוליסכרידים פנוימוקוקלים",
+    "engName": "pneumococcal polysaccharide",
+    "link": "https://www.infomed.co.il/drugs/pneumococcal-polysaccharide/"
+  },
+  {
+    "hebName": "פונטיניב",
+    "engName": "Ponatinib",
+    "link": "https://www.infomed.co.il/drugs/ponatinib/"
+  },
+  {
+    "hebName": "פוסאמפרנאביר",
+    "engName": "Fosamprenavir",
+    "link": "https://www.infomed.co.il/drugs/fosamprenavir/"
+  },
+  {
+    "hebName": "פוסאקונאזול",
+    "engName": "Posaconazole",
+    "link": "https://www.infomed.co.il/drugs/posaconazole/"
+  },
+  {
+    "hebName": "פוסטינור - גלולת היום שאחרי (נורלבו, לבונורגסטרל)",
+    "engName": "LEVONORGESTREL (Postinor, Norlev",
+    "link": "https://www.infomed.co.il/drugs/levonorgestrel-postinor-norlev/"
+  },
+  {
+    "hebName": "פוסינופריל",
+    "engName": "Fosinopril",
+    "link": "https://www.infomed.co.il/drugs/fosinopril/"
+  },
+  {
+    "hebName": "פוספומיצין",
+    "engName": "Fosfomycin",
+    "link": "https://www.infomed.co.il/drugs/fosfomycin/"
+  },
+  {
+    "hebName": "פורוסמיד (פוסיד)",
+    "engName": "Furosemide, Fusid",
+    "link": "https://www.infomed.co.il/drugs/furosemide-fusid/"
+  },
+  {
+    "hebName": "פורוסמיד (פוסיד) לבעלי חיים",
+    "engName": "Furosemide (fusid) for animals",
+    "link": "https://www.infomed.co.il/drugs/furosemide-fusid-for-animals/"
+  },
+  {
+    "hebName": "פורמוטרול",
+    "engName": "Formoterol",
+    "link": "https://www.infomed.co.il/drugs/formoterol/"
+  },
+  {
+    "hebName": "פחם פעיל",
+    "engName": "Charcoal Activated",
+    "link": "https://www.infomed.co.il/drugs/charcoal-activated/"
+  },
+  {
+    "hebName": "פילגראסטים",
+    "engName": "Filgrastim",
+    "link": "https://www.infomed.co.il/drugs/filgrastim/"
+  },
+  {
+    "hebName": "פילוקארפין",
+    "engName": "Pilocarpine",
+    "link": "https://www.infomed.co.il/drugs/pilocarpine/"
+  },
+  {
+    "hebName": "פימוזיד",
+    "engName": "Pimozide",
+    "link": "https://www.infomed.co.il/drugs/pimozide/"
+  },
+  {
+    "hebName": "פימקרולימוס",
+    "engName": "Pimecrolimus",
+    "link": "https://www.infomed.co.il/drugs/pimecrolimus/"
+  },
+  {
+    "hebName": "פינאסטריד",
+    "engName": "Finasteride",
+    "link": "https://www.infomed.co.il/drugs/finasteride/"
+  },
+  {
+    "hebName": "פינגולימוד (גילניה)",
+    "engName": "FINGOLIMOD (GILENYA)",
+    "link": "https://www.infomed.co.il/drugs/fingolimod-gilenya/"
+  },
+  {
+    "hebName": "פינדולול",
+    "engName": "Pindolol",
+    "link": "https://www.infomed.co.il/drugs/pindolol/"
+  },
+  {
+    "hebName": "פיפרצילין",
+    "engName": "Piperacillin",
+    "link": "https://www.infomed.co.il/drugs/piperacillin/"
+  },
+  {
+    "hebName": "פיקו - סלקס",
+    "engName": "Pico-Salax",
+    "link": "https://www.infomed.co.il/drugs/pico-salax/"
+  },
+  {
+    "hebName": "פיראזינאמיד",
+    "engName": "Pyrazinamide",
+    "link": "https://www.infomed.co.il/drugs/pyrazinamide/"
+  },
+  {
+    "hebName": "פיראנטל",
+    "engName": "Pyrantel",
+    "link": "https://www.infomed.co.il/drugs/pyrantel/"
+  },
+  {
+    "hebName": "פירוקסיקאם (ברקסין)",
+    "engName": "Piroxicam, BREXIN",
+    "link": "https://www.infomed.co.il/drugs/piroxicam-brexin/"
+  },
+  {
+    "hebName": "פירידוסטיגמין",
+    "engName": "Pyridostigmine",
+    "link": "https://www.infomed.co.il/drugs/pyridostigmine/"
+  },
+  {
+    "hebName": "פירימתאמין",
+    "engName": "Pyrimethamine",
+    "link": "https://www.infomed.co.il/drugs/pyrimethamine/"
+  },
+  {
+    "hebName": "פלבוציקליב (אייברנס)",
+    "engName": "Palbociclib (IBRANCE)",
+    "link": "https://www.infomed.co.il/drugs/palbociclib-ibrance/"
+  },
+  {
+    "hebName": "פלואוצינולון",
+    "engName": "Fluocinolone",
+    "link": "https://www.infomed.co.il/drugs/fluocinolone/"
+  },
+  {
+    "hebName": "פלואוקסטין (פריזמה, פרוזק, פלוטין)",
+    "engName": "Fluoxetine",
+    "link": "https://www.infomed.co.il/drugs/fluoxetine/"
+  },
+  {
+    "hebName": "פלואורואוראציל",
+    "engName": "Fluorouracil",
+    "link": "https://www.infomed.co.il/drugs/fluorouracil/"
+  },
+  {
+    "hebName": "פלואורומתולון",
+    "engName": "Fluorometholone",
+    "link": "https://www.infomed.co.il/drugs/fluorometholone/"
+  },
+  {
+    "hebName": "פלובוקסאמין",
+    "engName": "Fluvoxamine",
+    "link": "https://www.infomed.co.il/drugs/fluvoxamine/"
+  },
+  {
+    "hebName": "פלובסטטין",
+    "engName": "Fluvastatin",
+    "link": "https://www.infomed.co.il/drugs/fluvastatin/"
+  },
+  {
+    "hebName": "פלודיפין",
+    "engName": "Felodipine",
+    "link": "https://www.infomed.co.il/drugs/felodipine/"
+  },
+  {
+    "hebName": "פלודרבין",
+    "engName": "Fludarabine",
+    "link": "https://www.infomed.co.il/drugs/fludarabine/"
+  },
+  {
+    "hebName": "פלודרוקורטיזון",
+    "engName": "Fludrocortisone",
+    "link": "https://www.infomed.co.il/drugs/fludrocortisone/"
+  },
+  {
+    "hebName": "פלוטיקזון (אלגרו)",
+    "engName": "Fluticasone",
+    "link": "https://www.infomed.co.il/drugs/fluticasone/"
+  },
+  {
+    "hebName": "פלוטמיד",
+    "engName": "Flutamide",
+    "link": "https://www.infomed.co.il/drugs/flutamide/"
+  },
+  {
+    "hebName": "פלונוסטרון",
+    "engName": "Palonosetron",
+    "link": "https://www.infomed.co.il/drugs/palonosetron/"
+  },
+  {
+    "hebName": "פלוניטראזפאם",
+    "engName": "Flunitrazepam",
+    "link": "https://www.infomed.co.il/drugs/flunitrazepam/"
+  },
+  {
+    "hebName": "פלופנאזין",
+    "engName": "Fluphenazine",
+    "link": "https://www.infomed.co.il/drugs/fluphenazine/"
+  },
+  {
+    "hebName": "פלופנתיקסול",
+    "engName": "Flupenthixol",
+    "link": "https://www.infomed.co.il/drugs/flupenthixol/"
+  },
+  {
+    "hebName": "פלוקונאזול",
+    "engName": "Fluconazole",
+    "link": "https://www.infomed.co.il/drugs/fluconazole/"
+  },
+  {
+    "hebName": "פליביזומב",
+    "engName": "Palivizumab",
+    "link": "https://www.infomed.co.il/drugs/palivizumab/"
+  },
+  {
+    "hebName": "פלקאיניד",
+    "engName": "Flecainide",
+    "link": "https://www.infomed.co.il/drugs/flecainide/"
+  },
+  {
+    "hebName": "פמברוליזומאב (קיטרודה)",
+    "engName": "Pembrolizumab",
+    "link": "https://www.infomed.co.il/drugs/pembrolizumab/"
+  },
+  {
+    "hebName": "פמוטידין",
+    "engName": "Famotidine",
+    "link": "https://www.infomed.co.il/drugs/famotidine/"
+  },
+  {
+    "hebName": "פמולין",
+    "engName": "Pemoline",
+    "link": "https://www.infomed.co.il/drugs/pemoline/"
+  },
+  {
+    "hebName": "פמטרקסד",
+    "engName": "Pemetrexed",
+    "link": "https://www.infomed.co.il/drugs/pemetrexed/"
+  },
+  {
+    "hebName": "פנאזופירידין (סדורל)",
+    "engName": "Phenazopyridine, Sedural",
+    "link": "https://www.infomed.co.il/drugs/phenazopyridine-sedural/"
+  },
+  {
+    "hebName": "פנובארביטאל",
+    "engName": "Phenobarbital",
+    "link": "https://www.infomed.co.il/drugs/phenobarbital/"
+  },
+  {
+    "hebName": "פנולפתלאין",
+    "engName": "Phenolphtalein",
+    "link": "https://www.infomed.co.il/drugs/phenolphtalein/"
+  },
+  {
+    "hebName": "פנוקסיבנזאמין",
+    "engName": "Phenoxybenzamine",
+    "link": "https://www.infomed.co.il/drugs/phenoxybenzamine/"
+  },
+  {
+    "hebName": "פנטוקסיפילין",
+    "engName": "Pentoxifylline",
+    "link": "https://www.infomed.co.il/drugs/pentoxifylline/"
+  },
+  {
+    "hebName": "פנטניל (פנטה)",
+    "engName": "Fentanyl",
+    "link": "https://www.infomed.co.il/drugs/fentanyl/"
+  },
+  {
+    "hebName": "פנטרמין (רזין)",
+    "engName": "Phentermine, Razin",
+    "link": "https://www.infomed.co.il/drugs/phentermine-razin/"
+  },
+  {
+    "hebName": "פניטואין",
+    "engName": "Phenytoin",
+    "link": "https://www.infomed.co.il/drugs/phenytoin/"
+  },
+  {
+    "hebName": "פנילאפרין",
+    "engName": "Phenylephrine",
+    "link": "https://www.infomed.co.il/drugs/phenylephrine/"
+  },
+  {
+    "hebName": "פנילפרופאנולאמין",
+    "engName": "Phenylpropanolamine",
+    "link": "https://www.infomed.co.il/drugs/phenylpropanolamine/"
+  },
+  {
+    "hebName": "פניצילאמין",
+    "engName": "Penicillamine",
+    "link": "https://www.infomed.co.il/drugs/penicillamine/"
+  },
+  {
+    "hebName": "פניצילין",
+    "engName": "Penicillin",
+    "link": "https://www.infomed.co.il/drugs/penicillin/"
+  },
+  {
+    "hebName": "פנלזין",
+    "engName": "Phenelzine",
+    "link": "https://www.infomed.co.il/drugs/phenelzine/"
+  },
+  {
+    "hebName": "פנפלוראמין",
+    "engName": "Fenfluramine",
+    "link": "https://www.infomed.co.il/drugs/fenfluramine/"
+  },
+  {
+    "hebName": "פנפלורידול",
+    "engName": "Penfluridol",
+    "link": "https://www.infomed.co.il/drugs/penfluridol/"
+  },
+  {
+    "hebName": "פנקראטין + מיצוי מרה של שור (אנציפלמד)",
+    "engName": "Pancreatin + Ox Bile Extract (Encypalmed)",
+    "link": "https://www.infomed.co.il/drugs/pancreatin-ox-bile-extract-encypalmed/"
+  },
+  {
+    "hebName": "פסאודואפדרין (סינופד)",
+    "engName": "Pseudoephedrine",
+    "link": "https://www.infomed.co.il/drugs/pseudoephedrine/"
+  },
+  {
+    "hebName": "פסיליום",
+    "engName": "Psyllium",
+    "link": "https://www.infomed.co.il/drugs/psyllium/"
+  },
+  {
+    "hebName": "פפברין",
+    "engName": "Papaverine",
+    "link": "https://www.infomed.co.il/drugs/papaverine/"
+  },
+  {
+    "hebName": "פקליטקסל מוצמד-אלבומין (אברקסן)",
+    "engName": "paclitaxel albumin-bound",
+    "link": "https://www.infomed.co.il/drugs/paclitaxel-albumin-bound/"
+  },
+  {
+    "hebName": "פקסופנאדין (טלפסט)",
+    "engName": "Fexofenadine, Telfast",
+    "link": "https://www.infomed.co.il/drugs/fexofenadine-telfast/"
+  },
+  {
+    "hebName": "פקסלוביד (נירמטרלוויר + ריטונוויר)",
+    "engName": "PAXLOVID (Nirmatrelvir+Ritonavir)",
+    "link": "https://www.infomed.co.il/drugs/paxlovid-nirmatrelvir-ritonavir/"
+  },
+  {
+    "hebName": "פראבאסטאטין",
+    "engName": "Pravastatin",
+    "link": "https://www.infomed.co.il/drugs/pravastatin/"
+  },
+  {
+    "hebName": "פראזוסין",
+    "engName": "Prazosin",
+    "link": "https://www.infomed.co.il/drugs/prazosin/"
+  },
+  {
+    "hebName": "פראזיקואנטל",
+    "engName": "Praziquantel",
+    "link": "https://www.infomed.co.il/drugs/praziquantel/"
+  },
+  {
+    "hebName": "פראצטמול + קודאין (קוד-אקמול 15/325)",
+    "engName": "Paracetamol + Codeine ( COD-ACAMOL 15/325)",
+    "link": "https://www.infomed.co.il/drugs/paracetamol-codeine-cod-acamol-15-325/"
+  },
+  {
+    "hebName": "פרגוליד",
+    "engName": "Pergolide",
+    "link": "https://www.infomed.co.il/drugs/pergolide/"
+  },
+  {
+    "hebName": "פרדניזולון",
+    "engName": "Prednisolone",
+    "link": "https://www.infomed.co.il/drugs/prednisolone/"
+  },
+  {
+    "hebName": "פרדניזולון + גנטמיצין (אפלומיצין)",
+    "engName": "PREDNISOLONE +GENTAMICIN (Aflumycin)",
+    "link": "https://www.infomed.co.il/drugs/prednisolone-gentamicin-aflumycin/"
+  },
+  {
+    "hebName": "פרדניזון (לודוטרה)",
+    "engName": "Prednisone",
+    "link": "https://www.infomed.co.il/drugs/prednisone/"
+  },
+  {
+    "hebName": "פרובנציד",
+    "engName": "Probenecid",
+    "link": "https://www.infomed.co.il/drugs/probenecid/"
+  },
+  {
+    "hebName": "פרוגסטרון",
+    "engName": "Progesterone",
+    "link": "https://www.infomed.co.il/drugs/progesterone/"
+  },
+  {
+    "hebName": "פרומתאזין",
+    "engName": "Promethazine",
+    "link": "https://www.infomed.co.il/drugs/promethazine/"
+  },
+  {
+    "hebName": "פרופאפנון",
+    "engName": "Propafenone",
+    "link": "https://www.infomed.co.il/drugs/propafenone/"
+  },
+  {
+    "hebName": "פרופוקסיפן",
+    "engName": "Propoxyphene",
+    "link": "https://www.infomed.co.il/drugs/propoxyphene/"
+  },
+  {
+    "hebName": "פרופילתיואוראציל",
+    "engName": "Propylthiouracil",
+    "link": "https://www.infomed.co.il/drugs/propylthiouracil/"
+  },
+  {
+    "hebName": "פרופסיה",
+    "engName": "Propecia",
+    "link": "https://www.infomed.co.il/drugs/propecia/"
+  },
+  {
+    "hebName": "פרופראנולול (דרלין, פרולול)",
+    "engName": "Deralin, Prolol) Propranolol)",
+    "link": "https://www.infomed.co.il/drugs/deralin-prolol-propranolol/"
+  },
+  {
+    "hebName": "פרוציקלידין",
+    "engName": "Procyclidine",
+    "link": "https://www.infomed.co.il/drugs/procyclidine/"
+  },
+  {
+    "hebName": "פרוקאינאמיד",
+    "engName": "Procainamide",
+    "link": "https://www.infomed.co.il/drugs/procainamide/"
+  },
+  {
+    "hebName": "פרטוזומאב",
+    "engName": "pertuzumab - PERJETA",
+    "link": "https://www.infomed.co.il/drugs/pertuzumab-perjeta/"
+  },
+  {
+    "hebName": "פריגאבאלין (ליריקה)",
+    "engName": "Pregabalin (Lyrica)",
+    "link": "https://www.infomed.co.il/drugs/pregabalin-lyrica/"
+  },
+  {
+    "hebName": "פרימולוט נור - נורתיסטרון",
+    "engName": "Norethisterone, Primolut-Nor",
+    "link": "https://www.infomed.co.il/drugs/norethisterone-primolut-nor/"
+  },
+  {
+    "hebName": "פרימידון",
+    "engName": "Primidone",
+    "link": "https://www.infomed.co.il/drugs/primidone/"
+  },
+  {
+    "hebName": "פרמיפקסול",
+    "engName": "Pramipexole",
+    "link": "https://www.infomed.co.il/drugs/pramipexole/"
+  },
+  {
+    "hebName": "פרמתרין",
+    "engName": "Permethrin",
+    "link": "https://www.infomed.co.il/drugs/permethrin/"
+  },
+  {
+    "hebName": "פרנטל, פרנטאל",
+    "engName": "Prenatal",
+    "link": "https://www.infomed.co.il/drugs/prenatal/"
+  },
+  {
+    "hebName": "פרסוגרל (אפיאנט)",
+    "engName": "(Prasugrel (Effient",
+    "link": "https://www.infomed.co.il/drugs/prasugrel-effient/"
+  },
+  {
+    "hebName": "פרפ",
+    "engName": "PrEP",
+    "link": "https://www.infomed.co.il/drugs/prep/"
+  },
+  {
+    "hebName": "פרפנאזין",
+    "engName": "Perphenazine",
+    "link": "https://www.infomed.co.il/drugs/perphenazine/"
+  },
+  {
+    "hebName": "פרצטמול (אקמול, דקסמול)",
+    "engName": "Paracetamol",
+    "link": "https://www.infomed.co.il/drugs/paracetamol/"
+  },
+  {
+    "hebName": "פתידין",
+    "engName": "Pethidine",
+    "link": "https://www.infomed.co.il/drugs/pethidine/"
+  },
+  {
+    "hebName": "צטומקרוגול",
+    "engName": "Cetomacrogol",
+    "link": "https://www.infomed.co.il/drugs/cetomacrogol/"
+  },
+  {
+    "hebName": "צטוקיסמאב",
+    "engName": "Cetuximab",
+    "link": "https://www.infomed.co.il/drugs/cetuximab/"
+  },
+  {
+    "hebName": "צטיריזין",
+    "engName": "Cetirizine",
+    "link": "https://www.infomed.co.il/drugs/cetirizine/"
+  },
+  {
+    "hebName": "צטרורליקס",
+    "engName": "Cetrorelix",
+    "link": "https://www.infomed.co.il/drugs/cetrorelix/"
+  },
+  {
+    "hebName": "צטרימיד",
+    "engName": "Cetrimide",
+    "link": "https://www.infomed.co.il/drugs/cetrimide/"
+  },
+  {
+    "hebName": "צטרימיד + כלורהקסידין (סביעור)",
+    "engName": "(Cetrimide + Chlorhexidine (SAVIOR",
+    "link": "https://www.infomed.co.il/drugs/cetrimide-chlorhexidine-savior/"
+  },
+  {
+    "hebName": "ציאנוקובלמין B12, בדודקה",
+    "engName": "Cyanocobalamin, Bedodeka",
+    "link": "https://www.infomed.co.il/drugs/cyanocobalamin-bedodeka/"
+  },
+  {
+    "hebName": "ציטאלופרם (ציפרמיל, רסיטל)",
+    "engName": "Citalopram, Recital, Cipramil",
+    "link": "https://www.infomed.co.il/drugs/citalopram-recital-cipramil/"
+  },
+  {
+    "hebName": "ציסאפריד",
+    "engName": "Cisapride",
+    "link": "https://www.infomed.co.il/drugs/cisapride/"
+  },
+  {
+    "hebName": "ציספלאטין",
+    "engName": "Cisplatin",
+    "link": "https://www.infomed.co.il/drugs/cisplatin/"
+  },
+  {
+    "hebName": "ציפרוטרון",
+    "engName": "Cyproterone",
+    "link": "https://www.infomed.co.il/drugs/cyproterone/"
+  },
+  {
+    "hebName": "ציפרופיבראט",
+    "engName": "Ciprofibrate",
+    "link": "https://www.infomed.co.il/drugs/ciprofibrate/"
+  },
+  {
+    "hebName": "ציפרופלוקסצין (ציפרודקס)",
+    "engName": "Ciprofloxacin",
+    "link": "https://www.infomed.co.il/drugs/ciprofloxacin/"
+  },
+  {
+    "hebName": "ציפרלקס",
+    "engName": "Cipralex",
+    "link": "https://www.infomed.co.il/drugs/cipralex/"
+  },
+  {
+    "hebName": "ציקלוספורין A",
+    "engName": "Cyclosporin A",
+    "link": "https://www.infomed.co.il/drugs/cyclosporin-a/"
+  },
+  {
+    "hebName": "ציקלוסרין",
+    "engName": "Cycloserine",
+    "link": "https://www.infomed.co.il/drugs/cycloserine/"
+  },
+  {
+    "hebName": "ציקלופוספאמיד",
+    "engName": "Cyclophosphamide",
+    "link": "https://www.infomed.co.il/drugs/cyclophosphamide/"
+  },
+  {
+    "hebName": "ציקלופירוקס",
+    "engName": "Ciclopirox",
+    "link": "https://www.infomed.co.il/drugs/ciclopirox/"
+  },
+  {
+    "hebName": "צפאזולין",
+    "engName": "Cefazolin",
+    "link": "https://www.infomed.co.il/drugs/cefazolin/"
+  },
+  {
+    "hebName": "צפאקלור",
+    "engName": "Cefaclor",
+    "link": "https://www.infomed.co.il/drugs/cefaclor/"
+  },
+  {
+    "hebName": "צפטריאקסון",
+    "engName": "Ceftriaxone",
+    "link": "https://www.infomed.co.il/drugs/ceftriaxone/"
+  },
+  {
+    "hebName": "צפיקסים",
+    "engName": "Cefixime",
+    "link": "https://www.infomed.co.il/drugs/cefixime/"
+  },
+  {
+    "hebName": "צפלקסין (צפורל, צפוויט)",
+    "engName": "Ceforal, Cefovit) Cephalexin)",
+    "link": "https://www.infomed.co.il/drugs/ceforal-cefovit-cephalexin/"
+  },
+  {
+    "hebName": "קאבאזיטאקסל",
+    "engName": "Cabazitaxel",
+    "link": "https://www.infomed.co.il/drugs/cabazitaxel/"
+  },
+  {
+    "hebName": "קאברגולין",
+    "engName": "Cabergoline",
+    "link": "https://www.infomed.co.il/drugs/cabergoline/"
+  },
+  {
+    "hebName": "קאלציטונין",
+    "engName": "Calcitonin",
+    "link": "https://www.infomed.co.il/drugs/calcitonin/"
+  },
+  {
+    "hebName": "קאנאקינומאב (אילאריס)",
+    "engName": "CANAKINUMAB (ILARIS)",
+    "link": "https://www.infomed.co.il/drugs/canakinumab-ilaris/"
+  },
+  {
+    "hebName": "קאנדסארטאן",
+    "engName": "Candesartan",
+    "link": "https://www.infomed.co.il/drugs/candesartan/"
+  },
+  {
+    "hebName": "קאפטופריל",
+    "engName": "Captopril",
+    "link": "https://www.infomed.co.il/drugs/captopril/"
+  },
+  {
+    "hebName": "קאפציטאבין",
+    "engName": "Capecitabine",
+    "link": "https://www.infomed.co.il/drugs/capecitabine/"
+  },
+  {
+    "hebName": "קארבאמאזפין (טגרטול)",
+    "engName": "Carbamazepine",
+    "link": "https://www.infomed.co.il/drugs/carbamazepine/"
+  },
+  {
+    "hebName": "קארבאריל",
+    "engName": "Carbaryl",
+    "link": "https://www.infomed.co.il/drugs/carbaryl/"
+  },
+  {
+    "hebName": "קארבדילול",
+    "engName": "Carvedilol",
+    "link": "https://www.infomed.co.il/drugs/carvedilol/"
+  },
+  {
+    "hebName": "קארבידופה+לבודופה",
+    "engName": "Carbidopa + levodopa",
+    "link": "https://www.infomed.co.il/drugs/carbidopa-levodopa/"
+  },
+  {
+    "hebName": "קודאין",
+    "engName": "Codeine",
+    "link": "https://www.infomed.co.il/drugs/codeine/"
+  },
+  {
+    "hebName": "קוהוש שחור (סימידונה)",
+    "engName": "Black cohosh- cimidona",
+    "link": "https://www.infomed.co.il/drugs/black-cohosh-cimidona/"
+  },
+  {
+    "hebName": "קו-טרימוקסאזול",
+    "engName": "Co-Trimoxazole",
+    "link": "https://www.infomed.co.il/drugs/co-trimoxazole/"
+  },
+  {
+    "hebName": "קולדקס",
+    "engName": "COLDEX",
+    "link": "https://www.infomed.co.il/drugs/coldex/"
+  },
+  {
+    "hebName": "קוליסטין סולפומטאט",
+    "engName": "Colistin sulfomethate",
+    "link": "https://www.infomed.co.il/drugs/colistin-sulfomethate/"
+  },
+  {
+    "hebName": "קולכיצין",
+    "engName": "Colchicine",
+    "link": "https://www.infomed.co.il/drugs/colchicine/"
+  },
+  {
+    "hebName": "קולסטיפול",
+    "engName": "Colestipol",
+    "link": "https://www.infomed.co.il/drugs/colestipol/"
+  },
+  {
+    "hebName": "קטוטיפן",
+    "engName": "Ketotifen",
+    "link": "https://www.infomed.co.il/drugs/ketotifen/"
+  },
+  {
+    "hebName": "קטוקונאזול",
+    "engName": "Ketoconazole",
+    "link": "https://www.infomed.co.il/drugs/ketoconazole/"
+  },
+  {
+    "hebName": "קטמין",
+    "engName": "Ketamine",
+    "link": "https://www.infomed.co.il/drugs/ketamine/"
+  },
+  {
+    "hebName": "קיפרוליס (קרפילזומיב)",
+    "engName": "Kyprolis (Carfilzomib",
+    "link": "https://www.infomed.co.il/drugs/kyprolis-carfilzomib/"
+  },
+  {
+    "hebName": "קלדריבין",
+    "engName": "Cladribine",
+    "link": "https://www.infomed.co.il/drugs/cladribine/"
+  },
+  {
+    "hebName": "קלובאזאם",
+    "engName": "Clobazam",
+    "link": "https://www.infomed.co.il/drugs/clobazam/"
+  },
+  {
+    "hebName": "קלובטאזול פרופיונאט",
+    "engName": "Clobetasol propionate",
+    "link": "https://www.infomed.co.il/drugs/clobetasol-propionate/"
+  },
+  {
+    "hebName": "קלובטאזון בוטיראט",
+    "engName": "Clobetasone butyrate",
+    "link": "https://www.infomed.co.il/drugs/clobetasone-butyrate/"
+  },
+  {
+    "hebName": "קלודרונאט",
+    "engName": "Clodronate",
+    "link": "https://www.infomed.co.il/drugs/clodronate/"
+  },
+  {
+    "hebName": "קלוזאפין",
+    "engName": "Clozapine",
+    "link": "https://www.infomed.co.il/drugs/clozapine/"
+  },
+  {
+    "hebName": "קלוטיאפין",
+    "engName": "Clotiapine",
+    "link": "https://www.infomed.co.il/drugs/clotiapine/"
+  },
+  {
+    "hebName": "קלוטרימאזול (אגיסטן)",
+    "engName": "Clotrimazole",
+    "link": "https://www.infomed.co.il/drugs/clotrimazole/"
+  },
+  {
+    "hebName": "קלוטרימאזול+נאומיצין+דקסמתזון (פוליקוטן)",
+    "engName": "CLOTRIMAZOLE+NEOMYCIN+DEXAMETHASONE",
+    "link": "https://www.infomed.co.il/drugs/clotrimazole-neomycin-dexamethasone/"
+  },
+  {
+    "hebName": "קלומיפן (איקקלומין)",
+    "engName": "Clomiphene",
+    "link": "https://www.infomed.co.il/drugs/clomiphene/"
+  },
+  {
+    "hebName": "קלומיפראמין",
+    "engName": "Clomipramine",
+    "link": "https://www.infomed.co.il/drugs/clomipramine/"
+  },
+  {
+    "hebName": "קלונאזפאם (קלונקס)",
+    "engName": "Clonazepam, Clonex",
+    "link": "https://www.infomed.co.il/drugs/clonazepam-clonex/"
+  },
+  {
+    "hebName": "קלונידין",
+    "engName": "Clonidine",
+    "link": "https://www.infomed.co.il/drugs/clonidine/"
+  },
+  {
+    "hebName": "קלופארבין",
+    "engName": "Clofarabine",
+    "link": "https://www.infomed.co.il/drugs/clofarabine/"
+  },
+  {
+    "hebName": "קלופידוגרל (פלויקס, קלופידקסל)",
+    "engName": "Clopidogrel",
+    "link": "https://www.infomed.co.il/drugs/clopidogrel/"
+  },
+  {
+    "hebName": "קלוקסאצילין",
+    "engName": "Cloxacillin",
+    "link": "https://www.infomed.co.il/drugs/cloxacillin/"
+  },
+  {
+    "hebName": "קלוראזפאט",
+    "engName": "Clorazepate",
+    "link": "https://www.infomed.co.il/drugs/clorazepate/"
+  },
+  {
+    "hebName": "קלינדאמיצין",
+    "engName": "Clindamycin",
+    "link": "https://www.infomed.co.il/drugs/clindamycin/"
+  },
+  {
+    "hebName": "קלמנרבין",
+    "engName": "Calmanervin",
+    "link": "https://www.infomed.co.il/drugs/calmanervin/"
+  },
+  {
+    "hebName": "קלציום קרבונט (טאמס)",
+    "engName": "Calcium carbonate",
+    "link": "https://www.infomed.co.il/drugs/calcium-carbonate/"
+  },
+  {
+    "hebName": "קלציפוטריול",
+    "engName": "Calcipotriol",
+    "link": "https://www.infomed.co.il/drugs/calcipotriol/"
+  },
+  {
+    "hebName": "קלריתרומיצין",
+    "engName": "Clarithromycin",
+    "link": "https://www.infomed.co.il/drugs/clarithromycin/"
+  },
+  {
+    "hebName": "קנבידיול + טטרה-הידרו-קנבינול",
+    "engName": "Tetrahydrocannabinol + Cannabidiol",
+    "link": "https://www.infomed.co.il/drugs/tetrahydrocannabinol-cannabidiol/"
+  },
+  {
+    "hebName": "קסילומטזולין",
+    "engName": "Xylometazoline",
+    "link": "https://www.infomed.co.il/drugs/xylometazoline/"
+  },
+  {
+    "hebName": "קספופונגין",
+    "engName": "Caspofungin",
+    "link": "https://www.infomed.co.il/drugs/caspofungin/"
+  },
+  {
+    "hebName": "קספליון (פליפרידון פלמיטאט)",
+    "engName": "Paliperidone palmitate",
+    "link": "https://www.infomed.co.il/drugs/paliperidone-palmitate/"
+  },
+  {
+    "hebName": "קפאין + קודאין + פרצטמול (רוקסט, רוקסט פלוס)",
+    "engName": "PARACETAMOL+CODEINE+CAFFEINE(ROKACET, ROKACET PLUS",
+    "link": "https://www.infomed.co.il/drugs/paracetamol-codeine-caffeinerokacet-rokacet-plus/"
+  },
+  {
+    "hebName": "קפסאיצין",
+    "engName": "Capsaicin",
+    "link": "https://www.infomed.co.il/drugs/capsaicin/"
+  },
+  {
+    "hebName": "קרבומר",
+    "engName": "Carbomer",
+    "link": "https://www.infomed.co.il/drugs/carbomer/"
+  },
+  {
+    "hebName": "קרבופלטין",
+    "engName": "Carboplatin",
+    "link": "https://www.infomed.co.il/drugs/carboplatin/"
+  },
+  {
+    "hebName": "קרבוציסטאין (מוקוליט)",
+    "engName": "Carbocysteine",
+    "link": "https://www.infomed.co.il/drugs/carbocysteine/"
+  },
+  {
+    "hebName": "קרוטמיטון",
+    "engName": "Crotamiton",
+    "link": "https://www.infomed.co.il/drugs/crotamiton/"
+  },
+  {
+    "hebName": "קריסאבורול",
+    "engName": "Crisaborole",
+    "link": "https://www.infomed.co.il/drugs/crisaborole/"
+  },
+  {
+    "hebName": "ראלוקסיפן",
+    "engName": "Raloxifene",
+    "link": "https://www.infomed.co.il/drugs/raloxifene/"
+  },
+  {
+    "hebName": "ראלטגראביר",
+    "engName": "Raltegravir",
+    "link": "https://www.infomed.co.il/drugs/raltegravir/"
+  },
+  {
+    "hebName": "ראניטידין (זנטק, זרידקס)",
+    "engName": "Ranitidine (Zantac, Zaridex)",
+    "link": "https://www.infomed.co.il/drugs/ranitidine-zantac-zaridex/"
+  },
+  {
+    "hebName": "רבוקסטין",
+    "engName": "Reboxetine",
+    "link": "https://www.infomed.co.il/drugs/reboxetine/"
+  },
+  {
+    "hebName": "רוזובסטטין (קרסטור, סטטור)",
+    "engName": "Rosuvastatin (Crestor, Stator)",
+    "link": "https://www.infomed.co.il/drugs/rosuvastatin-crestor-stator/"
+  },
+  {
+    "hebName": "רומוסוזומאב (איבניטי)",
+    "engName": "ROMOSOZUMAB (EVENITY)",
+    "link": "https://www.infomed.co.il/drugs/romosozumab-evenity/"
+  },
+  {
+    "hebName": "רומיפלוסטים",
+    "engName": "Romiplostim",
+    "link": "https://www.infomed.co.il/drugs/romiplostim/"
+  },
+  {
+    "hebName": "רוסיגליתאזון",
+    "engName": "Rosiglitazone",
+    "link": "https://www.infomed.co.il/drugs/rosiglitazone/"
+  },
+  {
+    "hebName": "רופינירול",
+    "engName": "Ropinirole",
+    "link": "https://www.infomed.co.il/drugs/ropinirole/"
+  },
+  {
+    "hebName": "רופקוקסיב",
+    "engName": "Rofecoxib",
+    "link": "https://www.infomed.co.il/drugs/rofecoxib/"
+  },
+  {
+    "hebName": "רוקסיתרומיצין (רוקסו, רוליד)",
+    "engName": "Roxithromycin",
+    "link": "https://www.infomed.co.il/drugs/roxithromycin/"
+  },
+  {
+    "hebName": "ריבאוירין",
+    "engName": "Ribavirin",
+    "link": "https://www.infomed.co.il/drugs/ribavirin/"
+  },
+  {
+    "hebName": "ריבאסטיגמין",
+    "engName": "Rivastigmine",
+    "link": "https://www.infomed.co.il/drugs/rivastigmine/"
+  },
+  {
+    "hebName": "ריבוציקליב",
+    "engName": "Ribociclib",
+    "link": "https://www.infomed.co.il/drugs/ribociclib/"
+  },
+  {
+    "hebName": "ריברוקסבאן (קסרלטו)",
+    "engName": "Rivaroxaban, Xarelto",
+    "link": "https://www.infomed.co.il/drugs/rivaroxaban-xarelto/"
+  },
+  {
+    "hebName": "ריזאטריפטאן",
+    "engName": "Rizatriptan",
+    "link": "https://www.infomed.co.il/drugs/rizatriptan/"
+  },
+  {
+    "hebName": "ריזדרונט (אקטונל, ריבון)",
+    "engName": "Risedronate",
+    "link": "https://www.infomed.co.il/drugs/risedronate/"
+  },
+  {
+    "hebName": "ריטודרין",
+    "engName": "Ritodrine",
+    "link": "https://www.infomed.co.il/drugs/ritodrine/"
+  },
+  {
+    "hebName": "ריטונאביר",
+    "engName": "Ritonavir",
+    "link": "https://www.infomed.co.il/drugs/ritonavir/"
+  },
+  {
+    "hebName": "ריטונביר + לופינביר (קלטרה)",
+    "engName": "Ritonavir + Lopinavir (KALETRA)",
+    "link": "https://www.infomed.co.il/drugs/ritonavir-lopinavir-kaletra/"
+  },
+  {
+    "hebName": "ריטוקסימאב",
+    "engName": "Rituximab",
+    "link": "https://www.infomed.co.il/drugs/rituximab/"
+  },
+  {
+    "hebName": "רילוזול",
+    "engName": "Riluzole",
+    "link": "https://www.infomed.co.il/drugs/riluzole/"
+  },
+  {
+    "hebName": "רימונאבנט",
+    "engName": "Rimonabant",
+    "link": "https://www.infomed.co.il/drugs/rimonabant/"
+  },
+  {
+    "hebName": "ריספרידון (ריספרדל, ריספרידקס, ריספונד)",
+    "engName": "Risperidone",
+    "link": "https://www.infomed.co.il/drugs/risperidone/"
+  },
+  {
+    "hebName": "ריפאבוטין",
+    "engName": "Rifabutin",
+    "link": "https://www.infomed.co.il/drugs/rifabutin/"
+  },
+  {
+    "hebName": "ריפאמפיצין",
+    "engName": "Rifampicin",
+    "link": "https://www.infomed.co.il/drugs/rifampicin/"
+  },
+  {
+    "hebName": "רמדסיביר",
+    "engName": "Remdesivir",
+    "link": "https://www.infomed.co.il/drugs/remdesivir/"
+  },
+  {
+    "hebName": "רמיפריל (טריטייס, רמיטנס)",
+    "engName": "Ramipril, Ramitens, Tritace)",
+    "link": "https://www.infomed.co.il/drugs/ramipril-ramitens-tritace/"
+  },
+  {
+    "hebName": "רניביזומאב",
+    "engName": "Ranibizumab",
+    "link": "https://www.infomed.co.il/drugs/ranibizumab/"
+  },
+  {
+    "hebName": "רסג'לין",
+    "engName": "Rasagiline",
+    "link": "https://www.infomed.co.il/drugs/rasagiline/"
+  },
+  {
+    "hebName": "רסליזומאב",
+    "engName": "Reslizumab",
+    "link": "https://www.infomed.co.il/drugs/reslizumab/"
+  },
+  {
+    "hebName": "רפאגליניד",
+    "engName": "Repaglinide",
+    "link": "https://www.infomed.co.il/drugs/repaglinide/"
+  },
+  {
+    "hebName": "רקטוצורין",
+    "engName": "Rectozorin",
+    "link": "https://www.infomed.co.il/drugs/rectozorin/"
+  },
+  {
+    "hebName": "שמן פרפין",
+    "engName": "Liquid Parrafin, Mineral Oil",
+    "link": "https://www.infomed.co.il/drugs/liquid-parrafin-mineral-oil/"
+  },
+  {
+    "hebName": "תאופילין",
+    "engName": "Theophylline",
+    "link": "https://www.infomed.co.il/drugs/theophylline/"
+  },
+  {
+    "hebName": "תיורידאזין",
+    "engName": "Thioridazine",
+    "link": "https://www.infomed.co.il/drugs/thioridazine/"
+  },
+  {
+    "hebName": "תירוטרופין אלפא",
+    "engName": "Thyrotropin alfa",
+    "link": "https://www.infomed.co.il/drugs/thyrotropin-alfa/"
+  },
+  {
+    "hebName": "תלידומיד",
+    "engName": "Thalidomide",
+    "link": "https://www.infomed.co.il/drugs/thalidomide/"
+  },
+  {
+    "hebName": "תרומאנטאדין",
+    "engName": "Tromantadine",
+    "link": "https://www.infomed.co.il/drugs/tromantadine/"
+  },
+  {
+    "hebName": "תרוספיום",
+    "engName": "Trospium",
+    "link": "https://www.infomed.co.il/drugs/trospium/"
+  }
+]
