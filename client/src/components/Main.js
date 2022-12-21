@@ -1,5 +1,7 @@
 import { Symptoms } from "./Symptoms";
 import { useState } from 'react'
+import { Link } from "react-router-dom";
+
 
 const generalSymptoms = ["Fever", "Allergy", "Rash", "The morning after pill"];
 const headSymptoms = ["Headache", "Migraine"];
@@ -54,9 +56,11 @@ export function Main() {
                 <button id="Torso" onClick={handleClick}>Torso</button>
                 <button id="Arms" onClick={handleClick}>Arms</button>
                 <button id="Legs" onClick={handleClick}>Legs</button>
-
+                </div>
+                <Link to="/product">specific drug </Link>
                 <Symptoms arr={symptomsArray} />
-            </div>
+
+            
         </div>
     )
 }
