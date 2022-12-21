@@ -3,12 +3,18 @@ import { useState } from 'react'
 import { Link } from "react-router-dom";
 
 
-const generalSymptoms = ["Fever", "Allergy", "Rash", "The morning after pill"];
-const headSymptoms = ["Headache", "Migraine"];
-const neckSymptoms = ["Runny nose", "Cough"];
-const torsoSymptoms = ["Rash", "Constipation", "Diarrhea", "Abdominal pain", "Bits"];
-const armsSymptoms = ["Rash","Bits", "Wounds and minor burns"];
-const legsSymptoms = ["Rash","Bits", "Wounds and minor burns", "Fungal skin infections"];
+const generalSymptoms = ["Allergy", "Pain","The morning after pill"];
+const headSymptoms = ["Headache", "Migraine","Acne"];
+const neckSymptoms = ["Cold", "Cough","Sinusitis"];
+const torsoSymptoms = ["Rash","Heartburn", "Diarrhea"];
+const armsSymptoms = ["Rash","Acne"];
+const legsSymptoms = ["Rash", "Fungal skin infections","Candidiasis"];
+
+
+
+
+
+
 
 export function Main() {
     const [symptomsArray, setSymptomsArray] = useState("")
