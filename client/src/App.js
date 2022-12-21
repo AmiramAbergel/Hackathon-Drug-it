@@ -6,33 +6,26 @@ import { DrugPage } from './components/DrugPage';
 import ProductList from './components/product/ProductList';
 import { About } from './components/About';
 import { Contact } from './components/Contact';
-import './style/DrugPage.css'
+import './style/DrugPage.css';
 import './App.css';
-import './style/main.css'
-import './style/pages.css'
-
-
-
+import './style/main.css';
+import './style/pages.css';
+import MobileHomepage from './components/MobileHomepage';
 
 function App() {
-  return (
-    <div>
-      <Navbar />
-      <ProductList />
-      
-      <Routes>
-      <Route path="/" element={<Main />} />
-      <Route path="/About" element={<About/>}/>
-      <Route path="/contact" element={<Contact/>}/>
-      <Route path="/product" element={<DrugPage/>}/>
-      </Routes>
-      
-
-
-
-    </div>
-  );
-
+    return (
+        <div>
+            <Navbar />
+            <ProductList />
+            <Routes>
+                <Route path='/' element={<Main />} />
+                <Route path='/home' element={<MobileHomepage />} />
+                <Route path='/About' element={<About />} />
+                <Route path='/contact' element={<Contact />} />
+                <Route path='/product' element={<DrugPage />} />
+            </Routes>
+        </div>
+    );
 }
 
 export default App;
