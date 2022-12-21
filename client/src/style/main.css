@@ -1,0 +1,27 @@
+.bodyImage{
+max-width: 100vw;
+min-height: 100vh;
+background-color: #E8EBF7;
+}
+
+.bodyImage button{
+    padding:7px;
+    margin: 5px;
+    background-color: #867F92;
+    border: none;
+    border-radius: 5px;
+}
+
+.symptoms h5{
+    padding: 7px;
+    background-color: #867F92;
+    width:70vw;
+    
+}
+
+.symptoms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
