@@ -1,17 +1,15 @@
+
+import { Main } from './components/Main';
+import Navbar from "./components/Navbar";
 import React from 'react';
 import './App.css';
-import Navbar from "./components/Navbar";
+import './style/main.css'
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      <div className="container">
-        <article>
-          <h1>What is Lorem Ipsum? </h1>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-        </article>
-      </div>
+    <div className="App">
+          <Navbar />
+<Main/>
     </div>
   );
 }
