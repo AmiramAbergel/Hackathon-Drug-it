@@ -1,6 +1,6 @@
 import express, { json } from 'express';
 import { connectToDB } from './db/server.js';
-import indexRoute from './routes/index.route.js';
+import indexRoute from './routes/index.routes.js';
 
 const app = express(); // Create our Express Application Object
 
