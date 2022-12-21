@@ -1,10 +1,8 @@
 import dotenv from 'dotenv';
 dotenv.config(); // Load ENV Variables
-console.log(dotenv.config());
 import mongoose from 'mongoose';
 mongoose.set('strictQuery', true);
 const DB = process.env.MONGO_URL;
-console.log(DB);
 const config = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
