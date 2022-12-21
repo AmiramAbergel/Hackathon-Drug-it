@@ -1,6 +1,6 @@
 import { Main } from './components/Main';
 import Navbar from './components/Navbar';
-import React from 'react';
+import React, { useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { DrugPage } from './components/DrugPage';
 import ProductList from './components/product/ProductList';
@@ -13,6 +13,8 @@ import './style/pages.css';
 import MobileHomepage from './components/MobileHomepage';
 
 function App() {
+    const [drugsData, setDrugsData] = useState([]);
+    const [isLoading, setIsLoading] = useState(false);
     return (
         <div>
             <Navbar />
