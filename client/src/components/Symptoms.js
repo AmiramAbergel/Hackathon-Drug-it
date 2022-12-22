@@ -87,12 +87,7 @@ export function Symptoms({ arr }) {
     return (
         <div className='symptoms'>
             {Array.isArray(arr) && <h3>Please choose a symptom</h3>}
-            {drugIsShown && (
-                <DrugsItemsCard
-                    drugsData={specificDrug}
-                    onClose={hideDrugHandler}
-                />
-            )}
+
             {Array.isArray(arr)
                 ? arr.map((element) => {
                       return (
@@ -108,6 +103,13 @@ export function Symptoms({ arr }) {
                       );
                   })
                 : null}
+            {drugIsShown && (
+                <DrugsItemsCard
+                    medList={medicineList}
+                    drugsData={specificDrug}
+                    onClose={hideDrugHandler}
+                />
+            )}
         </div>
     );
 }

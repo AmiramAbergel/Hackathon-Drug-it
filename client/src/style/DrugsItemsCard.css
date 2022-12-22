@@ -1,0 +1,15 @@
+.cardDiv {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 78%;
+    width: 80%;
+}
+.closeButton {
+    margin: 0 auto;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 5px;
+}

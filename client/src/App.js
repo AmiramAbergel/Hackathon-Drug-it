@@ -18,7 +18,7 @@ function App() {
     return (
         <div>
             <Navbar />
-            <ProductList />
+
             <Routes>
                 <Route path='/' element={<Main />} />
                 <Route path='/home' element={<MobileHomepage />} />
