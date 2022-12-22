@@ -1,14 +1,14 @@
-import { Drug } from '../model/drug.model.js';
+import { Meds } from '../model/drug.model.js';
 
 export const getAllDrugs = async (req, res) => {
     try {
-        const Drugs = await Drug.find();
+        const Medic = await Meds.find();
         res.status(200).json({
             status: 'success',
             requestedAt: req.requestTime,
-            results: Drug.length,
+            results: Meds.length,
             data: {
-                Drugs,
+                Medic,
             },
         });
     } catch (err) {
