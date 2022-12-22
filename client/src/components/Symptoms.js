@@ -39,8 +39,8 @@ export function Symptoms({ arr }) {
             try {
                 setIsLoading(true);
                 const response = await api.get('/');
-                const dataArray = response.data;
-                console.log(dataArray);
+                const dataArray = response.data.data.Medic;
+                console.log(typeof dataArray);
                 setDrugsData(dataArray);
             } catch (err) {
                 if (err.response) {
@@ -118,8 +118,8 @@ export function Symptoms({ arr }) {
 
     return (
         <div className='symptoms'>
+            {console.log([drugsData])}
             {Array.isArray(arr) && <h3>Please choose a symptom</h3>}
-            {console.log(drugsData)}
             {Array.isArray(arr)
                 ? arr.map((element) => {
                       return (
