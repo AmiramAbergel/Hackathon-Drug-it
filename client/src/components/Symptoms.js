@@ -40,6 +40,7 @@ export function Symptoms({ arr }) {
                 setIsLoading(true);
                 const response = await api.get('/');
                 const dataArray = response.data;
+                console.log(dataArray);
                 setDrugsData(dataArray);
             } catch (err) {
                 if (err.response) {

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import api from '../api/api';
+import api from '../api/api.js';
 
 const DrugList = ({ setIsLoading, setDrugsData, drugsData }) => {
     const [error, setError] = useState('');
