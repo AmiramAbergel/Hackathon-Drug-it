@@ -13,8 +13,6 @@ import './style/pages.css';
 import MobileHomepage from './components/MobileHomepage';
 
 function App() {
-    const [drugsData, setDrugsData] = useState([]);
-    const [isLoading, setIsLoading] = useState(false);
     return (
         <div>
             <Navbar />

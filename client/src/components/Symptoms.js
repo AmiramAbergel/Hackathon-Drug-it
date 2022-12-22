@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
+import api from '../api/api';
 import DrugsItems from './DrugsItems';
 import DrugsItemsCard from './DrugsItemsCard';
 const AllergyMeds = ['Oxymetazoline', 'Terfenadine', 'Phenylephrine'];
@@ -28,6 +29,36 @@ export function Symptoms({ arr }) {
     const [drugIsShown, setDrugIsShown] = useState(false);
     const [medicineList, setMedicineList] = useState('');
     const [specificDrug, setSpecificDrug] = useState(null);
+    const [drugsData, setDrugsData] = useState([]);
+    const [isLoading, setIsLoading] = useState(false);
+    //
+    const [error, setError] = useState('');
+    console.log(error);
+    useEffect(() => {
+        const getData = async () => {
+            try {
+                setIsLoading(true);
+                const response = await api.get('/');
+                const dataArray = response.data;
+                setDrugsData(dataArray);
+            } catch (err) {
+                if (err.response) {
+                    // Not in the 200 response range
+                    console.log(err.response.data);
+                    console.log(err.response.status);
+                    console.log(err.response.headers);
+                } else {
+                    console.log(err.message);
+                    setError(err.message);
+                }
+            } finally {
+                setIsLoading(false);
+            }
+        };
+        getData();
+    }, [setIsLoading, setDrugsData]);
+
+    //
     const showDrugHandler = (e) => {
         setSpecificDrug(e);
         setDrugIsShown(true);
@@ -87,7 +118,7 @@ export function Symptoms({ arr }) {
     return (
         <div className='symptoms'>
             {Array.isArray(arr) && <h3>Please choose a symptom</h3>}
-
+            {console.log(drugsData)}
             {Array.isArray(arr)
                 ? arr.map((element) => {
                       return (
