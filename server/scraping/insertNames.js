@@ -1,11 +1,16 @@
+const data = require("./medicines.json");
 const puppeteer = require("puppeteer"); // npm i puppeteer
 const fs = require("fs"); // optional, to write to file
-let medUrl = "https://www.infomed.co.il/drugs/adalimumab/";
-//-----------------------------------------------------------------------------------------------------
+
+// console.log(data);
 async function runInfo(url) {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto(url);
+  await page.goto(url, {
+    waitUntil: "load",
+    // Remove the timeout
+    timeout: 0,
+  });
   //---------------------------------------------------------------------------------------------------
   const getDetails = await page.evaluate(() => {
     const allNames = document.querySelectorAll(
@@ -23,7 +28,26 @@ async function runInfo(url) {
   return getDetails;
 }
 
-// runInfo(medUrl);
+async function runAll() {
+  const allMedNamesArr = [];
+  for (let i = 0; i < data.length; i++) {
+    const medNames = await runInfo(data[i].link);
+    allMedNamesArr.push(medNames);
+    console.log(`i: ${i} / ${data.length}  ${medNames}`);
+    fs.appendFileSync(
+      "medicinesNamesInFor.json",
+      JSON.stringify({ [i]: medNames })
+    );
+  }
+  return allMedNamesArr;
+}
+const allMedNamesArr = runAll();
+fs.writeFileSync("medicinesNames.json", JSON.stringify(allMedNamesArr));
 
-//export function
-module.exports = { runInfo };
+//  data.forEach((med) => {
+//   console.log("med.link: ", med.link);
+//   const medNames = awaitrunInfo(med.link);
+//   allMedNamesArr.push(medNames);
+// });
+
+// await Promise.all(allMedNamesArr);

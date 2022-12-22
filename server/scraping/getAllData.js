@@ -1,5 +1,9 @@
 const puppeteer = require("puppeteer"); // npm i puppeteer
 const fs = require("fs"); // optional, to write to file
+const { runInfo } = require("./getInfo");
+// const { runDesc } = require("./getDescription");
+// console.log("runInfo: ", runInfo, "runDesc: ", runDesc);
+// console.log("runInfo: ", runInfo);
 //-----------------------------------------------------------------------------------------------------
 //scroll to bottom of page function
 async function autoScroll(page) {
@@ -27,19 +31,31 @@ async function run() {
   await page.goto("https://www.infomed.co.il/drugs/");
   await autoScroll(page);
   //---------------------------------------------------------------------------------------------------
-  const getMedicines = await page.evaluate(() => {
+  const getMedicines = await page.evaluate(async () => {
     // get all a tags inside the div with id "searchResultsContainer"
     const allAnchors = document.querySelectorAll("#searchResultsContainer a");
     // create an array from the anchors
     const anchorsArray = Array.from(allAnchors);
     // map over the array and return an object with the data we want
+    const runInfoArr = [];
+    // anchorsArray.forEach((anchor) => {
+    for (let i = 0; i < anchorsArray.length; i++) {
+      const brr = await runInfo(anchorsArray[i].href);
+      runInfoArr.push(brr);
+    }
+    // });
+    console.log("runInfoArr: ", runInfoArr);
     return anchorsArray.map((anchor) => ({
       hebName: anchor.children[0].innerText,
       engName: anchor.children[1].innerText,
       link: anchor.href,
+      // names: runInfo(anchor.href),
+      // description: runDesc(anchor.href),
     }));
   });
-  console.log("getMedicines: ", getMedicines);
+  // const allNames = await runInfo("https://www.infomed.co.il/drugs/codeine/");
+  // console.log("allNames: ", allNames);
+  // console.log("getMedicines: ", getMedicines);
   fs.writeFileSync("medicines.json", JSON.stringify(getMedicines));
   console.log("getMedicines.length: ", getMedicines.length);
   //---------------------------------------------------------------------------------------------------

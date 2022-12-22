@@ -1,0 +1,1770 @@
+[
+  {
+    "0": [
+      "Humira",
+      "IDACIO",
+      "AMGEVITA",
+      "HYRIMOZ",
+      "HADLIMA",
+      "AMSPARITY",
+      "HULIO"
+    ]
+  },
+  { "1": ["Praluent"] },
+  { "2": ["Hemlibra"] },
+  { "3": [] },
+  { "4": [] },
+  { "5": ["Natulan"] },
+  { "6": ["REPATHA"] },
+  { "7": ["Orencia"] },
+  { "8": ["Zytiga", "ABIRATERONE TEVA", "ABIRATERONE S.K"] },
+  { "9": ["ZIAGEN"] },
+  {
+    "10": [
+      "Certican",
+      "Afinitor",
+      "VOTUBIA",
+      "EVETOR",
+      "EVEROLIMUS TARO",
+      "EVEROLIMUS TEVA"
+    ]
+  },
+  { "11": ["Adenocor"] },
+  { "12": ["Hepsera"] },
+  { "13": ["Adaferin"] },
+  { "14": ["Epiduo"] },
+  {
+    "15": [
+      "Adrenaline",
+      "Epipen",
+      "Epipen Junior",
+      ".Adrenaline s.a.l.f",
+      "EPINEPHRINE",
+      "EPINEPHRINE INJECTION MYLAN JR",
+      "Emerade",
+      "ADRENALINE SINTETICA"
+    ]
+  },
+  { "16": ["ZEPOSIA"] },
+  { "17": ["Patanol", ".OLOPATADINE S.K"] },
+  { "18": [] },
+  {
+    "19": [
+      "Zyprexa",
+      "Zyprexa IM Injection",
+      "Zyprexa Velotab",
+      "Zappa",
+      "Olanzapine ODT Teva",
+      "Olanzapine Dexcel",
+      "Olanzapine Inovamed",
+      "Olanzapine Teva",
+      "Zypadhera"
+    ]
+  },
+  { "20": ["Lynparza"] },
+  { "21": ["Xolair"] },
+  { "22": ["Omacor"] },
+  { "23": ["Losec", "Omepradex", "Omeprix", "Omepradex Z", "Omepra"] },
+  {
+    "24": [
+      "Zofran",
+      "Odnatron",
+      "Ondansetron - Fresenius",
+      "Ondansetron Inovamed"
+    ]
+  },
+  { "25": ["Tamiflu"] },
+  { "26": ["Kesimpta"] },
+  { "27": ["Oflodex", "Oflox", "Ofloxacin-Teva", "Ofloxacina", "OFLO-AVENIR"] },
+  { "28": ["Sandostatin", "Sandostatin LAR", "OCTREOTIDE BENDALIS"] },
+  { "29": ["Vaben"] },
+  { "30": ["Symphocal"] },
+  { "31": [] },
+  { "32": ["Lyrinel", "Novitropan"] },
+  {
+    "33": [
+      "DAbicycline 500 veterinary",
+      "Adamycin veterinary",
+      "Alamycin veterinary",
+      "Oxytetracycline 10 % veterinary",
+      "Tenaline 50 % veterinary",
+      "Oxygal veterinary",
+      "Engemycin 10 % La veterinary",
+      "Oxtra veterinary",
+      "Oxyvet spray veterinary"
+    ]
+  },
+  { "34": ["Alrin", "Af-Tipa", "Rhinoclir", "Alrin For Kids"] },
+  {
+    "35": [
+      "Oxycod forte syrup",
+      "OxyContin",
+      "Oxycod injections",
+      "Oxycod syrup"
+    ]
+  },
+  { "36": ["TARGIN"] },
+  { "37": ["PERCOCET"] },
+  {
+    "38": [
+      "Eloxatin",
+      "Oxaliplatin Medac",
+      "Oxaliplatin \"EBEVE\"",
+      "Oxaliplatin Hospira",
+      "Oxaliplatin Medison",
+      "Oxaliplatin Mylan",
+      "Oxaliplatin PWD Teva",
+      "Oxaliplatin Teva",
+      "Oxaltin"
+    ]
+  },
+  { "39": ["Trileptin", "Trexapin"] },
+  { "40": ["OCREVUS"] },
+  { "41": [] },
+  { "42": ["Xenical"] },
+  { "43": ["Vidaza"] },
+  { "44": ["Azopi", "Imuran"] },
+  {
+    "45": [
+      "Nexium",
+      "Esoprim",
+      "SOLEZOL",
+      "ESOMEPRAZOLE MEDI MARKET",
+      "ESOMEPRAZOLE INOVAMED"
+    ]
+  },
+  { "46": ["Ezetrol", "EZETIMIBE SANDOZ", "EZETIMIBE ® TEVA", "EZECOR"] },
+  {
+    "47": [
+      "Azenil",
+      "Zeto 250",
+      "Zitromax",
+      "Azithromycin-Teva",
+      "Zmax",
+      "Azithromycin Inovamed",
+      "AZITHROMYCIN MBI",
+      "AZITHROVENIR"
+    ]
+  },
+  { "48": ["Optilast", "Rhinolast"] },
+  { "49": ["ATAZANAVIR TEVA"] },
+  { "50": ["Malarone"] },
+  { "51": ["Strattera"] },
+  { "52": ["Etoposide"] },
+  { "53": ["Etodolac-Teva", "Etopan", "Etopan XL"] },
+  { "54": ["Lipitor", "Litorva", "Atorva-dex", "TORVA"] },
+  { "55": ["Normalol", "Normiten"] },
+  { "56": ["Intelence"] },
+  { "57": ["Atropine Drops", "Atropine Sulphate", "Atrospan"] },
+  { "58": [] },
+  {
+    "59": [
+      "Nurofen Quick",
+      "Advil Liqui-gels",
+      "Children's Advil",
+      "Nurofen gel 5%",
+      "Nurofen",
+      "Advil Forte",
+      "Nurofen for Children",
+      "Nurofen forte",
+      "Adex",
+      "Adex Liqui-gels",
+      "Adex Forte",
+      "Ibuleve Gel",
+      "Ibufen",
+      "Ibuprofen",
+      "Ibuprofen Liqui-gels",
+      "Ibuprofen Forte",
+      "Iboo2%",
+      "Iboo 4%",
+      "Artofen",
+      "Tiptipot Ibutaf",
+      "Combodex",
+      "Advil Cold & Sinus",
+      "NUROFEN COLD AND FLU"
+    ]
+  },
+  { "60": ["Thio Gel"] },
+  { "61": ["Isotrex gel", "Roaccutane", "Curatane"] },
+  { "62": ["Isoniazid"] },
+  { "63": ["Isoket"] },
+  { "64": ["Monocord", "Monolong"] },
+  { "65": ["Isogen cream"] },
+  { "66": ["Sporanox", "Itranol"] },
+  { "67": ["Ichthammol", "INOTYOL"] },
+  { "68": ["Ilomedin", "Ventavis"] },
+  {
+    "69": [
+      "Omriggam",
+      "Gammagard",
+      "Beriglobin P",
+      "GAMUNEX - C",
+      "Gammaplex",
+      "Kiovig",
+      "Octagam",
+      "Privigen",
+      "Omri-Hep-B",
+      "IG VENA",
+      "INTRATECT",
+      "HYQVIA",
+      "HIZENTRA"
+    ]
+  },
+  { "70": ["Glivec", "IMATINIB TEVA", "IMATINIB TARO", "IMATINIB – TRIMA"] },
+  { "71": ["Cerezyme"] },
+  { "72": [] },
+  { "73": ["Aldara", "Aquimod cream 5%", "Perrimod"] },
+  { "74": ["Pamid"] },
+  { "75": ["Indovis"] },
+  { "76": [] },
+  { "77": ["Avonex", "Betaferon", "Rebif 22", "Rebif 44"] },
+  {
+    "78": [
+      "Humulin",
+      "Actrapid",
+      "Insulatard",
+      "Mixtard",
+      "Lantus",
+      "Novomix",
+      "Novorapid",
+      "Levemir",
+      "Apidra",
+      "Humalog Mix",
+      "HUMALOG KWIKPEN",
+      "Humalog",
+      "Ryzodeg",
+      "Tregludec",
+      "BASAGLAR",
+      "TOUJEO",
+      "XULTOPHY",
+      "FIASP"
+    ]
+  },
+  { "79": ["LANTUS", "TOUJEO", "BASAGLAR", "SEMGLEE"] },
+  { "80": ["TREGLUDEC"] },
+  { "81": ["XULTOPHY"] },
+  { "82": ["Remicade", "Remsima", "IXIFI"] },
+  { "83": ["Aerovent", "Atrovent"] },
+  { "84": ["NINLARO"] },
+  { "85": ["TALTZ"] },
+  { "86": [] },
+  { "87": ["Campto", "Irinotecan teva"] },
+  { "88": ["Eskazole"] },
+  { "89": ["Zepatier"] },
+  { "90": ["LUMIZYME"] },
+  { "91": ["Proleukin"] },
+  { "92": [".Maalox susp"] },
+  { "93": ["Alloril"] },
+  { "94": ["Relert", "ELETRIPTAN INOVAMED", "ELETRIPTAN – TRIMA"] },
+  { "95": ["Toctino"] },
+  { "96": ["RASILEZ"] },
+  { "97": ["Lemtrada"] },
+  { "98": ["Fosalan", "Maxibone 70", "Tevanate", "BINOSTO"] },
+  { "99": ["Amevive"] },
+  { "100": ["Alpha D 3", "One alpha", "Tevalfa"] },
+  {
+    "101": [
+      "Xatral",
+      "Xatral SR",
+      "Xatral XL",
+      "Alfu-Kal XL",
+      "Alfuzosin ER Teva"
+    ]
+  },
+  { "102": ["Alpralid", "Xanagis", "Xanax XR"] },
+  { "103": ["Caverject", "Prostin VR"] },
+  { "104": ["PK-Merz"] },
+  { "105": ["Volibris", "AMBRISENTAN TEVA"] },
+  { "106": ["Amoxi", "Moxypen", "Moxyvit", "VITAMOX FORTE"] },
+  {
+    "107": [
+      "Augmentin ES",
+      "Augmentin",
+      "Augmentin susp.",
+      "Amoxyclav",
+      "Clavenir",
+      "Claventin 250",
+      "Maclivan"
+    ]
+  },
+  { "108": ["Loceryl"] },
+  { "109": [] },
+  { "110": ["Amiodacore", "Procor", "AMIODACORE INJECTION", "AMIOCARD"] },
+  { "111": ["Elatrol", "Elatrolet"] },
+  { "112": [] },
+  { "113": ["STREPSILS"] },
+  { "114": ["Aminophylline", "Aminophyllin IV - Fresenius"] },
+  { "115": ["Solian", "Pride"] },
+  { "116": ["Amikacin - Fresenius"] },
+  { "117": ["Amlodipine-Teva", "Amlow", "Norvasc"] },
+  { "118": ["JARDIANCE"] },
+  { "119": ["JARDIANCE DUO"] },
+  { "120": ["Ambisome", "Amphocil", "Amphotec", "Fungilin"] },
+  { "121": ["Penibrin"] },
+  { "122": ["Anagride"] },
+  {
+    "123": ["Arimidex", "Anastrozole-Teva", "ANASTROZOLE INOVAMED", "Anastrose"]
+  },
+  { "124": ["Clexane", "CRUSIA", "ENOXAPARIN INHIXA"] },
+  { "125": ["Comtan"] },
+  { "126": [] },
+  {
+    "127": [
+      "ENTEAVENIR",
+      ".ENTECAVIR S.K",
+      "ENTECAVIR TEVA",
+      "ENTECAVIR SANDOZ"
+    ]
+  },
+  { "128": ["Enaladex", "Enalapri"] },
+  { "129": [] },
+  { "130": [] },
+  { "131": [] },
+  { "132": ["Vagifem", "Estrofem", "Evorel", "Oestrogel", "Progynova"] },
+  { "133": ["Estrogenus"] },
+  { "134": ["Ovestin", "Ortho-Gynest"] },
+  { "135": ["Estracyt"] },
+  { "136": [] },
+  { "137": [] },
+  {
+    "138": [
+      "Acetosal 300",
+      "Aspirin 500",
+      "Aspirin Cardio",
+      "Cartia",
+      "Godamed",
+      "Micropirin",
+      "Tevapirin",
+      "Cardiopirin",
+      "Cardiopirin",
+      "Gramse pirin 325"
+    ]
+  },
+  { "139": ["Cipralex", "Escitalopram Teva", "Esto"] },
+  { "140": ["Stocrin"] },
+  { "141": [] },
+  { "142": ["EPHEDRINE HCL STEROP", "EPHEDRIN SINTETICA"] },
+  { "143": ["Eprex", "Binocrit", "ARANESP"] },
+  { "144": ["Recormon", "Mircera"] },
+  { "145": ["Apo-go"] },
+  { "146": ["Relestat"] },
+  { "147": ["ELIQUIS", "APIXABAN TEVA"] },
+  { "148": ["Vaniqa"] },
+  { "149": ["Inspra", "Eplerenone Inovamed"] },
+  { "150": ["Emend"] },
+  { "151": ["Uramox"] },
+  { "152": ["Reolin", "Siran 200"] },
+  { "153": ["Neotigason"] },
+  { "154": ["ZOVIRAX", "ACYCLO-V", "CYCLOVIR", "ACYCLOVENIR"] },
+  { "155": ["Prandase", "Acrose"] },
+  { "156": ["Gyno-Pevaryl"] },
+  { "157": ["Acamol Focus", "EXIDOL", "EXIMOL CARE", "PARAMOL TARGET"] },
+  { "158": ["ACAMOL TSINUN & SHAPA'AT DAY"] },
+  { "159": ["ACAMOL TSINUN & SHAPA'AT NIGHT"] },
+  {
+    "160": [
+      "ACAMOL TSINUN CLASSIC DAY",
+      "ACAMOL TSINUN LIQUIGEL DAY",
+      "DEXAMOLSINUS DAY CARE"
+    ]
+  },
+  {
+    "161": [
+      "ACAMOL TSINUN LIQUIGEL NIGHT",
+      "ACAMOL TSINUN CLASSIC NIGH",
+      "DEXAMOLSINUS NIGHT CARE"
+    ]
+  },
+  { "162": ["Aromasin", "Exemestane", "Exetane"] },
+  { "163": ["Bydureon"] },
+  { "164": [] },
+  { "165": ["Abilify", "Ariply", "Abilify maintena", "ARIPIPRAZOLE SANDOZ"] },
+  {
+    "166": [
+      "Acnetrim",
+      "Erythrocin lactobionate IV",
+      "Erythro-Teva",
+      "Aknemycin"
+    ]
+  },
+  { "167": ["Tarceva"] },
+  { "168": ["Trisenox", "ARSENIC TRIOXIDE", "PHENASEN"] },
+  {
+    "169": [
+      "Arcoxia",
+      "Etoricoxib",
+      "ETORICOXIB DEXCEL",
+      "ETORICOXIB TARO",
+      "ARCO – TEVA"
+    ]
+  },
+  { "170": ["Enbrel", "BRENZYS", "ERELZI"] },
+  { "171": [] },
+  { "172": [] },
+  { "173": ["FEMINET", "MERCILON"] },
+  { "174": [] },
+  { "175": ["Baclosal", "Lioresal", "BACLOFEN SINTETICA"] },
+  {
+    "176": [
+      "Budeson",
+      "Budicort",
+      "Budesonide sterinebs Teva",
+      "Budicort respules",
+      "Cortiment",
+      "JORVEZA"
+    ]
+  },
+  { "177": ["Avastin", "MVASI", "ZIRABEV"] },
+  { "178": ["Dysport", "Botox", "XEOMIN"] },
+  { "179": ["Mentax"] },
+  {
+    "180": [
+      "Tracleer",
+      "BOSENTAN TEVA",
+      "TRASENTAN",
+      "BOSENTAN TARO",
+      "BOSENTAN SANDOZ"
+    ]
+  },
+  { "181": ["Sorbon"] },
+  { "182": ["Suprefact Depot"] },
+  { "183": ["Zyban", "Wellbutrin XR"] },
+  { "184": ["Butrans", "Subutex", "SUBLOCADE"] },
+  {
+    "185": [
+      "Velcade",
+      "BORTEZOMIB INOVAMED",
+      "BORTEZOMIB TEVA",
+      "BORTEZ TEVA",
+      "BORTEZOMIB TARO"
+    ]
+  },
+  { "186": ["Bezafibrate 400 SR", "Norlip"] },
+  { "187": ["Agiserc", "Betistine", "Betahistine Teva"] },
+  {
+    "188": [
+      "Betacorten",
+      "Betacorten Scalp",
+      "Betnovate",
+      "Betnovate Scalp",
+      "Betnesol",
+      "Celestone Chronodose",
+      "Diprospan",
+      "Betacup"
+    ]
+  },
+  { "189": ["Betoptic-S"] },
+  { "190": ["BABYZIM DROPS"] },
+  { "191": ["Bilaxten"] },
+  { "192": ["Lumigan", "Latisse", "Bimatoprost Teva"] },
+  { "193": ["Atzirut X", "Laxadin", "Contalax"] },
+  { "194": ["Cardiloc", "Concor", "Bisoprolol fumarate Inovamed"] },
+  {
+    "195": [
+      "Kalbeten",
+      "Pink Bismuth",
+      "Bitni X",
+      "Kalbeten Forte",
+      "Peptolite",
+      "Betten Care"
+    ]
+  },
+  { "196": ["Agispor", "Bifonazole cream", "Agispor shampoo", "BIFOVIT"] },
+  { "197": ["Dekinet"] },
+  { "198": ["Casodex", "Bicalutamide Teva", "BICALUTAMIDE INOVAMED"] },
+  { "199": ["Bleomycin PFI"] },
+  { "200": [] },
+  { "201": ["XOFLUZA"] },
+  { "202": ["Blincyto"] },
+  { "203": ["Cibacen", "Benazepril Teva"] },
+  { "204": ["Claritone"] },
+  { "205": ["Partane", "Rodenal"] },
+  { "206": ["Benzac"] },
+  { "207": ["MERFEN SPRAY FIRST AID"] },
+  { "208": ["Scabiex"] },
+  { "209": ["LANTUS", "TOUJEO", "BASAGLAR", "SEMGLEE"] },
+  { "210": [] },
+  { "211": ["Qvar"] },
+  { "212": ["FOSTER"] },
+  { "213": ["Bondormin", "Brotizolam-Teva"] },
+  { "214": [] },
+  { "215": ["Solvex", "Mucoless", "Mucoless Solution", "Movex"] },
+  { "216": [] },
+  { "217": ["ALUNBRIG"] },
+  { "218": ["Alphagan P", "Brimonidine Teva"] },
+  { "219": ["Alcon Azopt", "BRINZOLAMIDE SK", "SIMBRINZA"] },
+  { "220": ["Gabapentin-Teva", "Neurontin", "Gabapentin Inovamed"] },
+  { "221": ["Galvus"] },
+  { "222": ["Orgalutran"] },
+  { "223": ["Gaviscon"] },
+  { "224": ["Resyl"] },
+  { "225": ["Simponi"] },
+  { "226": ["Zoladex", "Zoladex LA"] },
+  { "227": ["Zymar", "Zymaxid"] },
+  { "228": ["Glucagen Hypokit"] },
+  {
+    "229": [
+      "DEXTROSE INJECTION 5%",
+      "DEXTROSE INJECTION 10%",
+      "DEXTROSE 20 % INJECTION",
+      "DEXTROSE 50 % INJECTION",
+      "DEXTROSE 5%",
+      "%GLUCOSE 50"
+    ]
+  },
+  { "230": ["Arthryl", "ARTHRYL Go"] },
+  { "231": ["Copaxone"] },
+  { "232": ["Gluben"] },
+  { "233": ["Amaryl", "Glimepiride Teva"] },
+  { "234": ["Gluco-Rite"] },
+  { "235": ["GLYCERIN SUPPOSITORIES", "GLYCERIN SUPPOSITORIES", "RAZALAX"] },
+  { "236": ["Reminyl"] },
+  { "237": ["MAVIRET"] },
+  { "238": ["MYLOTARG"] },
+  { "239": [] },
+  { "240": ["GEMCITABINE MEDAC", "\"GEMCITABINE \"EBEWE", "GEMCITABINE TEVA"] },
+  { "241": ["Januvia"] },
+  { "242": ["Gentamicin", "Gentatrim", "Opti-Genta", "Lacromycin"] },
+  { "243": ["Cymevene"] },
+  {
+    "244": [
+      "EMILY",
+      "MINESS",
+      "FLAME",
+      "MELIANE",
+      "FLORET",
+      "GYNERA",
+      "HARMONET",
+      "MINULET",
+      "SHELLY"
+    ]
+  },
+  { "245": [] },
+  { "246": ["Setron"] },
+  { "247": ["Danol"] },
+  { "248": ["Dacarbazine Medac", "Dacarbazine Dacin"] },
+  { "249": [] },
+  { "250": ["Butamine"] },
+  { "251": ["Avodart", "DUTASTERIDE TEVA", "DUTASTERIDE TARO", "ARMONIA"] },
+  { "252": ["TRULICITY"] },
+  {
+    "253": [
+      "Cymbalta",
+      "Yentreve",
+      "Duloxetine DR Teva",
+      "DULOXETINE SANDOZ",
+      ".DULOXETINE S.K",
+      "DULOX TEVA"
+    ]
+  },
+  { "254": ["Motilium"] },
+  { "255": ["Aricept", "Asenta", "Memorit", "Donepezil-Teva"] },
+  { "256": ["Taxotere", "Docetaxel"] },
+  { "257": ["Dopamine HCl Fresenius"] },
+  { "258": ["Cadex"] },
+  { "259": ["Doxorubicin Teva", "Caelyx", "Myocet", "Lipodox-Liposomal"] },
+  { "260": ["Sleep Aid", "Tonight"] },
+  { "261": ["Doxy 100", "Doxylin"] },
+  { "262": ["Gilex"] },
+  { "263": ["Trusopt", "DORZOLAMIDE S.K"] },
+  { "264": ["Cerazette", "Fominic", "DIAMILLA"] },
+  { "265": ["Locatop"] },
+  { "266": ["Assival", "Diaz"] },
+  { "267": ["Diatrim", "Diacerin Teva"] },
+  { "268": ["Distilbene"] },
+  { "269": ["Digoxin-Zori", "Lanoxin"] },
+  { "270": [] },
+  { "271": ["Duphaston"] },
+  { "272": ["Rythmical"] },
+  { "273": ["Adizem CD", "Dilatam 120SR", "Diltiazem Teva"] },
+  {
+    "274": [
+      "Fenistil Gel",
+      "Fenistil Drops",
+      "TINDEN GEL",
+      "TINDEN DROPS",
+      "DIMETINDENE INOVAMED",
+      "DERMOSTAMIN GEL"
+    ]
+  },
+  { "275": ["Travamin"] },
+  { "276": ["TECFIDERA"] },
+  { "277": [] },
+  { "278": ["Optalgin", "V-Dalgin", "DIPYRAZ", "DULERGIN"] },
+  { "279": ["Cardoxin forte"] },
+  { "280": ["Neriderm cream", "Neriderm ointment"] },
+  { "281": [] },
+  { "282": [] },
+  { "283": ["Notensyl"] },
+  {
+    "284": [
+      "Abitren",
+      "Betaren 100 SR",
+      "Cataflam",
+      "Diclofenac Sodium 1% Gel",
+      "Dicloplast",
+      "Dicloren Gel",
+      "Voltaren",
+      "Voltaren Acti-Go",
+      "Voltaren Emulgel",
+      "Voltaren Emulgel Forte",
+      "Voltaren Ophtha",
+      "Voltaren SR",
+      "Physicare Gel",
+      "N-Ke'ev",
+      "Swiss Relief Spray Gel",
+      "Dicloftil",
+      "Demofenac",
+      "Sunactic",
+      "Swiss Relief Dual Release",
+      "DICLOVIT"
+    ]
+  },
+  { "285": ["Diclectin"] },
+  { "286": ["Dithrocream"] },
+  { "287": ["PROLIA", "XGEVA"] },
+  { "288": ["Sprycel"] },
+  { "289": ["Deprexan"] },
+  {
+    "290": [
+      "Aerius",
+      "Des-Loratadim",
+      "Desloratadine Trima",
+      "Desloratadine Teva",
+      "Desloratadine Inovamed"
+    ]
+  },
+  { "291": ["Minirin", "Octostim", "Desmopressin Teva", "Minirin Melt"] },
+  { "292": ["FORXIGA"] },
+  { "293": ["Dapsone", "Avlosulfon"] },
+  { "294": ["Exjade", "DEFIROX", "DEFERASIROX TEVA"] },
+  { "295": ["Ferriprox"] },
+  { "296": ["ATTENT"] },
+  { "297": ["Tarodex Syrup for Adults", "Tarodex Paediatric Syrup"] },
+  { "298": [] },
+  { "299": ["NUSSIDEX"] },
+  { "300": ["Dexacort forte", "Dexamethasone", "Maxidex", "Ozurdex"] },
+  { "301": ["Deso-care", "Desoren", "Dex-Otic"] },
+  { "302": ["Bepanthen"] },
+  { "303": ["Bepanthen Plus"] },
+  { "304": ["Cardioxane"] },
+  { "305": ["Aranesp"] },
+  { "306": ["Prezista", "DARUNAVIR TEVA"] },
+  { "307": ["REZOLSTA"] },
+  { "308": ["Multaq", "DRONCOR"] },
+  { "309": [] },
+  { "310": ["YASMIN", "LIZ", "YAZ"] },
+  { "311": ["Dermacombin"] },
+  { "312": ["Haldol", "Haldol Decanoas", "Haloper", "Pericate"] },
+  { "313": ["Ovitrelle"] },
+  { "314": ["Menopur", "Menogon"] },
+  { "315": ["Genotropin", "Norditropin"] },
+  { "316": [] },
+  { "317": ["Disothiazide"] },
+  { "318": ["ESOMED GEL"] },
+  {
+    "319": [
+      "Hydrocortisone",
+      "Solu-Cortef",
+      "ALKINDI",
+      "HYDROCORTISONE PANPHARMA"
+    ]
+  },
+  { "320": ["HYDROXYUREA MEDAC"] },
+  { "321": ["Otarex"] },
+  { "322": ["Plaquenil"] },
+  { "323": ["Genteal eye drops", "Genteal gel", "Artelac"] },
+  { "324": ["Remotiv", "Laif 600"] },
+  {
+    "325": [
+      "Fragmin",
+      "Heparin Sod. Inj.",
+      "HEPARIN BICHSEL",
+      "HEPARIN SODIUM PANPHARMA",
+      "HEPARIN SODIUM ROVI",
+      "PHAREPA"
+    ]
+  },
+  {
+    "326": [
+      "Valtrex",
+      "Valaciclovir Meditec",
+      "Valaciclovir Teva",
+      "Valaciclovir Trima",
+      "Valovir"
+    ]
+  },
+  { "327": ["Valcyte"] },
+  { "328": ["Diovan", "Valsartan dexcel", "Vector", "VALSARTAN -MEDO"] },
+  { "329": ["Levitra", "Levitra ODT"] },
+  { "330": ["Coumadin"] },
+  { "331": ["ENTYVIO"] },
+  { "332": ["BRINTELLIX"] },
+  {
+    "333": [
+      "Vfend",
+      "Voriconazole Teva",
+      "VORTIMAL",
+      "Voriconazole Trima",
+      "VORI TEVA"
+    ]
+  },
+  { "334": ["Champix"] },
+  {
+    "335": [
+      "Viagra",
+      "Revatio",
+      "Sildenafil Teva",
+      "Slider",
+      "Tarim",
+      "Via-Avenir"
+    ]
+  },
+  { "336": ["Sabrilan"] },
+  { "337": ["Vyvanse"] },
+  { "338": ["VITAMIN D3 1000"] },
+  { "339": ["EVITOL"] },
+  { "340": ["Navelbine", "\"Vinorelbine \"EBEWE", "Vinorelbine Trima"] },
+  { "341": ["Vincristine"] },
+  { "342": ["VECTOR PLUS", "CO-DIOVAN"] },
+  { "343": ["VENCLEXTA"] },
+  {
+    "344": [
+      "Efexor XR",
+      "Venla",
+      "Viepax",
+      "Viepax XR",
+      "Venlafaxine Teva",
+      "Venlafaxine XR Teva"
+    ]
+  },
+  { "345": ["Vanco-Teva", "Vancomycin Mylan", "Vancoavenir"] },
+  { "346": ["Ikacor", "Ikapress", "Verapress 240 SR", "CORDAMIL"] },
+  { "347": ["Relenza"] },
+  { "348": ["Zomig", "Zomig Rapimelt"] },
+  { "349": ["Stilnox", "Zodorm", "Ambien CR"] },
+  { "350": [] },
+  { "351": ["Imovane", "Nocturno", "Nocturno L.S."] },
+  { "352": ["Clopixol", "Clopixol Acuphase", "Clopixol Depot"] },
+  { "353": ["Retrovir"] },
+  {
+    "354": [
+      "Cefuroxime- Fresenius",
+      "Pan-Cefuroxime",
+      "Zinacef",
+      "Zinnat",
+      "Kefurim"
+    ]
+  },
+  { "355": ["Geodon", "Geodon IM injection"] },
+  { "356": ["Accolate"] },
+  { "357": ["Ursolit", "Ursofalk"] },
+  { "358": ["Bonat"] },
+  { "359": ["Eyecon"] },
+  {
+    "360": [
+      "Aclasta",
+      "ZOLEDRONIC ACID FRESENIUS",
+      "ZOLEDRONIC ACID TARO",
+      "Tevadronic",
+      "Zoledronic Acid Hospira",
+      "Zoledronic Medison",
+      "Zoledronic Teva"
+    ]
+  },
+  { "361": ["Hexakapron", "TRANEX INJECTION", "TRANEXAMIC – MEDO"] },
+  { "362": ["CHENODEOXYCHOLIC ACID LEADIANT"] },
+  { "363": [] },
+  { "364": ["Niaspan"] },
+  {
+    "365": [
+      "Carnation corn caps",
+      "Salatac Gel",
+      "Spirit Whitfieid Floris",
+      "SALIKAREN"
+    ]
+  },
+  { "366": ["FOLIC ACID", "FOLIC ACID", "."] },
+  { "367": ["Fucithalmic", "Fucidin Cream", "Staphiderm"] },
+  {
+    "368": [
+      "Havrix 1440 Adult",
+      "Havrix 720 Junior",
+      "Avaxim",
+      "Vaqta",
+      "Hepatyrix"
+    ]
+  },
+  { "369": ["INFANRIX HEP-B", "INFANRIX HEXA"] },
+  { "370": [] },
+  { "371": [] },
+  { "372": ["Varilrix", "PRIORIX-TETRA"] },
+  { "373": ["Gardasil", "Gardasil 9"] },
+  { "374": ["RotaTeq", "Rotarix"] },
+  { "375": ["Hepagam B"] },
+  { "376": ["INFANRIX IPV HIB", "INFANRIX HEXA", "BOOSTRIX POLIO"] },
+  { "377": ["Polio Sabin"] },
+  { "378": ["Cialis", "Adcirca", "Tadalis", "TADAM", "TADAIR"] },
+  { "379": [] },
+  { "380": ["Prograf", "Protopic", "Advagraf", "Tacrocel", "ACROLIMUS PR"] },
+  { "381": [] },
+  { "382": [] },
+  {
+    "383": [
+      "Tobi",
+      "Tobrex 2X",
+      "Bramitob",
+      "Tobi podhaler",
+      "Tobrex eye ointment"
+    ]
+  },
+  { "384": [] },
+  { "385": ["Detrusitol SR", "Tolterodine E.R. Teva"] },
+  { "386": ["Athlete's Foot Balm", "Athlete's Foot Spray", "Pitrex"] },
+  { "387": ["Hycamtin"] },
+  {
+    "388": [
+      "Topamax",
+      "Topamax Sprinkle Capsules",
+      "Topitrim",
+      "Topiramate Teva"
+    ]
+  },
+  { "389": ["Xeljanz"] },
+  { "390": ["Actemra"] },
+  { "391": ["Xenazine 25"] },
+  {
+    "392": [
+      "Stilla",
+      "V-Zoline",
+      "Visine",
+      "Stilla Singles",
+      "Eye Relief",
+      "View",
+      "Azolin"
+    ]
+  },
+  { "393": ["Recycline Derm"] },
+  { "394": ["Synacthen depot"] },
+  { "395": [] },
+  { "396": ["Actilyse", "TPA"] },
+  { "397": ["Livial"] },
+  { "398": ["Spiriva", "Spiriva Respimat"] },
+  { "399": ["Tiloptic", "V-optic"] },
+  { "400": ["Protocide"] },
+  { "401": ["Brilinta"] },
+  {
+    "402": [
+      "Rafathricin with Benzocaine",
+      "Kalgaron",
+      "Kalgaron Spray",
+      "Clearosin Lemon"
+    ]
+  },
+  { "403": ["Sebivo"] },
+  { "404": ["Incivo"] },
+  { "405": ["Temodal", "Temo"] },
+  { "406": ["Tamoxifen Teva"] },
+  {
+    "407": [
+      "Omnic",
+      "Omnic OCAS",
+      "Promnix",
+      "Tamsulosin Teva",
+      "TAMSU P.R TEVA",
+      "Tamsulin",
+      "Tamsulosin Inovamed"
+    ]
+  },
+  { "408": ["Viread", "Tenofovir Teva", "VEMLIDY"] },
+  { "409": ["Androgel", "Testoviron Depot", "Testomax", "Nebido"] },
+  { "410": ["Trazodil", "Trittico"] },
+  { "411": ["Hytrin", "Terazocin Teva"] },
+  {
+    "412": [
+      "Herceptin",
+      "Kadcyla",
+      "OGIVRI",
+      "HERITY",
+      "KANJINTI",
+      "ENHERTU",
+      "TRAZIMERA"
+    ]
+  },
+  { "413": ["Bricalin", "Terbulin", "Bricalin turbohaler"] },
+  { "414": ["Travatan", ".TRAVOPROST S.K", "TRAVOPROST INOVAMED"] },
+  {
+    "415": [
+      "Lamisil cream",
+      "Terbinafine-Teva",
+      "Dermasil",
+      "Patir",
+      "Lamisil Dermgel",
+      "Lamisil Once",
+      "Lamisil spray"
+    ]
+  },
+  { "416": ["Invega", "Xeplion", "TREVICTA"] },
+  { "417": ["Biafine"] },
+  { "418": ["Mydramide"] },
+  { "419": ["Ret-Avit", "Vesanoid"] },
+  { "420": ["Oracort", "Sterocort", "Steronase Aq."] },
+  { "421": ["PROCTO GLYVENOL"] },
+  { "422": [] },
+  { "423": ["Forteo", "TERROSA", "TERIPARATIDE TEVA", "TERIPARATIDE KAMADA"] },
+  { "424": ["Decapeptyl", "Decapeptyl Depot", "Decapeptyl C.R"] },
+  { "425": ["AUBAGIO", "TERIFLUNOMIDE TEVA"] },
+  { "426": [] },
+  { "427": ["Dermax"] },
+  {
+    "428": [
+      "Tramadex",
+      "Tramal",
+      "Tramadex flash tabs",
+      "Tramadex OD",
+      "Trama",
+      "Tramadol",
+      "TRAMADOL MEDOCHEMIE",
+      "TRAMADOL – KALCEKS",
+      "TRAMADOL PANPHARMA",
+      "TRAMARAZ"
+    ]
+  },
+  { "429": [] },
+  { "430": ["Remodulin", "Tyvaso", ".TREPROSTINIL S.K", "TREPROSTINIL TEVA"] },
+  { "431": ["Stelara"] },
+  { "432": [] },
+  { "433": ["OVITRELLE"] },
+  { "434": ["Quinidine Sulphate"] },
+  { "435": ["Quinine Sulphate"] },
+  { "436": [] },
+  { "437": [] },
+  {
+    "438": [
+      "Septalone Hospital Concentrate",
+      "Corsodyl Dental Gel",
+      "Corsodyl Mouthwash",
+      "Septal Scrub",
+      "Tarodent Mouthwash",
+      "Perio-Chip",
+      "Tarodent Mint",
+      "Chlorhexidine Lacer Gel",
+      "Chlorhexidine Lacer Mouthwash",
+      "SOLODENT MOUTHWASH",
+      "HEXIDYL ALCOHOL FREE MOUTHWASH",
+      "STERETS UNISEPT"
+    ]
+  },
+  { "439": [] },
+  { "440": [] },
+  { "441": ["Chloroptic", "Chlorphenicol", "Phenicol", "Synthomycine"] },
+  { "442": ["Ahiston"] },
+  { "443": ["Taroctyl"] },
+  { "444": [] },
+  { "445": [] },
+  { "446": ["Lucrin depot"] },
+  { "447": ["Lamictal", "Lamodex", "Lamogine"] },
+  { "448": ["Epivir", "Zeffix", "Lamivudine Teva"] },
+  { "449": ["Laevolac", "Normase", "Avilac"] },
+  { "450": [] },
+  { "451": ["Nozinan", "Ronexine"] },
+  {
+    "452": [
+      "Postinor",
+      "Microlut",
+      "Mirena",
+      "Afterday",
+      "Norlevo",
+      "JANESS",
+      "Kyleena"
+    ]
+  },
+  { "453": ["Levo", "Tavanic", "Levofloxacin Teva"] },
+  { "454": ["Livostin eye drops"] },
+  { "455": ["Eltroxin", "Euthyrox", "Synthroid", "L-THYROXINE SERB"] },
+  {
+    "456": ["Keppra", "Levetiracetam Teva", "Levetrim", "Levetiracetam Dexcel"]
+  },
+  { "457": ["Trandate", "LABETALOL S.A.L.F"] },
+  { "458": ["Lagevrio"] },
+  { "459": [] },
+  { "460": ["Alomide"] },
+  { "461": [] },
+  { "462": ["Lustral", "Sertraline Teva", "Serenada", "Sertraline"] },
+  { "463": ["Ocsaar", "Lotan", "Losardex", "Losartan Teva", "Losarta"] },
+  {
+    "464": ["Imodium", "Loperid", "Rekamide", "Stopit", "Lopi-care", "LORAMIDE"]
+  },
+  { "465": ["Lorivan"] },
+  {
+    "466": [
+      "Lorastine",
+      "Loratadim",
+      "Loratadine Teva",
+      "Loratrim",
+      "Alergy X",
+      "Alergit"
+    ]
+  },
+  { "467": ["Xefo"] },
+  { "468": ["Xalatan", "Glautan", "Glauprost", "Latano-Avenir", "LATARO"] },
+  {
+    "469": [
+      "Femara",
+      "Letrozole Teva",
+      "Femozol",
+      "Lebrest",
+      "Letrozole Dexcel",
+      "Letrozole Farmoz",
+      "Letrozole Inovamed"
+    ]
+  },
+  {
+    "470": [
+      "After Burn Spray",
+      "Esracain",
+      "Lidocain",
+      "Stud 100",
+      "Xylocaine",
+      "Betacaine",
+      "VERSATIS"
+    ]
+  },
+  { "471": ["EMLA 5%", "LOANA", "PRILIDAN"] },
+  { "472": ["Tensopril"] },
+  { "473": ["TRAJENTA"] },
+  { "474": [] },
+  { "475": ["Zyvoxid", "LINEZOLID"] },
+  { "476": [] },
+  { "477": ["VICTOZA", "SAXENDA"] },
+  { "478": ["Licarbium"] },
+  { "479": ["Granocyte 34"] },
+  { "480": ["Revlimid", "LENALIDOMIDE S.K", "LENALIDOMIDE TEVA"] },
+  { "481": ["Lanton", "Lansoprazole Teva"] },
+  { "482": ["Fosrenol"] },
+  { "483": ["Tykerb"] },
+  { "484": ["Arava"] },
+  { "485": [] },
+  { "486": ["Vasodip", "Lercapress"] },
+  { "487": [] },
+  { "488": ["Melodil"] },
+  { "489": ["Celsentri"] },
+  { "490": ["Colotal"] },
+  { "491": [] },
+  { "492": ["Vermox"] },
+  { "493": [] },
+  { "494": ["Depo-Provera", "Provera", "Sayana"] },
+  { "495": ["Provigil"] },
+  { "496": ["Elocom"] },
+  { "497": ["Venoruton"] },
+  {
+    "498": [
+      "Singulair",
+      "Montelukast Trima",
+      "Montelukast Inovamed",
+      "Montelucast Teva",
+      "Montair"
+    ]
+  },
+  { "499": ["Bactroban ointment", "Mupirocin Teva", "Bactroban Nasal"] },
+  { "500": ["Megaxin IV", "Megaxin", "Vigamox"] },
+  { "501": ["Dolical"] },
+  { "502": [] },
+  {
+    "503": [
+      "MCR",
+      "M.I.R.",
+      "Morphine",
+      "MORPHINE MARTINDALE",
+      "ORAMORPH",
+      "MORPHINE KALCEKS"
+    ]
+  },
+  { "504": ["Zaroxolyn"] },
+  { "505": ["METOPIRONE"] },
+  { "506": ["Lopresor Divitabs", "Neobloc"] },
+  { "507": ["Pramin"] },
+  { "508": [] },
+  { "509": ["Glucomin", "Metformin Teva", "Metformin Inovamed"] },
+  {
+    "510": [
+      "Flagyl",
+      "Metrogyl",
+      "Metronidazole",
+      "Rozex Gel",
+      "Zidoval Gel",
+      "METRONIDAZOLE FRESENIUS"
+    ]
+  },
+  { "511": ["Bonserin"] },
+  { "512": [] },
+  { "513": ["Mizollen"] },
+  { "514": ["Mitomycin C"] },
+  { "515": ["MITOXANTRON EBEWE"] },
+  { "516": ["Ixel", "MILN-AVENIR"] },
+  { "517": ["Minoclin", "Minocycline", "Arestin"] },
+  { "518": ["Hairgaine", "Minoxi", "Noxidil", "Regaine"] },
+  { "519": ["Cytotec"] },
+  { "520": ["Mifegyne"] },
+  {
+    "521": [
+      "Daktarin",
+      "Daktarin Oral Gel",
+      "Gyno-Daktarin",
+      "Pitrion",
+      "Fungiderm"
+    ]
+  },
+  { "522": ["Cellcept", "Myfortic", "MYCOPHENOLATE TEVA"] },
+  { "523": ["Miro", "Mirtazapine-Teva", "Remeron"] },
+  { "524": ["Circadin", "SLENYTO"] },
+  {
+    "525": [
+      "Ebixa",
+      "Memox",
+      "Ebixa Drops",
+      "Memox drops",
+      "Memantine Teva",
+      "NEMDATINE",
+      "V-MANTINE"
+    ]
+  },
+  { "526": ["Asacol", "Pentasa", "Rafassal", "MEZAVANT"] },
+  { "527": ["Proviron"] },
+  { "528": ["Lariam"] },
+  { "529": [] },
+  { "530": ["Puri-Nethol"] },
+  { "531": [] },
+  { "532": [] },
+  { "533": ["Adolan 0.04%", "Methadone"] },
+  { "534": ["Abitrexate", "Methotrexate EBWE", "Methotrexate", "Metoject"] },
+  { "535": ["Methergin"] },
+  { "536": [] },
+  {
+    "537": [
+      "Concerta",
+      "Ritalin",
+      "Ritalin SR",
+      "Ritalin LA",
+      "REPHENIDAT",
+      "METHYLPHENIDATE TEVA",
+      "METHYLPHENIDATE SANDOZ",
+      "PHENIDIN",
+      "RIAVENIR LA"
+    ]
+  },
+  { "538": ["Depo-Medrol", "Medrol", "Methylprednisolone", "Solu-Medrol"] },
+  { "539": ["Mercaptizol"] },
+  { "540": ["Nabuco"] },
+  { "541": ["Neomycin"] },
+  { "542": [] },
+  { "543": ["NAROCIN", "NAPROXEN SODIUM SP", "POINT", "NAXYN QUICK", "NAXYN"] },
+  { "544": ["Naramig"] },
+  { "545": ["Viramune"] },
+  { "546": ["Tilavist"] },
+  { "547": [] },
+  { "548": ["NUSSIDEX"] },
+  { "549": ["Nortylin"] },
+  { "550": [] },
+  { "551": ["AKYNZEO"] },
+  { "552": ["Tysabri"] },
+  { "553": ["Numbon"] },
+  { "554": ["Nitroderm TTS", "Nitrolingual Spray", "Rectogesic"] },
+  { "555": [] },
+  { "556": ["Tasigna"] },
+  { "557": [] },
+  { "558": ["Mesulid"] },
+  { "559": ["OFEV", "VARGATEF"] },
+  { "560": ["Nystatin"] },
+  { "561": ["Nifedilong"] },
+  { "562": ["Nicotinell gum", "Nicotinell Lozenges", "Nicotinell TTS"] },
+  { "563": [] },
+  { "564": [] },
+  { "565": [] },
+  { "566": ["Atriance"] },
+  { "567": [] },
+  { "568": ["Synarel"] },
+  {
+    "569": [
+      "SODIUM CHLORIDE 0.9 %",
+      "SODIUM CHLORIDE 0.9%",
+      "SODIUM CHLORIDE 0.9% - FRESENIUS"
+    ]
+  },
+  {
+    "570": [
+      "Ventolin",
+      "Ventolin Diskus",
+      "Ventolin Inhaler CFC free",
+      "Salbutrim"
+    ]
+  },
+  { "571": ["Serevent Inhaler", "Serevent Diskus"] },
+  { "572": [] },
+  { "573": ["Renvela", "SEVELAMER TARO"] },
+  {
+    "574": [
+      "Depalept",
+      "Depalept Chrono",
+      "Orfiril",
+      "SODIUM VALPROATE WOCKHARDT"
+    ]
+  },
+  {
+    "575": [
+      "Opticrom",
+      "Cromo-Comod Eye Drops",
+      "Cromo-Comod Nasal Spray",
+      "Cromoptic"
+    ]
+  },
+  { "576": ["FUCIDIN OINTMENT", "FUCIDIN LEO"] },
+  { "577": ["Fleet-Enema"] },
+  { "578": ["Microlet"] },
+  { "579": [] },
+  { "580": ["Ulsanic"] },
+  { "581": ["Ospolot"] },
+  { "582": ["Vesicare", "Solifenacin Teva", "Solifenacin Trima"] },
+  { "583": ["Silverol"] },
+  { "584": ["Salazopyrin", "Salazopyrin EN"] },
+  { "585": ["Modal", "Modal Forte"] },
+  { "586": ["Sulfacid"] },
+  { "587": ["Imitrex", "Sumatridex", "Sumatriptane Teva"] },
+  { "588": ["ODOMZO 200 MG"] },
+  { "589": ["Sutent", "SUNITINIB TEVA"] },
+  { "590": ["Nexavar", "SORAFENIB TEVA"] },
+  { "591": [] },
+  { "592": [] },
+  { "593": ["Streptase"] },
+  { "594": ["Reductil"] },
+  { "595": ["Januet", "Januet XR", "SITAR PLUS"] },
+  { "596": ["Cilaril", "Cilazapril Teva"] },
+  { "597": ["Simvacor", "Simvastatin-Teva", "Simovil", "Simvaxon"] },
+  { "598": ["Symdeko"] },
+  { "599": [] },
+  { "600": ["Gazim X", "Tiptipot Simicol", "Simicol tablets"] },
+  { "601": ["CINACALCET TEVA", "CINACALCET TRIMA", "CINACALCET TARO"] },
+  { "602": ["Stunarone"] },
+  { "603": ["Rapamune"] },
+  { "604": ["Selgin"] },
+  { "605": ["Sebosel", "Selsun"] },
+  { "606": ["Celcox", "Celebra"] },
+  { "607": ["OZEMPIC", "RYBELSUS"] },
+  { "608": ["Bekunis", "Laxikal Forte"] },
+  { "609": ["Aldactone", "Spironolactone Teva"] },
+  { "610": ["Scopolamine HBr"] },
+  { "611": ["Cosentyx"] },
+  {
+    "612": [
+      "Seroquel",
+      "Quetiapine Teva",
+      "QUETIAPINE INOVAMED",
+      "Seroquel XR",
+      "QUETIAPINE SANDOZ"
+    ]
+  },
+  { "613": ["Serdolect"] },
+  { "614": [] },
+  { "615": ["Invega", "Xeplion", "TREVICTA"] },
+  { "616": ["Aredia"] },
+  { "617": [] },
+  { "618": ["Controloc", "Pantoavenir", "Pantoprazole Teva", "Ulceron"] },
+  { "619": ["Creon"] },
+  { "620": ["Ebetaxel", "Pacliavenir", "Paclitaxel Teva", "Abraxane"] },
+  { "621": ["Leshcutan"] },
+  { "622": ["Seroxat", "Paroxetine Pfizer", "Paxxet", "Parotin"] },
+  { "623": ["Zemplar", "PARICALCITOL INOVAMED", "PARKAL"] },
+  { "624": ["Muscol"] },
+  { "625": ["Somavert"] },
+  { "626": ["Neulastim", "PEGIL", "FULPHILA"] },
+  {
+    "627": [
+      "Iodo-vit solution",
+      "Polydine tincture",
+      "Polydine vaginal pessaries",
+      "Iodiflor soap cleanser",
+      "Polydine ointment",
+      "Polysept ointment",
+      "Iodispray",
+      "Iodo-vit ointment",
+      "Iodiflor solution",
+      "Polydine cleanser",
+      "Polydine solution",
+      "Polysept solution",
+      "Polyskin solution",
+      "Iodo-vit Veterinary ointment",
+      "Iodo-vit Veterinary solution",
+      "Iodicare ointment",
+      "Iodicare solution",
+      "Polyskin spray (life)",
+      "Polysept vaginal douche",
+      "Iodiflor ointment",
+      "Polyskin ointment (life)",
+      "BETADINE TOPICAL SPRAY",
+      "BETADINE GARGLE",
+      "V-CRIMA"
+    ]
+  },
+  { "628": ["Condylox"] },
+  {
+    "629": [
+      "Faslodex",
+      "FULVESTRANT TEVA",
+      "FULVESTRANT",
+      "FULVESTRANT SANDOZ",
+      "FULVENIR"
+    ]
+  },
+  { "630": ["NORMALAX", "NORMALAX KIDS", "PEGLAX", "REGULAX"] },
+  { "631": ["Aethoxysklerol"] },
+  {
+    "632": [
+      "Gonal F",
+      "Puregon",
+      "PERGOVERIS",
+      "ELONVA",
+      "OVALEAP",
+      "REKOVELLE"
+    ]
+  },
+  { "633": ["Polymixingal veterinary", "Vi-polyxin veterinary"] },
+  { "634": ["Prevenar"] },
+  { "635": ["Iclusig"] },
+  { "636": ["Lexiva"] },
+  { "637": ["Noxafil"] },
+  { "638": ["Postinor", "norlevo"] },
+  { "639": [] },
+  { "640": ["Monurol"] },
+  { "641": ["Fusid", "Furovenir", "Furosemide-Fresenius"] },
+  { "642": [] },
+  { "643": ["Foradil", "Oxis Turbuhaler"] },
+  { "644": ["NORIT"] },
+  { "645": ["Neupogen", "TEVAGRASTIM"] },
+  { "646": ["Pillocarpine", "Salagen", "Salvakal"] },
+  { "647": ["Orap forte"] },
+  { "648": ["Elidel"] },
+  {
+    "649": [
+      "Propecia",
+      "Pro-cure",
+      "Proavenir",
+      "Finasteride Inovamed",
+      "Finasteride Teva"
+    ]
+  },
+  { "650": ["FINOLIM", "GILENYA", "FINGOLIMOD TEVA"] },
+  { "651": ["Pinden"] },
+  { "652": [] },
+  { "653": [] },
+  { "654": [] },
+  { "655": [] },
+  { "656": ["Exipan", "Feldene Gel", "Brexin"] },
+  { "657": ["Mestinon", "Pyridostigmine"] },
+  { "658": ["Daraprim"] },
+  { "659": [] },
+  { "660": ["Dermalar", "Derma scalp oil"] },
+  { "661": ["Flutine", "Prizma", "Prizma Forte", "Prozac"] },
+  { "662": ["Fluorouracil", "Efudix"] },
+  { "663": ["FML Liquifilm"] },
+  { "664": ["Favoxil", "Fluvoxamine Teva"] },
+  { "665": ["Lescol"] },
+  { "666": ["Penedil"] },
+  { "667": ["Fludara", "Fludarabine"] },
+  { "668": [] },
+  {
+    "669": [
+      "Allegro",
+      "Flixonase",
+      "Flixotide Inhaler CFC Free",
+      "Flixotide Nebules",
+      "Flixotide Diskus",
+      "Avamys",
+      "FLIXERGY"
+    ]
+  },
+  { "670": [] },
+  { "671": ["Paloxi", "Palonosetron Teva", ".PALONOSETRON S.K"] },
+  { "672": ["Hypnodorm"] },
+  { "673": ["Fludecate"] },
+  { "674": ["Fluanxol", "Fluanxol Depot"] },
+  {
+    "675": [
+      "Diflucan",
+      "Flucanol",
+      "Fluconazole 150",
+      "Trican",
+      "Triflucan",
+      "Fluconazole Teva",
+      "Fluco-Avenir",
+      "Stabilanol"
+    ]
+  },
+  { "676": ["synagis"] },
+  { "677": ["Tambocor"] },
+  { "678": ["KEYTRUDA"] },
+  { "679": ["Famo", "Famotidine-Teva", "Gastro"] },
+  { "680": [] },
+  {
+    "681": [
+      "Alimta",
+      "PEMETREXED TEVA",
+      ".PEMETREXED S.K",
+      "PEMETREXED SANDOZ",
+      "PEMETREXED TARO"
+    ]
+  },
+  { "682": ["Sedural"] },
+  { "683": ["Phenobarbitone"] },
+  { "684": ["Easylax"] },
+  { "685": ["Dibenyline"] },
+  { "686": ["Oxopurin 400 SR"] },
+  {
+    "687": [
+      "Actiq",
+      "Fenta",
+      "Abstral",
+      "PecFent",
+      "Fentora",
+      "Fentanyl Panpharma",
+      "Fenta SL",
+      "FENTADOL",
+      "FENTANYL – KALCEKS"
+    ]
+  },
+  { "688": ["Razin"] },
+  { "689": ["Dilantin", "Epanutin"] },
+  { "690": ["Efrin 10", "PHENYLEPHRINE SINTETICA"] },
+  { "691": [] },
+  { "692": [] },
+  { "693": ["PEN-RAFA VK 500", "PEN-RAFA VK FORTE", "PENICILLIN G SODIUM"] },
+  { "694": ["Nardil"] },
+  { "695": [] },
+  { "696": [] },
+  { "697": ["ENCYPALMED"] },
+  {
+    "698": [
+      "Sinufed",
+      "Tiptipot Afalpi",
+      "Afalpi",
+      "Kalsinus",
+      "Histafed",
+      "Histafed Syrup",
+      "Histafed"
+    ]
+  },
+  { "699": ["Konsyl Easy Mix", "Konsyl Orange"] },
+  { "700": ["Papaverine", "Papaverine Hydrochloride"] },
+  { "701": [] },
+  { "702": ["Telfast", "FEXOFENADINE - TRIMA 180 MG"] },
+  { "703": ["PAXLOVID"] },
+  { "704": ["Pravastatin-Teva", "Pravalip", "Stavenir"] },
+  { "705": ["Hypotens"] },
+  { "706": [] },
+  { "707": ["COD-ACAMOL 15/325"] },
+  { "708": [] },
+  { "709": ["Pred Forte", "Danalone"] },
+  { "710": ["Aflumycin"] },
+  { "711": ["Prednisone", "Lodotra"] },
+  { "712": [] },
+  { "713": ["Endometrin", "Utrogestan", "Gestone", "Crinone 8%"] },
+  { "714": ["Promethazine", "Prothiazine"] },
+  { "715": ["Profex", "Rythmex"] },
+  { "716": [] },
+  { "717": ["Propyl-Thiocil"] },
+  { "718": ["Propecia", "FINASTERIDE TEVA", "PROAVENIR"] },
+  { "719": ["Deralin", "Prolol", "Slow Deralin", "HEMANGIOL"] },
+  { "720": ["Kemadrin"] },
+  { "721": [] },
+  { "722": ["PERJETA"] },
+  {
+    "723": [
+      "Lyrica",
+      "pregabalin",
+      "PREGABALIN TARO",
+      "PREGABALIN INOVAMED",
+      "PREGABALIN TEVA",
+      "PREGABALIN DEXCEL"
+    ]
+  },
+  { "724": ["Primolut-Nor"] },
+  { "725": ["Prysoline"] },
+  { "726": ["Sifrol", "Pramipexole Inovamed", "Pramipexole Teva", "Trimexol"] },
+  { "727": ["Lyclear"] },
+  { "728": ["Prenatal"] },
+  { "729": ["EFFIENT", "PRASUGREL TEVA"] },
+  { "730": ["EMTRIVIR TEVA", "TRUVADA"] },
+  { "731": ["Perphenan"] },
+  {
+    "732": [
+      "Abrol",
+      "Abrolet",
+      "Acamol",
+      "Dexamol",
+      "Dexamol Kid",
+      "Panadol",
+      "Paramol",
+      "Paramol Kat",
+      "Supramol 500",
+      "Maccabimol kid",
+      "Tiptipot Novimol",
+      "Acamoli Baby Suppositories",
+      "Acamoli Suppositories",
+      "Acamoli Syrup for Big Kids",
+      "Avcamoli for big kids",
+      "Apotel",
+      "Avcamol",
+      "Maccabimol",
+      "Maccabimol kid forte",
+      "Supramol \"M\" pediatric suppositories",
+      "Acamoli Forte Suppositories",
+      "Acamoli Syrup",
+      "Dexamol kid syrup",
+      "Broncholate Plus",
+      "Dexamolcold Day Care",
+      "PARAMOL AF & SHIUL DAY CARE",
+      "PARAMOL PLUS",
+      "Broncholate Plus",
+      "Dexamolcold Day Care",
+      "PARAMOL AF & SHIUL DAY CARE"
+    ]
+  },
+  { "733": ["Dolestine"] },
+  { "734": ["Dermacol", "Dermasilk", "Cetomacrogol"] },
+  { "735": ["Erbitux"] },
+  { "736": ["Histazine", "Zyllergy", "Allergy-Care", "Allergone"] },
+  { "737": ["Cetrotide"] },
+  { "738": ["Cetrimide shampoo", "CETRIMIDE SHAMPOO VITAMED"] },
+  {
+    "739": [
+      "SAVIOR",
+      "SAVIOR FIRST AID SOLUTION",
+      "SAVIOR HOSPITAL CONCENTRATED SOLUTION"
+    ]
+  },
+  { "740": ["BEDODEKA", "VITAMINE B12 STEROP"] },
+  { "741": ["Cipramil", "Recital", "Citalopram Teva"] },
+  { "742": ["Prepulsid"] },
+  { "743": ["Abiplatin"] },
+  { "744": ["Androcur"] },
+  { "745": ["Lipanor"] },
+  {
+    "746": [
+      "Ciloxan",
+      "Ciprodex",
+      "Ciprofloxacin-Teva",
+      "Giroflox",
+      "NAFLOXIN",
+      "CIPROFLOXACIN I.V ALTAN"
+    ]
+  },
+  { "747": ["Cipralex"] },
+  {
+    "748": [
+      "Deximune",
+      "Sandimmun concentrate for infusion",
+      "Sandimmun Neoral",
+      "Restasis",
+      "CEQUA"
+    ]
+  },
+  { "749": ["Cycloserine"] },
+  { "750": ["Endoxan"] },
+  {
+    "751": [
+      "Batrafen nail Lacquer",
+      "Cicloderm",
+      "Ciclopoli 8%",
+      "Funginail",
+      "Myconail",
+      "Mycoster nail lacquer"
+    ]
+  },
+  {
+    "752": [
+      "Cefazolin - Fresenius",
+      "Pan-Cefazolin",
+      "CEFAZOLIN -VIT",
+      "CEFAZOLIN MEDO"
+    ]
+  },
+  { "753": [] },
+  { "754": ["Ceftriaxone-Fresenius", "Pan-ceftriaxone", "Rocephin"] },
+  { "755": [] },
+  { "756": ["Ceforal", "Cefovit", "Cefovit forte"] },
+  { "757": ["Jevtana"] },
+  { "758": ["Dostinex", "Cabotrim"] },
+  { "759": ["Miacalcic", "Salco 100 IU"] },
+  { "760": ["ILARIS"] },
+  { "761": ["Atacand", "Candor"] },
+  { "762": ["Aceril"] },
+  { "763": ["Xeloda", "Capecitabine Teva", "Capecitabine Inovamed"] },
+  { "764": ["Tegretol", "Tegretol CR", "Teril", "Teril CR", "Timonil Retard"] },
+  { "765": ["Hafif 10 Lotion"] },
+  { "766": ["Carvedexxon", "Dimitone", "Carvedilol-Teva"] },
+  { "767": ["Dopicar", "Sinemet CR", "Duodopa"] },
+  { "768": ["Codical", "Rekod"] },
+  { "769": ["cimidona"] },
+  { "770": ["Diseptyl", "Resprim", "Septrin for infusion", "Diseptyl forte"] },
+  { "771": ["COLDEX"] },
+  { "772": ["Coliracin"] },
+  { "773": ["Colchicine"] },
+  { "774": ["Colestid"] },
+  { "775": ["Zaditen opthalmic solution", "Profiten"] },
+  {
+    "776": [
+      "Ketozol Shampoo",
+      "Nizoral cream",
+      "Nizoral shampoo",
+      "KETOCONAZOLE HRA"
+    ]
+  },
+  {
+    "777": [
+      "Ketalar",
+      "Ketamine",
+      "KETAMINE PANPHARMA",
+      "Ketaset veterinary",
+      "Clorketam solution for injection veteri",
+      "Ketamine 10 % injection veterinary"
+    ]
+  },
+  { "778": ["Kyprolis"] },
+  { "779": ["Litak 10", "MAVENCLAD"] },
+  { "780": ["Frisium"] },
+  { "781": ["Dermovate", "Clobetasol propionate - Trima"] },
+  { "782": ["Eumovate"] },
+  { "783": ["Bonefos"] },
+  { "784": ["Leponex", "Lozapine"] },
+  { "785": ["Entumin"] },
+  {
+    "786": [
+      "Agisten",
+      "Agisten Baby",
+      "Clotrimadrem",
+      "Clotrimazole 1% cream",
+      "Oralten",
+      "Agisten V",
+      "Fungicare",
+      "Clothree",
+      "Canesten",
+      "Canesten V",
+      "Agisten combi",
+      "FUNGIVERA CREAM"
+    ]
+  },
+  { "787": ["POLYCUTAN", "TEVACUTAN"] },
+  { "788": ["Ikaclomin"] },
+  { "789": ["Anafranil", ".Anafranil s.r", "Maronil", "Maronil SR"] },
+  { "790": ["Clonex", "Rivotril"] },
+  { "791": ["Clonnirit", "Normopresan"] },
+  { "792": ["CLOFARABINE S.K", "Evoltra"] },
+  { "793": ["Plavix", "Clopidogrel Teva", "Clood", "Clopidexcel"] },
+  { "794": ["Loxavit Forte", "Orbenil"] },
+  { "795": ["Tranxal"] },
+  {
+    "796": [
+      "Clindamycin Injection",
+      "Dalacin C",
+      "Dalacin vaginal ovules",
+      "Zindaclin",
+      "CALINDA"
+    ]
+  },
+  { "797": ["Calmanervin"] },
+  {
+    "798": [
+      "Tums EX sugar free",
+      "N-zarevet",
+      "Tums ultra assorted berries",
+      "Tums smoothies EX assorted tropical fruit",
+      "Calcimore",
+      "Tums assorted fruit flavour",
+      "Tums smoothies EX peppermint",
+      "Tums regular strength peppermint",
+      "Tums ultra spearmint",
+      "Tzarevet X melon flavour",
+      "Tzarevet X mint flavour",
+      "Gaviscon"
+    ]
+  },
+  { "799": ["Daivonex", "Daivonex scalp solution"] },
+  { "800": ["Karin", "Klacid", "Klaridex"] },
+  { "801": ["Sativex"] },
+  {
+    "802": [
+      "Af-Care",
+      "Xylovit 0.05%",
+      "Otrivine",
+      "Otrivine Kids",
+      "Otrivine Menthol",
+      "Otrivine Nasal Gel",
+      "Xylovit 0.1%",
+      "Af-Care Children",
+      "LINEX",
+      "Xylo-Pos"
+    ]
+  },
+  { "803": ["Cancidas"] },
+  { "804": ["Invega", "Xeplion", "TREVICTA"] },
+  { "805": ["Rokacet", "ROKACET PLUS"] },
+  { "806": ["Zostrix", "Zostrix-HP", "QUTENZA"] },
+  { "807": ["Viscotears"] },
+  { "808": ["Carboplatin"] },
+  { "809": ["Mucolit", "Mical", "Tiptipot Mucolit"] },
+  { "810": ["Eurax"] },
+  { "811": ["STAQUIS"] },
+  { "812": ["Evista", "Raloxifene Teva"] },
+  { "813": ["Isentress"] },
+  { "814": ["Zaridex", "Zantac"] },
+  { "815": ["Edronax"] },
+  { "816": ["Crestor", "Rosuvastatin Teva", "Stator", "ROSUVASTATIN SANDOZ"] },
+  { "817": ["EVENITY"] },
+  { "818": ["Nplate"] },
+  { "819": [] },
+  { "820": ["Requip Modutab"] },
+  { "821": [] },
+  { "822": ["Roxo", "Rulid"] },
+  { "823": ["Rebetol", "Copegus"] },
+  {
+    "824": [
+      "Exelon",
+      "Exelon Patch",
+      "Rivastigmine Dexcel",
+      "Rivastigmine Inovamed"
+    ]
+  },
+  { "825": ["KISQALI"] },
+  { "826": ["Xarelto", "RIVAROXABAN TARO", "RIVAR TEVA"] },
+  { "827": ["Rizalt", "RIZATRIPTAN INOVAMED"] },
+  { "828": ["Ribone", "Risedronate Teva", "Actonel once a month"] },
+  { "829": [] },
+  { "830": ["Norvir"] },
+  { "831": ["Kaletra"] },
+  { "832": ["Mabthera", "TRUXIMA", "RIXATHON", "RUXIENCE"] },
+  { "833": ["Rilutek"] },
+  { "834": ["Acomplia"] },
+  { "835": ["Risperdal", "Risperdal Consta", "Risperidex", "Rispond"] },
+  { "836": ["Mycobutin"] },
+  { "837": [] },
+  { "838": ["VEKLURY"] },
+  { "839": ["Tritace", "Ramitens", "Ramipril-Teva"] },
+  { "840": ["Lucentis"] },
+  {
+    "841": [
+      "Azilect",
+      "RASAGILINE INOVAMED",
+      "RASAGILINE – TRIMA",
+      "RASAGILINE SANDOZ"
+    ]
+  },
+  { "842": ["Cinqair"] },
+  { "843": ["NovoNorm", "Repaglinide Teva"] },
+  { "844": ["RECTOZORIN OINTMENT", "RECTOZORIN SUPPOSITORIES"] },
+  { "845": ["Liquid Parrafin", "Liquid Parrafin"] },
+  { "846": ["Theotard", "Theotrim"] },
+  { "847": ["Ridazin"] },
+  { "848": ["Thyrogen"] },
+  { "849": ["Thalidomide celgene"] },
+  { "850": ["Viru-merz gel"] },
+  { "851": ["Spasmex", "Spasmo-Lyt", "TROSMOLYT", "TROSPAS"] }
+]
