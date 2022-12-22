@@ -18,11 +18,7 @@ const DrugsItemsCard = (props) => {
             </div>
 
             <div>
-                <button
-                    className={'closeButton'}
-                    style={{ margin: '0 auto', display: 'block' }}
-                    onClick={props.onClose}
-                >
+                <button className={'closeButton'} onClick={props.onClose}>
                     Close
                 </button>
             </div>

@@ -1,36 +1,32 @@
 import mongoose from 'mongoose';
 const { Schema } = mongoose;
 const drugSchema = new Schema({
-    name: {
+    hebName: {
         type: String,
         required: true,
     },
-    activeIngredient: {
+    engName: {
         type: String,
         required: true,
     },
-    indication: {
+    link: {
         type: String,
         required: true,
     },
-    dosage: {
-        type: String,
+    altNames: {
+        type: Array,
         required: true,
     },
-    pregnancyCategory: {
-        type: String,
+    goodFor: {
+        type: Array,
         required: true,
     },
-    manufacturer: {
-        type: String,
-        required: true,
-    },
-    approvedBy: {
+    description: {
         type: String,
         required: true,
     },
 });
 
-const Drug = mongoose.model('Drug', drugSchema);
+const Meds = mongoose.model('Meds', drugSchema);
 
-export { drugSchema, Drug };
+export { drugSchema, Meds as Drug };
